@@ -732,3 +732,82 @@ ga_view_zoom_set( 53.070896 )
 ga_view_center_set( 12.502325, -78.155060 )
 ga_view_zoom_set( 47.174129 )
 ga_view_center_set( -5.895588, -97.968178 )
+$# Appending to existing journal file C:\Users\diego\Dropbox\Academic\MEng 
+$# Space Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 26-Nov-21 00:13:42
+$# Synchronizing the User Data Manager
+$# Error reported from application UserDataManager
+$#     The amount of instance data fails to match the template for ud_region
+$? NO 1000020000 
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+ga_view_center_set( -16.332695, 52.358330 )
+ga_view_zoom_set( 36.882118 )
+ga_view_center_set( -18.062458, 52.105019 )
+ga_view_zoom_set( 41.492382 )
+ga_view_center_set( -20.008423, 51.820045 )
+ga_view_zoom_set( 46.678928 )
+ga_view_center_set( -22.179323, 51.499443 )
+ga_view_zoom_set( 52.513794 )
+ga_view_center_set( -24.621586, 51.138775 )
+ga_view_zoom_set( 59.078018 )
+ga_view_center_set( -26.905413, 50.083801 )
+ga_view_zoom_set( 66.462769 )
+ga_view_center_set( -29.422518, 48.870895 )
+ga_view_zoom_set( 74.770615 )
+ga_view_center_set( -32.136917, 47.359634 )
+ga_view_zoom_set( 84.116943 )
+ga_view_center_set( -30.038757, 54.446434 )
+ga_view_zoom_set( 74.770615 )
+ga_view_center_set( -28.173752, 60.745804 )
+ga_view_zoom_set( 66.462769 )
+ga_view_center_set( -26.469576, 66.368423 )
+ga_view_zoom_set( 59.078018 )
+ga_view_center_set( -24.995989, 72.046432 )
+ga_view_zoom_set( 52.513794 )
+ga_view_center_set( -23.686113, 77.093544 )
+ga_view_zoom_set( 46.678928 )
+ga_view_center_set( -22.521799, 81.579865 )
+ga_view_zoom_set( 41.492382 )
+ga_view_center_set( -20.658876, 88.757980 )
+ga_view_zoom_set( 33.193905 )
+ga_view_center_set( -19.830910, 91.959831 )
+ga_view_zoom_set( 29.505693 )
+ga_view_center_set( -19.094933, 94.805931 )
+ga_view_zoom_set( 26.227283 )
+ga_view_center_set( -17.917381, 99.359680 )
+ga_view_zoom_set( 20.981827 )
+$# UNDO: Edit Surface Break for Surface 100.2
+STRING sgm_surface_break_c_created_ids[VIRTUAL]
+sgm_edit_surface_break_v1( "107", "Surface 60", TRUE, 3, 0, 0., "", "",  @
+"Surface 100.4", sgm_surface_break_c_created_ids )
+$# Warning reported from application SGM
+$#     Unable to break Surface 60 with Surface 100.4
+$# No Geometry Created.
+$# UNDO:
+sgm_edit_surface_break_v1( "107", "Surface 102", TRUE, 3, 0, 0., "", "",  @
+"Surface 60.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 107,108
+sgm_edit_surface_break_v1( "109", "Surface 100", TRUE, 3, 0, 0., "", "",  @
+"Surface 60.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 109,110
+sgm_verify_surface_duplicates( TRUE, TRUE )
+$# 2 Duplicate Surfaces: Surfaces 63,66
+$# 2 Surfaces Deleted: Surfaces 66,69
+repaint_graphics(  )
+sgm_verify_surface_duplicates( TRUE, TRUE )
+$# No Duplicate Surfaces.
+repaint_graphics(  )
+sgm_verify_surface_duplicates( FALSE, FALSE )
+$# No Duplicate Surfaces.
+gm_hilight_clear(  )
