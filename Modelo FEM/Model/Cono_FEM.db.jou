@@ -474,3 +474,123 @@ ga_view_zoom_set( 143.538879 )
 uil_primary_file.db_save(  )
 uil_primary_file.db_save(  )
 uil_primary_file.db_save(  )
+$# Appending to existing journal file C:\Users\diego\Dropbox\Academic\MEng 
+$# Space Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 25-Nov-21 23:51:49
+$# Synchronizing the User Data Manager
+$# Error reported from application UserDataManager
+$#     The amount of instance data fails to match the template for ud_region
+$? NO 1000020000 
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+ga_view_center_set( 5.384172, 15.416473 )
+ga_view_zoom_set( 127.590118 )
+ga_view_center_set( 1.534014, 24.964058 )
+ga_view_zoom_set( 113.413437 )
+ga_view_center_set( -1.927916, 33.450790 )
+ga_view_zoom_set( 100.811943 )
+ga_view_center_set( -5.005201, 40.994514 )
+ga_view_zoom_set( 89.610619 )
+ga_view_center_set( -7.771818, 47.762581 )
+ga_view_zoom_set( 79.653885 )
+ga_view_center_set( -10.314390, 53.889824 )
+ga_view_zoom_set( 70.803452 )
+ga_view_center_set( -12.549770, 60.299561 )
+ga_view_zoom_set( 62.936401 )
+ga_view_center_set( -14.536776, 65.997101 )
+ga_view_zoom_set( 55.943466 )
+ga_view_center_set( -16.302994, 71.061584 )
+ga_view_zoom_set( 49.727524 )
+ga_view_center_set( -17.872953, 75.563347 )
+ga_view_zoom_set( 44.202244 )
+ga_view_center_set( -18.111959, 79.965851 )
+ga_view_zoom_set( 39.290882 )
+ga_view_center_set( -18.255880, 83.865471 )
+ga_view_zoom_set( 34.925228 )
+ga_view_center_set( -13.366343, 103.423584 )
+ga_view_center_set( -13.433353, 105.403465 )
+ga_view_zoom_set( 31.044647 )
+ga_view_center_set( -13.503735, 107.141708 )
+ga_view_zoom_set( 27.595242 )
+STRING sgm_surface_break_c_created_ids[VIRTUAL]
+sgm_edit_surface_break_v1( "55", "Surface 33", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 55,56
+sgm_edit_surface_break_v1( "57", "Surface 1", TRUE, 3, 0, 0., "", "",  @
+"Surface 56.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 57,58
+ga_view_center_set( -1.301077, 14.579285 )
+ga_view_zoom_set( 143.151855 )
+ga_view_center_set( -2.574516, 27.338882 )
+ga_view_zoom_set( 127.246094 )
+ga_view_center_set( -3.706507, 38.680695 )
+ga_view_zoom_set( 113.107635 )
+ga_view_center_set( -4.712704, 48.762352 )
+ga_view_zoom_set( 100.540123 )
+ga_view_center_set( -5.607100, 57.723793 )
+ga_view_zoom_set( 89.368996 )
+ga_view_center_set( -8.553312, 70.771393 )
+ga_view_zoom_set( 71.495193 )
+ga_view_center_set( -9.962507, 76.495506 )
+ga_view_zoom_set( 63.551285 )
+ga_view_center_set( -11.237303, 81.583595 )
+ga_view_zoom_set( 56.490032 )
+ga_view_center_set( -12.370451, 86.106346 )
+ga_view_zoom_set( 50.213364 )
+ga_view_center_set( -14.008322, 89.881340 )
+ga_view_zoom_set( 44.634102 )
+ga_view_center_set( -15.495352, 93.205750 )
+ga_view_zoom_set( 39.674759 )
+ga_view_center_set( -16.858679, 96.133072 )
+ga_view_zoom_set( 35.266453 )
+ga_view_center_set( -19.833197, 102.519997 )
+ga_view_zoom_set( 25.648329 )
+sgm_edit_surface_break_v1( "59", "Surface 55", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 59,60
+sgm_edit_surface_break_v1( "61", "Surface 12", TRUE, 3, 0, 0., "", "",  @
+"Surface 59.3", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 61,62
+ga_view_center_set( 2.919636, 13.977821 )
+ga_view_zoom_set( 139.531494 )
+ga_view_center_set( 5.426439, 26.268661 )
+ga_view_zoom_set( 124.027992 )
+ga_view_center_set( 7.654770, 37.193855 )
+ga_view_zoom_set( 110.247101 )
+ga_view_center_set( 11.220057, 54.674171 )
+ga_view_zoom_set( 88.197678 )
+ga_view_center_set( 12.804615, 62.443199 )
+ga_view_zoom_set( 78.397934 )
+ga_view_center_set( 8.688480, 70.306252 )
+ga_view_zoom_set( 69.687050 )
+ga_view_center_set( 4.932446, 77.271286 )
+ga_view_zoom_set( 61.944046 )
+ga_view_center_set( -1.310575, 88.298683 )
+ga_view_zoom_set( 49.555237 )
+ga_view_center_set( -4.085251, 93.199760 )
+ga_view_zoom_set( 44.049099 )
+ga_view_center_set( -7.396805, 96.757217 )
+ga_view_zoom_set( 39.154755 )
+ga_view_center_set( -10.285767, 99.823769 )
+ga_view_zoom_set( 34.804226 )
+ga_view_center_set( -12.720188, 102.440308 )
+ga_view_zoom_set( 30.937090 )
+ga_view_center_set( -15.197094, 106.296516 )
+ga_view_zoom_set( 24.749672 )
+uil_primary_file.db_save(  )
