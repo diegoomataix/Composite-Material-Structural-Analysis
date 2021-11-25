@@ -1,0 +1,476 @@
+$# Creating journal file C:\Users\diego\Dropbox\Academic\MEng Space 
+$# Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 25-Nov-21 21:06:20
+uil_file_rebuild.start("C:\Program Files\MSC.Software\NaPa_SE\2020\Patran/" // @
+"template.db","C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE -" // @
+" Materiales uso Espacial\Coursework\Modelo FEM\Model\Cono_FEM.db")
+$# Synchronizing the User Data Manager
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+db_set_pref( 303, 3, 0, FALSE, 4.9999999E-06, "" )
+$# Checking for Patran 2020  (Student Edition) module license...
+$# Warning reported from application FILE
+$#     Import/Export of STEP using non-Parasolid method is a deprecated 
+$# feature and may be removed in future release.  The preferred method is to 
+$# use the "Import to Parasolid" method.
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\V_Stiffeners.stp" )
+$# Loading dynamic library C:\Program 
+$# Files\MSC.Software\NaPa_SE\2020\Patran\bin\exe\callap203import.dll
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+INTEGER uil_file_import_s_express_count(64,2)
+p3_express_import( "express.opt", "V_Stiffeners.exp", FALSE, TRUE, FALSE,  @
+TRUE, uil_file_import_s_express_count )
+$# The Global Model Tolerance has been changed from 5E-06 to the newly 
+$# calculated Global Model Tolerance of 0.005.
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\V_Stiffeners.stp" )
+uil_toolbar.model_center(  )
+$# UNDO: STEP AP203 Model Import: C:\Users\diego\Pictures\.stp\H_Stiffeners.stp
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_1.stp" )
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+p3_express_import( "express.opt", "H_Stiffeners_1.exp", FALSE, TRUE, FALSE,  @
+TRUE, uil_file_import_s_express_count )
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_1.stp" )
+uil_toolbar.model_center(  )
+ga_view_aa_set( -44.099422, -5.708309, -1.299300 )
+ga_view_center_set( 17.348198, -70.969894 )
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_2.stp" )
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+p3_express_import( "express.opt", "H_Stiffeners_2.exp", FALSE, TRUE, FALSE,  @
+TRUE, uil_file_import_s_express_count )
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_2.stp" )
+uil_toolbar.model_center(  )
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_3.stp" )
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+p3_express_import( "express.opt", "H_Stiffeners_3.exp", FALSE, TRUE, FALSE,  @
+TRUE, uil_file_import_s_express_count )
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_3.stp" )
+uil_toolbar.model_center(  )
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_4.stp" )
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+p3_express_import( "express.opt", "H_Stiffeners_4.exp", FALSE, TRUE, FALSE,  @
+TRUE, uil_file_import_s_express_count )
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_4.stp" )
+uil_toolbar.model_center(  )
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\Heli_Stiffeners_1.stp" )
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+p3_express_import( "express.opt", "Heli_Stiffeners_1.exp", FALSE, TRUE, FALSE, @
+ TRUE, uil_file_import_s_express_count )
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\Heli_Stiffeners_1.stp" )
+uil_toolbar.model_center(  )
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\Heli_Stiffeners_2.stp" )
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+p3_express_import( "express.opt", "Heli_Stiffeners_2.exp", FALSE, TRUE, FALSE, @
+ TRUE, uil_file_import_s_express_count )
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\Heli_Stiffeners_2.stp" )
+uil_toolbar.model_center(  )
+ga_view_aa_set( -42.962967, 4.303267, 13.320734 )
+$# UNDO: Transform Point Rotate Command [0 0 0]
+uil_toolbar.shaded_smooth(  )
+$# UNDO: Transform Surface Rotate for Surface 1
+STRING sgm_transform_surf__created_ids[VIRTUAL]
+sgm_transform_rotate( "12", "surface", "Coord 0.3", 30., 0., "Coord 0", 1,  @
+FALSE, "Surface 1", sgm_transform_surf__created_ids )
+$# 1 Surface Created: Surface 12
+ga_view_center_set( 14.044662, -42.064308 )
+ga_view_zoom_set( 192.863129 )
+ga_view_center_set( 28.207397, -51.517380 )
+ga_view_zoom_set( 171.433899 )
+sgm_transform_rotate( "13", "surface", "Coord 0.3", -30., 0., "Coord 0", 2,  @
+FALSE, "Surface 10", sgm_transform_surf__created_ids )
+$# 2 Surfaces Created: Surfaces 13,14
+sgm_transform_rotate( "15", "surface", "Coord 0.3", -30., 0., "Coord 0", 2,  @
+FALSE, "Surface 11", sgm_transform_surf__created_ids )
+$# 2 Surfaces Created: Surfaces 15,16
+ga_view_center_set( 3.567528, -39.490776 )
+ga_view_zoom_set( 192.863129 )
+ga_view_center_set( 8.445396, -46.656288 )
+ga_view_zoom_set( 171.433899 )
+ga_view_center_set( 12.781364, -53.025627 )
+ga_view_zoom_set( 152.385681 )
+ga_view_center_set( 12.990688, -63.880432 )
+ga_view_zoom_set( 171.433899 )
+ga_view_center_set( 13.226192, -76.361183 )
+ga_view_zoom_set( 192.863129 )
+ga_view_center_set( 13.718138, -93.354019 )
+ga_view_zoom_set( 216.971024 )
+ga_view_center_set( 14.271606, -112.471001 )
+ga_view_zoom_set( 244.092407 )
+ga_view_center_set( 14.894350, -133.977585 )
+ga_view_zoom_set( 274.603943 )
+STRING asm_delete_any_deleted_ids[VIRTUAL]
+asm_delete_surface( "Surface 9 6 4 3", asm_delete_any_deleted_ids )
+$# 4 Surfaces Deleted: Surface 3 4 6 9
+ga_view_center_set( 22.606020, -130.481003 )
+ga_view_zoom_set( 244.092392 )
+ga_view_center_set( 29.460939, -127.372879 )
+ga_view_zoom_set( 216.971008 )
+ga_view_center_set( 22.606020, -130.480942 )
+ga_view_zoom_set( 244.092377 )
+ga_view_center_set( 14.894350, -133.977554 )
+ga_view_zoom_set( 274.603912 )
+ga_view_aa_set( -1.993280, -23.530342, -13.792525 )
+ga_view_aa_set( -38.258568, -0.381845, -8.470884 )
+ga_view_center_set( 17.432978, -110.076042 )
+ga_view_zoom_set( 244.092361 )
+ga_view_center_set( 19.689501, -88.830292 )
+ga_view_zoom_set( 216.970993 )
+ga_view_center_set( 21.695292, -69.945137 )
+ga_view_zoom_set( 192.863098 )
+ga_view_center_set( 23.343691, -53.158356 )
+ga_view_zoom_set( 171.433868 )
+ga_view_center_set( 24.629507, -38.236794 )
+ga_view_zoom_set( 152.385666 )
+ga_view_center_set( 25.772444, -24.973160 )
+ga_view_zoom_set( 135.453918 )
+ga_view_center_set( 25.890537, -14.270134 )
+ga_view_zoom_set( 120.403481 )
+ga_view_center_set( 25.617519, -5.428398 )
+ga_view_zoom_set( 107.025314 )
+ga_view_center_set( 24.964117, 1.833542 )
+ga_view_zoom_set( 95.133614 )
+ga_view_center_set( 24.217375, 8.056259 )
+ga_view_zoom_set( 84.563210 )
+ga_view_center_set( 23.642113, 12.614067 )
+ga_view_zoom_set( 75.167297 )
+ga_view_center_set( 22.957674, 19.481770 )
+ga_view_zoom_set( 60.133839 )
+ga_view_center_set( 22.758373, 22.387207 )
+ga_view_zoom_set( 53.452301 )
+STRING sgm_surface_break_c_created_ids[VIRTUAL]
+sgm_edit_surface_break_v1( "17", "Surface 8", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 17,18
+ga_view_aa_set( -39.258568, -0.381845, -8.470885 )
+sgm_edit_surface_break_v1( "19", "Surface 13", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 19,20
+sgm_edit_surface_break_v1( "21", "Surface 7", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 21,22
+sgm_edit_surface_break_v1( "23", "Surface 11", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 23,24
+ga_view_center_set( 7.826233, -38.348236 )
+ga_view_zoom_set( 187.483276 )
+ga_view_center_set( 12.044792, -45.640884 )
+ga_view_zoom_set( 166.651794 )
+ga_view_center_set( 15.794724, -52.123238 )
+ga_view_zoom_set( 148.134933 )
+ga_view_center_set( 17.629223, -57.781982 )
+ga_view_zoom_set( 131.675491 )
+ga_view_center_set( 19.259956, -62.811958 )
+ga_view_zoom_set( 117.044884 )
+ga_view_center_set( 20.709507, -67.283051 )
+ga_view_zoom_set( 104.039894 )
+sgm_edit_surface_break_v1( "25", "Surface 10", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 25,26
+sgm_edit_surface_break_v1( "27", "Surface 5", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 27,28
+sgm_edit_surface_break_v1( "29", "Surface 15", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 29,30
+ga_view_center_set( 32.153900, -107.858597 )
+sgm_edit_surface_break_v1( "31", "Surface 2", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 31,32
+sgm_edit_surface_break_v1( "33", "Surface 18", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 33,34
+sgm_edit_surface_break_v1( "35", "Surface 30", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 35,36
+sgm_edit_surface_break_v1( "37", "Surface 22", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 37,38
+sgm_edit_surface_break_v1( "39", "Surface 14", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 39,40
+sgm_edit_surface_break_v1( "41", "Surface 16", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 41,42
+sgm_edit_surface_break_v1( "43", "Surface 28", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 43,44
+sgm_edit_surface_break_v1( "45", "Surface 20", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 45,46
+sgm_edit_surface_break_v1( "47", "Surface 32", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 47,48
+ga_view_center_set( 13.529831, -31.814724 )
+ga_view_zoom_set( 227.811432 )
+ga_view_center_set( 25.376419, -28.551338 )
+ga_view_zoom_set( 256.287872 )
+ga_view_center_set( 13.708725, -31.814690 )
+ga_view_zoom_set( 227.811447 )
+ga_view_center_set( 3.337357, -34.715488 )
+ga_view_zoom_set( 202.499069 )
+ga_view_center_set( -5.881577, -37.293957 )
+ga_view_zoom_set( 179.999176 )
+ga_view_center_set( -14.076248, -39.585941 )
+ga_view_zoom_set( 159.999268 )
+STRING asm_delete_surface_deleted_ids[VIRTUAL]
+asm_delete_surface( "Surface 42 36:44:4 46 47 31 29 23 27 25 21:17:-2 34",  @
+asm_delete_surface_deleted_ids )
+$# 15 Surfaces Deleted: Surface 17:31:2 34 36 40:46:2 47
+ga_view_center_set( -25.347824, -40.684830 )
+ga_view_zoom_set( 179.999176 )
+ga_view_center_set( 11.500151, -0.922764 )
+ga_view_zoom_set( 143.538879 )
+ga_view_center_set( 18.735929, -0.346912 )
+ga_view_zoom_set( 127.590118 )
+ga_view_center_set( 24.589148, 0.120453 )
+ga_view_zoom_set( 113.413437 )
+ga_view_center_set( 28.921526, 0.496330 )
+ga_view_zoom_set( 100.811943 )
+ga_view_center_set( 21.377760, 3.995647 )
+ga_view_zoom_set( 89.610619 )
+ga_view_center_set( 9.307734, 9.594551 )
+ga_view_zoom_set( 71.688492 )
+ga_view_center_set( 3.943289, 12.082954 )
+ga_view_zoom_set( 63.723103 )
+ga_view_center_set( -1.025179, 14.806175 )
+ga_view_zoom_set( 56.642757 )
+ga_view_center_set( -5.441576, 17.226807 )
+ga_view_zoom_set( 50.349117 )
+ga_view_center_set( -9.367289, 19.378479 )
+ga_view_zoom_set( 44.754772 )
+ga_view_center_set( -12.856798, 21.291077 )
+ga_view_zoom_set( 39.782021 )
+ga_view_center_set( -15.930838, 23.005047 )
+ga_view_zoom_set( 35.361797 )
+ga_view_center_set( -18.663305, 24.528580 )
+ga_view_zoom_set( 31.432709 )
+ga_view_center_set( -21.092165, 25.882835 )
+ga_view_zoom_set( 27.940186 )
+ga_view_center_set( -24.978350, 28.049625 )
+ga_view_zoom_set( 22.352148 )
+sgm_edit_surface_break_v1( "49", "Surface 38", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Warning reported from application SGM
+$#     Unable to break Surface 38 with Surface 1.4
+$# No Geometry Created.
+ga_view_center_set( -24.873079, 28.139303 )
+ga_view_zoom_set( 19.868576 )
+ga_view_center_set( -24.647814, 28.219006 )
+ga_view_zoom_set( 17.660957 )
+ga_view_center_set( -24.447573, 28.289860 )
+ga_view_zoom_set( 15.698628 )
+ga_view_center_set( -23.508347, 28.215925 )
+ga_view_zoom_set( 13.954336 )
+asm_delete_surface( "Surface 38", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 38
+ga_view_center_set( -25.668854, 27.911978 )
+ga_view_zoom_set( 15.698628 )
+ga_view_center_set( -28.099426, 27.570032 )
+ga_view_zoom_set( 17.660957 )
+ga_view_center_set( -25.693501, 27.893503 )
+ga_view_zoom_set( 15.698628 )
+ga_view_center_set( -23.582283, 28.164600 )
+ga_view_zoom_set( 13.954336 )
+ga_view_center_set( -20.248138, 28.580826 )
+ga_view_zoom_set( 11.163469 )
+ga_view_center_set( -18.754612, 28.711292 )
+ga_view_zoom_set( 9.923084 )
+ga_view_center_set( -17.357792, 28.789185 )
+ga_view_zoom_set( 8.820519 )
+ga_view_center_set( -18.983086, 29.022858 )
+ga_view_zoom_set( 9.923084 )
+ga_view_center_set( -20.811535, 29.285738 )
+ga_view_zoom_set( 11.163469 )
+ga_view_center_set( -24.943069, 29.903502 )
+ga_view_zoom_set( 13.954336 )
+ga_view_center_set( -27.536232, 30.311518 )
+ga_view_zoom_set( 15.698628 )
+ga_view_center_set( -30.459713, 30.776690 )
+ga_view_zoom_set( 17.660957 )
+ga_view_center_set( -34.344700, 31.799063 )
+ga_view_zoom_set( 19.868576 )
+ga_view_center_set( -38.715321, 32.949226 )
+ga_view_zoom_set( 22.352148 )
+ga_view_center_set( -48.549206, 35.537109 )
+ga_view_zoom_set( 27.940186 )
+ga_view_center_set( -54.706356, 37.154533 )
+ga_view_zoom_set( 31.432709 )
+ga_view_center_set( -61.657818, 38.986458 )
+ga_view_zoom_set( 35.361797 )
+ga_view_center_set( -79.408112, 44.329582 )
+ga_view_zoom_set( 44.202248 )
+ga_view_center_set( -101.630676, 51.008495 )
+ga_view_zoom_set( 55.252808 )
+ga_view_center_set( -115.519745, 55.182823 )
+ga_view_zoom_set( 62.159409 )
+ga_view_center_set( -129.022614, 57.658966 )
+ga_view_zoom_set( 69.929337 )
+ga_view_center_set( -144.213287, 60.444614 )
+ga_view_zoom_set( 78.670502 )
+ga_view_center_set( -161.302856, 63.578468 )
+ga_view_zoom_set( 88.504318 )
+ga_view_center_set( -180.528625, 67.104050 )
+ga_view_zoom_set( 99.567360 )
+ga_view_center_set( -200.320953, 71.578339 )
+ga_view_zoom_set( 112.013283 )
+ga_view_center_set( -223.070923, 76.787750 )
+ga_view_zoom_set( 126.014946 )
+ga_view_center_set( -250.791260, 83.934204 )
+ga_view_zoom_set( 141.766815 )
+ga_view_center_set( -281.976624, 91.973961 )
+ga_view_zoom_set( 159.487671 )
+ga_view_center_set( -317.060181, 101.018700 )
+ga_view_zoom_set( 179.423630 )
+ga_view_center_set( -356.529114, 111.194016 )
+ga_view_zoom_set( 201.851578 )
+ga_view_center_set( -118.344284, -17.991001 )
+ga_view_center_set( -88.663330, -22.462505 )
+ga_view_zoom_set( 179.423630 )
+uil_file_import_step203.p3_step203_import(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_3.stp" )
+p3_express_options_file( "express.opt", FALSE, 1, 1, 52054, TRUE, [1., 0., 0., @
+ 0., 0., 1., 0., 0., 0., 0., 1., 0.], 0, ["0"], [[-1]], [[-1]], [[-1]], FALSE, @
+ [0], TRUE, [0], TRUE, [0], 3, 1, 3 )
+p3_express_import( "express.opt", "H_Stiffeners_3.exp", FALSE, TRUE, FALSE,  @
+TRUE, uil_file_import_s_express_count )
+p3_express_import_exit( TRUE, TRUE )
+uil_file_import_step203.import_cc1_data(  @
+"C:\Users\diego\Pictures\.stp\H_Stiffeners_3.stp" )
+uil_toolbar.model_center(  )
+ga_view_center_set( 2.127007, -36.617577 )
+ga_view_zoom_set( 158.325958 )
+ga_view_center_set( 1.160393, -37.031815 )
+ga_view_zoom_set( 140.734192 )
+ga_view_center_set( 0.006647, -37.105450 )
+ga_view_zoom_set( 125.097061 )
+ga_view_center_set( -1.193487, -37.039989 )
+ga_view_zoom_set( 111.197388 )
+ga_view_center_set( -6.744648, -32.745716 )
+ga_view_zoom_set( 88.957909 )
+ga_view_center_set( -9.584217, -30.650951 )
+ga_view_zoom_set( 79.073700 )
+STRING sgm_surface_break_c_created_ids[VIRTUAL]
+sgm_edit_surface_break_v1( "51", "Surface 50", TRUE, 3, 0, 0., "", "",  @
+"Surface 1.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 51,52
+ga_view_center_set( 8.294247, -33.584320 )
+ga_view_zoom_set( 158.325958 )
+ga_view_center_set( 12.850941, -31.292145 )
+ga_view_zoom_set( 140.734192 )
+ga_view_center_set( 16.901379, -29.254654 )
+ga_view_zoom_set( 125.097061 )
+ga_view_center_set( 20.501743, -27.443554 )
+ga_view_zoom_set( 111.197388 )
+ga_view_center_set( 23.702068, -25.833687 )
+ga_view_zoom_set( 98.842125 )
+ga_view_center_set( 26.546818, -24.402683 )
+ga_view_zoom_set( 87.859665 )
+ga_view_center_set( 29.075470, -23.130680 )
+ga_view_zoom_set( 78.097481 )
+ga_view_center_set( 31.323162, -22.000027 )
+ga_view_zoom_set( 69.419983 )
+sgm_edit_surface_break_v1( "53", "Surface 51", TRUE, 3, 0, 0., "", "",  @
+"Surface 12.2", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 53,54
+STRING asm_delete_surface_deleted_ids[VIRTUAL]
+asm_delete_surface( "Surface 53 52 49", asm_delete_surface_deleted_ids )
+$# 3 Surfaces Deleted: Surface 49 52 53
+ga_view_center_set( 15.270878, -30.987061 )
+ga_view_zoom_set( 158.325958 )
+ga_view_center_set( 9.665545, 4.675461 )
+ga_view_zoom_set( 143.538879 )
+uil_primary_file.db_save(  )
+uil_primary_file.db_save(  )
+uil_primary_file.db_save(  )

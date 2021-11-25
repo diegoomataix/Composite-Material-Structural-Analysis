@@ -1,0 +1,5 @@
+E11  - LogN: 149.2 GPa; 152.3 GPa
+S11  - Weib: 1.783 GPa; 2.023 GPa
+Nu12 - LogN: 0.2592	  ; 0.2734
+E22  - LogN: 7.944 GPa; 8.204 GPa
+S22  - LogN: 42.50 MPa; 48.34 MPa
