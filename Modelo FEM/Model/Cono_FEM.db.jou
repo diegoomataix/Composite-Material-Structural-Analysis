@@ -811,3 +811,109 @@ repaint_graphics(  )
 sgm_verify_surface_duplicates( FALSE, FALSE )
 $# No Duplicate Surfaces.
 gm_hilight_clear(  )
+$# UNDO: Edit Surface Break for Surface 110.2
+sgm_edit_surface_break_v1( "111", "Surface 60", TRUE, 3, 0, 0., "", "",  @
+"Surface 108.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 111,112
+STRING asm_delete_surface_deleted_ids[VIRTUAL]
+asm_delete_surface( "Surface 142", asm_delete_surface_deleted_ids )
+$# No Geometry Deleted.
+ga_view_center_set( -18.267357, 98.326241 )
+ga_view_zoom_set( 23.604555 )
+ga_view_center_set( -17.925617, 99.540871 )
+ga_view_zoom_set( 20.981827 )
+ga_view_center_set( -17.621849, 100.620522 )
+ga_view_zoom_set( 18.650513 )
+ga_view_center_set( -17.742615, 99.899529 )
+ga_view_zoom_set( 20.981827 )
+asm_delete_surface( "Surface 142", asm_delete_surface_deleted_ids )
+$# No Geometry Deleted.
+ga_view_center_set( -18.317204, 101.374435 )
+ga_view_zoom_set( 18.650513 )
+ga_view_center_set( -18.834461, 102.685455 )
+ga_view_zoom_set( 16.578234 )
+$# UNDO: Delete for entities Surface 112
+asm_delete_surface( "Surface 108", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 108
+ga_view_center_set( -20.018223, 100.632271 )
+ga_view_zoom_set( 20.981827 )
+ga_view_center_set( -20.878742, 99.368271 )
+ga_view_zoom_set( 23.604555 )
+ga_view_center_set( -20.149982, 100.722870 )
+ga_view_zoom_set( 20.981827 )
+ga_view_center_set( -19.531471, 101.934288 )
+ga_view_zoom_set( 18.650513 )
+ga_view_center_set( -19.320011, 103.160736 )
+ga_view_zoom_set( 16.578234 )
+ga_view_center_set( -19.172535, 104.268288 )
+ga_view_zoom_set( 14.736208 )
+ga_view_center_set( -19.046581, 105.257927 )
+ga_view_zoom_set( 13.098851 )
+$# UNDO: Edit Surface Break for Surface 110.2
+$# UNDO: Edit Surface Break for Surface 110.2
+$# UNDO: Edit Surface Break for Surface 110
+ga_view_center_set( -18.784603, 107.877708 )
+STRING sgm_surface_break_2_created_ids[VIRTUAL]
+sgm_edit_surface_break_v1( "113", "Surface 111", TRUE, 2, 0, 0., "Point 48",  @
+"Point 126", "", sgm_surface_break_2_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 113,114
+asm_delete_surface( "Surface 110", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 110
+ga_view_center_set( -21.167381, 107.258247 )
+ga_view_zoom_set( 14.736208 )
+ga_view_center_set( -18.784603, 107.877739 )
+ga_view_zoom_set( 13.098851 )
+ga_view_center_set( -16.840225, 108.387276 )
+ga_view_zoom_set( 11.643423 )
+ga_view_center_set( -15.172812, 108.823944 )
+ga_view_zoom_set( 10.349710 )
+ga_view_center_set( -13.737609, 109.204857 )
+ga_view_zoom_set( 9.199741 )
+uil_primary_file.db_save(  )
+ga_view_center_set( -13.678033, 109.423302 )
+ga_view_zoom_set( 10.349709 )
+ga_view_center_set( -13.611008, 109.669052 )
+ga_view_zoom_set( 11.643422 )
+ga_view_center_set( -13.535613, 109.945503 )
+ga_view_zoom_set( 13.098850 )
+ga_view_center_set( -12.502303, 110.793747 )
+ga_view_zoom_set( 16.373562 )
+ga_view_center_set( -11.856486, 111.323898 )
+ga_view_zoom_set( 18.420258 )
+ga_view_center_set( -11.129939, 111.920319 )
+ga_view_zoom_set( 20.722790 )
+ga_view_center_set( -10.312575, 112.591286 )
+ga_view_zoom_set( 23.313139 )
+ga_view_center_set( -9.402190, 113.401024 )
+ga_view_zoom_set( 26.227282 )
+ga_view_center_set( -8.378001, 114.311981 )
+ga_view_zoom_set( 29.505692 )
+ga_view_center_set( -7.225802, 115.336800 )
+ga_view_zoom_set( 33.193901 )
+ga_view_center_set( -5.929576, 116.489731 )
+ga_view_zoom_set( 37.343140 )
+ga_view_center_set( -5.182713, 98.938469 )
+ga_view_center_set( -5.556144, 74.292007 )
+ga_view_center_set( -10.410750, 117.236626 )
+ga_view_center_set( -9.375069, 116.448471 )
+ga_view_zoom_set( 33.193901 )
+ga_view_center_set( -8.350243, 115.828964 )
+ga_view_zoom_set( 29.505690 )
+ga_view_center_set( -7.408403, 115.329750 )
+ga_view_zoom_set( 26.227280 )
+ga_view_center_set( -6.690166, 114.904289 )
+ga_view_zoom_set( 23.313137 )
+ga_view_center_set( -6.084257, 114.526108 )
+ga_view_zoom_set( 20.722788 )
+ga_view_center_set( -5.567356, 114.189964 )
+ga_view_zoom_set( 18.420256 )
+ga_view_center_set( -5.114320, 113.891167 )
+ga_view_zoom_set( 16.373560 )
+ga_view_center_set( -4.723044, 113.625572 )
+ga_view_zoom_set( 14.554276 )
