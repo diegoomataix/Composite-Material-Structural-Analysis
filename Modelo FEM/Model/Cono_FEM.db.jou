@@ -594,3 +594,141 @@ ga_view_zoom_set( 30.937090 )
 ga_view_center_set( -15.197094, 106.296516 )
 ga_view_zoom_set( 24.749672 )
 uil_primary_file.db_save(  )
+$# Appending to existing journal file C:\Users\diego\Dropbox\Academic\MEng 
+$# Space Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 25-Nov-21 23:57:05
+$# Synchronizing the User Data Manager
+$# Error reported from application UserDataManager
+$#     The amount of instance data fails to match the template for ud_region
+$? NO 1000020000 
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+ga_view_center_set( -17.177067, 59.519604 )
+ga_view_center_set( -22.621994, -32.054195 )
+ga_view_center_set( -25.591957, -106.798218 )
+STRING sgm_surface_break_c_created_ids[VIRTUAL]
+sgm_edit_surface_break_v1( "63", "Surface 48", TRUE, 3, 0, 0., "", "",  @
+"Surface 58.1", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 63,64
+ga_view_center_set( -2.410118, -10.980217 )
+ga_view_zoom_set( 139.516830 )
+ga_view_center_set( -4.819361, -21.517578 )
+ga_view_zoom_set( 124.014961 )
+ga_view_center_set( -7.047453, -31.143707 )
+ga_view_zoom_set( 110.235519 )
+ga_view_center_set( -9.066404, -39.777191 )
+ga_view_zoom_set( 97.987129 )
+ga_view_center_set( -10.861036, -47.485550 )
+ga_view_zoom_set( 87.099670 )
+ga_view_center_set( -12.456251, -54.337440 )
+ga_view_zoom_set( 77.421928 )
+ga_view_center_set( -15.089643, -61.319313 )
+ga_view_zoom_set( 68.819489 )
+ga_view_center_set( -17.478453, -67.525436 )
+ga_view_zoom_set( 61.172878 )
+ga_view_center_set( -21.377409, -77.455223 )
+ga_view_zoom_set( 48.938301 )
+ga_view_center_set( -23.127325, -81.783081 )
+ga_view_zoom_set( 43.500713 )
+ga_view_center_set( -24.713171, -85.281036 )
+ga_view_zoom_set( 38.667301 )
+ga_view_center_set( -26.122801, -88.390335 )
+ga_view_zoom_set( 34.370934 )
+ga_view_center_set( -28.378233, -93.343613 )
+ga_view_zoom_set( 27.496746 )
+ga_view_center_set( -29.380648, -95.497116 )
+ga_view_zoom_set( 24.441551 )
+sgm_edit_surface_break_v1( "65", "Surface 58", TRUE, 3, 0, 0., "", "",  @
+"Surface 63.4", sgm_surface_break_c_created_ids )
+$# Question in application SGM by application Geometry
+$#     Surface 63 already exists at the specified location to create the next 
+$# Surface. Do you wish to create a duplicate Surface?
+$? YESFORALL 1000034 
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 65,66
+ga_view_center_set( -2.603336, -10.316257 )
+ga_view_zoom_set( 136.509415 )
+ga_view_center_set( -5.055912, -21.721790 )
+ga_view_zoom_set( 121.341705 )
+ga_view_center_set( -7.235922, -31.860050 )
+ga_view_zoom_set( 107.859291 )
+ga_view_center_set( -9.173775, -40.871853 )
+ga_view_zoom_set( 95.874924 )
+ga_view_center_set( -10.896280, -48.949238 )
+ga_view_zoom_set( 85.222153 )
+ga_view_center_set( -13.943628, -56.545330 )
+ga_view_zoom_set( 75.753021 )
+ga_view_center_set( -16.837397, -63.244572 )
+ga_view_zoom_set( 67.336021 )
+ga_view_center_set( -19.480097, -69.152481 )
+ga_view_zoom_set( 59.854240 )
+ga_view_center_set( -21.870943, -74.362175 )
+ga_view_zoom_set( 53.203770 )
+ga_view_center_set( -24.051790, -78.807419 )
+ga_view_zoom_set( 47.292240 )
+ga_view_center_set( -25.990343, -82.758736 )
+ga_view_zoom_set( 42.037548 )
+ga_view_center_set( -27.713495, -86.271027 )
+ga_view_zoom_set( 37.366711 )
+ga_view_center_set( -29.180010, -89.353928 )
+ga_view_zoom_set( 33.214855 )
+sgm_edit_surface_break_v1( "67", "Surface 64", TRUE, 3, 0, 0., "", "",  @
+"Surface 61.4", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 67,68
+ga_view_center_set( 3.960323, -9.818279 )
+ga_view_zoom_set( 136.436356 )
+ga_view_center_set( 7.315914, -20.741756 )
+ga_view_zoom_set( 121.276764 )
+ga_view_center_set( 13.750957, -38.219303 )
+ga_view_zoom_set( 97.021408 )
+ga_view_center_set( 16.949444, -45.987095 )
+ga_view_zoom_set( 86.241249 )
+ga_view_center_set( 16.705744, -57.982342 )
+ga_view_zoom_set( 68.992996 )
+ga_view_center_set( 16.597435, -63.313564 )
+ga_view_zoom_set( 61.327106 )
+ga_view_center_set( 16.501158, -68.052414 )
+ga_view_zoom_set( 54.512985 )
+sgm_edit_surface_break_v1( "69", "Surface 61", TRUE, 3, 0, 0., "", "",  @
+"Surface 68.1", sgm_surface_break_c_created_ids )
+$# Question in application SGM by application Geometry
+$#     Surface 68 already exists at the specified location to create the next 
+$# Surface. Do you wish to create a duplicate Surface?
+$? YESFORALL 1000034 
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 69,70
+ga_view_center_set( 1.117188, -11.071510 )
+ga_view_zoom_set( 136.168488 )
+ga_view_center_set( 3.041052, -23.018623 )
+ga_view_zoom_set( 121.038658 )
+ga_view_center_set( 4.751171, -33.680481 )
+ga_view_zoom_set( 107.589920 )
+ga_view_center_set( 6.271288, -43.157692 )
+ga_view_zoom_set( 95.635483 )
+ga_view_center_set( 7.622490, -51.581894 )
+ga_view_zoom_set( 85.009315 )
+ga_view_center_set( 8.823545, -59.070068 )
+ga_view_zoom_set( 75.563835 )
+ga_view_center_set( 9.627579, -65.040825 )
+ga_view_zoom_set( 67.167854 )
+ga_view_center_set( 10.506258, -70.137291 )
+ga_view_zoom_set( 59.704758 )
+ga_view_center_set( 11.474777, -74.480011 )
+ga_view_zoom_set( 53.070896 )
+ga_view_center_set( 12.502325, -78.155060 )
+ga_view_zoom_set( 47.174129 )
+ga_view_center_set( -5.895588, -97.968178 )
