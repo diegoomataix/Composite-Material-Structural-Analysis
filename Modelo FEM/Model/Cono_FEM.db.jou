@@ -1973,3 +1973,46 @@ ga_view_center_set( -28.281408, 34.752457 )
 ga_view_zoom_set( 23.352459 )
 ga_view_center_set( -28.304321, 36.443405 )
 ga_view_zoom_set( 26.271517 )
+$# Appending to existing journal file C:\Users\diego\Dropbox\Academic\MEng 
+$# Space Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 26-Nov-21 01:15:50
+$# Synchronizing the User Data Manager
+$# Error reported from application UserDataManager
+$#     The amount of instance data fails to match the template for ud_region
+$? NO 1000020000 
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+ga_view_center_set( -28.622515, 26.692089 )
+ga_view_zoom_set( 11.519072 )
+ga_view_center_set( -29.131113, 26.210619 )
+ga_view_zoom_set( 12.958956 )
+ga_view_center_set( -29.708364, 25.694407 )
+ga_view_zoom_set( 14.578825 )
+ga_view_center_set( -30.363499, 25.130819 )
+ga_view_zoom_set( 16.401178 )
+ga_view_center_set( -31.100527, 24.509659 )
+ga_view_zoom_set( 18.451326 )
+ga_view_center_set( -31.980373, 23.897747 )
+ga_view_zoom_set( 20.757742 )
+ga_view_center_set( -32.970200, 23.209352 )
+ga_view_zoom_set( 23.352459 )
+ga_view_center_set( -34.083752, 22.434908 )
+ga_view_zoom_set( 26.271517 )
+ga_view_center_set( -36.589241, 20.692410 )
+ga_view_zoom_set( 32.839397 )
+ga_view_center_set( -37.362534, 22.370750 )
+ga_view_zoom_set( 29.190575 )
+ga_view_center_set( -38.090652, 23.852417 )
+ga_view_zoom_set( 25.947178 )
+STRING sgm_surface_break_c_created_ids[VIRTUAL]
+sgm_edit_surface_break_v1( "143", "Surface 141", TRUE, 3, 0, 0., "", "",  @
+"Surface 119.1", sgm_surface_break_c_created_ids )
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 2 Surfaces Created: Surfaces 143,144
+uil_primary_file.db_save(  )
