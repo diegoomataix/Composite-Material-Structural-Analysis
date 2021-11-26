@@ -2707,3 +2707,376 @@ $? YES 38000219
 $# 2 Surfaces Created: Surfaces 199,200
 ga_view_center_set( -38.999081, -82.079346 )
 uil_primary_file.db_save(  )
+ga_view_center_set( -40.535019, -86.097321 )
+ga_view_zoom_set( 70.443527 )
+ga_view_center_set( -42.290604, -90.589905 )
+ga_view_zoom_set( 79.248970 )
+ga_view_center_set( -46.253044, 18.773685 )
+ga_view_center_set( -44.055138, 20.833359 )
+ga_view_zoom_set( 70.443527 )
+ga_view_center_set( -42.126045, 22.664177 )
+ga_view_zoom_set( 62.616470 )
+ga_view_center_set( -40.411293, 24.291569 )
+ga_view_zoom_set( 55.659084 )
+ga_view_center_set( -38.887085, 25.738129 )
+ga_view_zoom_set( 49.474743 )
+ga_view_center_set( -37.549477, 27.282871 )
+ga_view_zoom_set( 43.977551 )
+ga_view_center_set( -36.360504, 28.655979 )
+ga_view_zoom_set( 39.091156 )
+ga_view_center_set( -35.303635, 29.876514 )
+ga_view_zoom_set( 34.747696 )
+ga_view_center_set( -34.364204, 30.961430 )
+ga_view_zoom_set( 30.886841 )
+ga_view_center_set( -33.529144, 31.925800 )
+ga_view_zoom_set( 27.454969 )
+ga_view_center_set( -32.786873, 32.783035 )
+ga_view_zoom_set( 24.404417 )
+ga_view_center_set( -32.118561, 33.553528 )
+ga_view_zoom_set( 21.692816 )
+ga_view_center_set( -29.140680, 34.927071 )
+ga_view_zoom_set( 19.282503 )
+ga_view_center_set( -26.742567, 36.121086 )
+ga_view_zoom_set( 17.140003 )
+ga_view_center_set( -25.316490, 36.997093 )
+ga_view_zoom_set( 15.235559 )
+ga_view_center_set( -29.887157, 33.188206 )
+STRING asm_delete_surface_deleted_ids[VIRTUAL]
+asm_delete_surface( "Surface 121", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 121
+ga_view_center_set( -31.139856, 33.256977 )
+ga_view_zoom_set( 17.140003 )
+ga_view_center_set( -30.066555, 33.140392 )
+ga_view_zoom_set( 15.235559 )
+asm_delete_surface( "Surface 119", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 119
+ga_view_center_set( -31.074099, 33.065647 )
+ga_view_zoom_set( 17.140003 )
+ga_view_center_set( -30.066574, 33.140392 )
+ga_view_zoom_set( 15.235559 )
+asm_delete_surface( "Surface 117", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 117
+ga_view_center_set( -31.468752, 33.257000 )
+ga_view_zoom_set( 17.140003 )
+ga_view_center_set( -30.066586, 33.140408 )
+ga_view_zoom_set( 15.235559 )
+ga_view_center_set( -28.820211, 33.036766 )
+ga_view_zoom_set( 13.542719 )
+ga_view_center_set( -4.307884, 34.797310 )
+asm_delete_surface( "Surface 123", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 123
+ga_view_center_set( -5.708401, 34.736202 )
+ga_view_zoom_set( 15.235559 )
+asm_delete_surface( "Surface 125", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 125
+ga_view_center_set( -8.127081, 34.613640 )
+ga_view_zoom_set( 17.140003 )
+asm_delete_surface( "Surface 116", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 116
+ga_view_center_set( -11.231520, 34.442104 )
+ga_view_zoom_set( 19.282503 )
+ga_view_center_set( -14.724012, 34.249126 )
+ga_view_zoom_set( 21.692816 )
+ga_view_center_set( -6.263813, -31.913969 )
+ga_view_center_set( -25.136562, -55.342205 )
+ga_view_center_set( -25.370691, -55.772160 )
+ga_view_zoom_set( 24.404417 )
+ga_view_center_set( -25.634090, -56.255848 )
+ga_view_zoom_set( 27.454969 )
+ga_view_center_set( -25.370703, -55.772175 )
+ga_view_zoom_set( 24.404417 )
+ga_view_center_set( -25.136593, -55.342232 )
+ga_view_zoom_set( 21.692816 )
+ga_view_center_set( -24.928492, -54.960072 )
+ga_view_zoom_set( 19.282503 )
+ga_view_center_set( -24.743519, -54.620365 )
+ga_view_zoom_set( 17.140003 )
+ga_view_center_set( -24.579096, -54.318394 )
+ga_view_zoom_set( 15.235559 )
+ga_view_center_set( -24.432949, -54.049976 )
+ga_view_zoom_set( 13.542719 )
+ga_view_center_set( -24.199100, -53.620518 )
+ga_view_zoom_set( 10.834175 )
+ga_view_center_set( -24.170769, -53.456120 )
+ga_view_zoom_set( 9.630378 )
+ga_view_center_set( -24.152304, -53.323414 )
+ga_view_zoom_set( 8.560336 )
+ga_view_center_set( -24.144855, -53.223373 )
+ga_view_zoom_set( 7.609188 )
+asm_delete_surface( "Surface 133", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 133
+ga_view_center_set( -25.490213, -53.478703 )
+ga_view_zoom_set( 8.560336 )
+asm_delete_surface( "Surface 131", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 131
+ga_view_center_set( -26.956703, -53.843231 )
+ga_view_zoom_set( 9.630378 )
+asm_delete_surface( "Surface 127", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 127
+ga_view_center_set( -29.407772, -54.192848 )
+ga_view_zoom_set( 10.834175 )
+ga_view_center_set( -32.165222, -54.586166 )
+ga_view_zoom_set( 12.188447 )
+ga_view_center_set( -29.412046, -54.192856 )
+ga_view_zoom_set( 10.834175 )
+ga_view_center_set( -26.964773, -53.843246 )
+ga_view_zoom_set( 9.630378 )
+ga_view_center_set( -26.284458, -53.377934 )
+ga_view_zoom_set( 8.560336 )
+ga_view_center_set( -25.646893, -52.988213 )
+ga_view_zoom_set( 7.609188 )
+ga_view_center_set( -25.167761, -52.753296 )
+ga_view_zoom_set( 6.763722 )
+ga_view_center_set( -24.772547, -52.568069 )
+ga_view_zoom_set( 6.012197 )
+ga_view_center_set( -25.115881, -52.640045 )
+ga_view_zoom_set( 6.763722 )
+ga_view_center_set( -25.502132, -52.721016 )
+ga_view_zoom_set( 7.609188 )
+ga_view_center_set( -25.936657, -52.812103 )
+ga_view_zoom_set( 8.560336 )
+ga_view_center_set( -26.482609, -52.917946 )
+ga_view_zoom_set( 9.630378 )
+ga_view_center_set( -27.096800, -53.037003 )
+ga_view_zoom_set( 10.834175 )
+ga_view_center_set( -27.787773, -53.170952 )
+ga_view_zoom_set( 12.188447 )
+ga_view_center_set( -28.565111, -53.321629 )
+ga_view_zoom_set( 13.712003 )
+ga_view_center_set( -30.230686, -53.598774 )
+ga_view_zoom_set( 15.426003 )
+ga_view_center_set( -32.104454, -53.910564 )
+ga_view_zoom_set( 17.354254 )
+ga_view_center_set( -34.212440, -54.261330 )
+ga_view_zoom_set( 19.523535 )
+ga_view_center_set( -36.875092, -54.625298 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( -39.870583, -55.034752 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( 1.394232, -47.374828 )
+ga_view_center_set( 3.906989, -46.982620 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( 6.140547, -46.633987 )
+ga_view_zoom_set( 19.523535 )
+ga_view_center_set( 8.132746, -46.330902 )
+ga_view_zoom_set( 17.354254 )
+asm_delete_surface( "Surface 135", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 135
+ga_view_center_set( 4.546808, -46.102741 )
+ga_view_zoom_set( 19.523535 )
+asm_delete_surface( "Surface 165", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 165
+ga_view_center_set( 0.696512, -45.945656 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( 4.539156, -46.102737 )
+ga_view_zoom_set( 19.523535 )
+ga_view_center_set( 7.941225, -46.242363 )
+ga_view_zoom_set( 17.354254 )
+$# UNDO: Delete for entities Surface 182
+asm_delete_surface( "Surface 130", asm_delete_surface_deleted_ids )
+$# 1 Surface Deleted: Surface 130
+ga_view_center_set( -0.216131, -46.902611 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( -2.427193, -47.208630 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( -4.914619, -47.552895 )
+ga_view_zoom_set( 27.798157 )
+ga_view_center_set( -7.712975, -47.940197 )
+ga_view_zoom_set( 31.272926 )
+ga_view_center_set( -10.701576, -48.449547 )
+ga_view_zoom_set( 35.182041 )
+ga_view_center_set( -14.063744, -49.022568 )
+ga_view_zoom_set( 39.579796 )
+ga_view_center_set( -17.815132, -49.698292 )
+ga_view_zoom_set( 44.527271 )
+ga_view_center_set( -10.661861, -49.395378 )
+ga_view_zoom_set( 39.579796 )
+ga_view_center_set( -4.303394, -49.098515 )
+ga_view_zoom_set( 35.182041 )
+ga_view_center_set( 1.348568, -48.822361 )
+ga_view_zoom_set( 31.272926 )
+ga_view_center_set( 6.405270, -48.544174 )
+ga_view_zoom_set( 27.798157 )
+ga_view_center_set( 11.355896, -48.132023 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( 15.756462, -47.765663 )
+ga_view_zoom_set( 21.963976 )
+$# Question from application SGM
+$#     The current cleanup tolerance < 0.005 > seems to be very small 
+$# compared to the model dimensions. You should consider changing it to a 
+$# value near < 0.0173447 >. Do you want to use and update the larger 
+$# tolerance value ?
+$? YES 38001008 
+$# Warning reported from application SGM
+$#     Different colors in the boundary mean: White - free edges within the 
+$# current surface selection.Dark Blue - Edges are shared by two surfaces. 
+$# Light Blue - Edges are shared by more than two surfaces ( most likely a 
+$# non-manifold edge). Red - Edges which are not part of the boundary due to 
+$# a gap or a branch.
+STRING sgm_create_surface_c_created_id[VIRTUAL]
+sgm_create_surface_composite( "201", "Surface 199 167 182 164 198", 0,  @
+0.0173447, 0.0173447, 9, 1, "", "", "", "", TRUE, FALSE,  @
+sgm_create_surface_c_created_id )
+$# Question from application SGM
+$#     The Composite Trim Surface Processor has determined a better view to 
+$# build the surface.  Is it OK to rotate the model to this better view?  The 
+$# screen X rotation is -14.3691 degrees and the screen Y rotation is 
+$# -8.77308 degrees.
+$? YES 38000142 
+$# 1 Surface Created: Surface 201
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 5 Surfaces Deleted: Surface 164 167 182 198 199
+ga_view_center_set( 13.157501, -48.304428 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( 10.417931, -48.900833 )
+ga_view_zoom_set( 27.798157 )
+ga_view_center_set( -13.210504, -54.460457 )
+ga_view_center_set( -14.912442, -54.639862 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( -16.425259, -54.799332 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( -17.769993, -54.941082 )
+ga_view_zoom_set( 19.523535 )
+ga_view_center_set( -18.965313, -55.067089 )
+ga_view_zoom_set( 17.354254 )
+ga_view_center_set( -20.027822, -55.179085 )
+ga_view_zoom_set( 15.426003 )
+ga_view_center_set( -20.778534, -55.262505 )
+ga_view_zoom_set( 13.712003 )
+sgm_create_surface_composite( "202", "Surface 158 194 155 160 195", 0,  @
+0.0173447, 0.0173447, 9, 1, " ", " ", "", "", TRUE, FALSE,  @
+sgm_create_surface_c_created_id )
+$# Question from application SGM
+$#     The Composite Trim Surface Processor has determined a better view to 
+$# build the surface.  Is it OK to rotate the model to this better view?  The 
+$# screen X rotation is -5.45526 degrees and the screen Y rotation is 28.4851 
+$# degrees.
+$? YES 38000142 
+$# 1 Surface Created: Surface 202
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 5 Surfaces Deleted: Surface 155 158 160 194 195
+ga_view_center_set( -21.545395, -54.689381 )
+ga_view_zoom_set( 15.426003 )
+ga_view_center_set( -22.408108, -54.044621 )
+ga_view_zoom_set( 17.354254 )
+ga_view_center_set( -23.378662, -53.319256 )
+ga_view_zoom_set( 19.523535 )
+ga_view_center_set( -24.470535, -52.533871 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( -25.698906, -51.676178 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( -27.294159, -50.982803 )
+ga_view_zoom_set( 27.798157 )
+ga_view_center_set( -29.088814, -50.202755 )
+ga_view_zoom_set( 31.272926 )
+ga_view_center_set( -31.107811, -49.325199 )
+ga_view_zoom_set( 35.182041 )
+ga_view_center_set( -33.379173, -48.337944 )
+ga_view_zoom_set( 39.579796 )
+ga_view_center_set( -57.918636, 33.196434 )
+ga_view_center_set( -54.363148, 32.512936 )
+ga_view_zoom_set( 35.182041 )
+ga_view_center_set( -51.251812, 31.917665 )
+ga_view_zoom_set( 31.272926 )
+ga_view_center_set( -48.508011, 31.410364 )
+ga_view_zoom_set( 27.798157 )
+ga_view_center_set( -46.204834, 31.056391 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( -44.200661, 30.750359 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( -42.426842, 30.478346 )
+ga_view_zoom_set( 19.523535 )
+ga_view_center_set( -40.856926, 30.243366 )
+ga_view_zoom_set( 17.354254 )
+sgm_create_surface_composite( "203", "Surface 139 186 142 144 187", 0,  @
+0.0173447, 0.0173447, 9, 1, " ", " ", "", "", TRUE, FALSE,  @
+sgm_create_surface_c_created_id )
+$# 1 Surface Created: Surface 203
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 5 Surfaces Deleted: Surface 139 142 144 186 187
+ga_view_center_set( -43.870758, 31.023205 )
+ga_view_zoom_set( 19.523535 )
+ga_view_center_set( -47.246002, 31.900537 )
+ga_view_zoom_set( 21.963976 )
+ga_view_center_set( -51.000053, 32.844437 )
+ga_view_zoom_set( 24.709473 )
+ga_view_center_set( -21.595779, 36.303761 )
+sgm_create_surface_composite( "204", "Surface 149 190 148 151 191", 0,  @
+0.0173447, 0.0173447, 9, 1, " ", " ", "", "", TRUE, FALSE,  @
+sgm_create_surface_c_created_id )
+$# Question from application SGM
+$#     The Composite Trim Surface Processor has determined a better view to 
+$# build the surface.  Is it OK to rotate the model to this better view?  The 
+$# screen X rotation is 6.21555 degrees and the screen Y rotation is -28.3409 
+$# degrees.
+$? YES 38000142 
+$# 1 Surface Created: Surface 204
+$# Question from application SGM
+$#     Do you wish to delete the original surfaces?
+$? YES 38000219 
+$# 5 Surfaces Deleted: Surface 148 149 151 190 191
+ga_view_center_set( -25.537857, 36.337708 )
+ga_view_zoom_set( 27.798157 )
+ga_view_center_set( -29.961769, 36.375893 )
+ga_view_zoom_set( 31.272926 )
+ga_view_center_set( -34.926403, 36.418835 )
+ga_view_zoom_set( 35.182041 )
+ga_view_center_set( -40.511627, 36.467163 )
+ga_view_zoom_set( 39.579796 )
+ga_view_center_set( -46.763947, 36.521530 )
+ga_view_zoom_set( 44.527271 )
+ga_view_center_set( -53.395847, 36.582695 )
+ga_view_zoom_set( 50.093182 )
+ga_view_center_set( -60.856758, 36.651501 )
+ga_view_zoom_set( 56.354828 )
+ga_view_center_set( -69.250267, 36.728912 )
+ga_view_zoom_set( 63.399181 )
+ga_view_center_set( -78.892044, 33.755516 )
+ga_view_zoom_set( 71.324081 )
+ga_view_center_set( -89.319138, 30.494423 )
+ga_view_zoom_set( 80.239594 )
+ga_view_center_set( -97.932022, 30.321228 )
+ga_view_zoom_set( 90.269547 )
+ga_view_center_set( -107.727768, 30.161797 )
+ga_view_zoom_set( 101.553238 )
+ga_view_center_set( -118.748001, 29.982445 )
+ga_view_zoom_set( 114.247391 )
+ga_view_center_set( -131.145737, 29.780647 )
+ga_view_zoom_set( 128.528320 )
+ga_view_center_set( -145.143555, 29.704994 )
+ga_view_zoom_set( 144.594360 )
+ga_view_center_set( -160.891235, 29.619858 )
+ga_view_zoom_set( 162.668655 )
+ga_view_center_set( -178.607300, 29.524101 )
+ga_view_zoom_set( 183.002243 )
+ga_view_aa_set( -34.876141, 13.226648, 16.948586 )
+ga_view_center_set( -150.101974, 30.641361 )
+ga_view_zoom_set( 162.668655 )
+ga_view_center_set( -124.763824, 31.634491 )
+ga_view_zoom_set( 144.594360 )
+STRING asm_delete_curve_deleted_ids[VIRTUAL]
+asm_delete_curve( "Curve 1 2 3 4", asm_delete_curve_deleted_ids )
+$# 4 Curves Deleted: Curve 1:4
+ga_view_center_set( -110.160660, 23.992416 )
+ga_view_zoom_set( 128.528320 )
+ga_view_center_set( -97.180092, 17.199474 )
+ga_view_zoom_set( 114.247398 )
+ga_view_center_set( -85.840996, 10.922173 )
+ga_view_zoom_set( 101.553246 )
+ga_view_center_set( -75.761848, 5.342358 )
+ga_view_zoom_set( 90.269554 )
+ga_view_center_set( -66.802582, 0.382519 )
+ga_view_zoom_set( 80.239601 )
+asm_delete_curve( "Curve 5 6 7 8", asm_delete_curve_deleted_ids )
+$# 4 Curves Deleted: Curve 5:8
+ga_view_center_set( -82.311996, 2.476704 )
+ga_view_zoom_set( 90.269554 )
+ga_view_center_set( -68.282654, -0.625145 )
+ga_view_zoom_set( 80.239601 )
+uil_primary_file.db_save(  )
