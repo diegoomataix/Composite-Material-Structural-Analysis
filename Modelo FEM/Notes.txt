@@ -1,3 +1,5 @@
 Notes:
 
 *********** Meshing ***********
+- Equivalencia de nodos al rotar todo (para que coincidan los bordes de los rigidizadores helicoidales y verticales)
+- Free edges: COMPROBAR los de arriba
