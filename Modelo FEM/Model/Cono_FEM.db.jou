@@ -3062,3 +3062,2949 @@ ga_view_zoom_set( 66.931328 )
 ga_view_center_set( -44.104698, -59.145752 )
 ga_view_zoom_set( 75.297745 )
 uil_primary_file.db_save(  )
+ga_view_center_set( -47.695229, -55.909882 )
+ga_view_zoom_set( 84.709961 )
+ga_view_center_set( -51.767841, -52.369278 )
+ga_view_zoom_set( 95.298706 )
+ga_view_center_set( -56.461723, -48.535667 )
+ga_view_zoom_set( 107.211044 )
+ga_view_center_set( -61.952724, -44.517357 )
+ga_view_zoom_set( 120.612427 )
+ga_view_center_set( -17.326138, 10.964362 )
+ga_view_aa_set( -32.088943, -14.629189, -4.621152 )
+ga_view_center_set( -18.399078, 12.163543 )
+ga_view_zoom_set( 107.211044 )
+ga_view_center_set( -19.315434, 13.229491 )
+ga_view_zoom_set( 95.298706 )
+ga_view_center_set( -19.963737, 14.176993 )
+ga_view_zoom_set( 84.709961 )
+ga_view_center_set( -20.303581, 15.019214 )
+ga_view_zoom_set( 75.297745 )
+ga_view_center_set( -19.213451, 16.555916 )
+ga_view_zoom_set( 66.931328 )
+ga_view_center_set( -17.469252, 19.014626 )
+ga_view_zoom_set( 53.545063 )
+ga_view_center_set( -16.694061, 20.107388 )
+ga_view_zoom_set( 47.595612 )
+ga_view_center_set( -16.004984, 21.078728 )
+ga_view_zoom_set( 42.307209 )
+ga_view_center_set( -15.112064, 22.591545 )
+ga_view_zoom_set( 37.606407 )
+ga_view_center_set( -14.318335, 23.936279 )
+ga_view_zoom_set( 33.427917 )
+ga_view_center_set( -12.586592, 26.870230 )
+ga_view_zoom_set( 24.311213 )
+ga_view_aa_set( -29.206675, -6.891775, 0.060030 )
+ga_view_center_set( -12.953932, 28.086760 )
+ga_view_zoom_set( 27.350115 )
+ga_view_center_set( -13.367193, 29.455341 )
+ga_view_zoom_set( 30.768879 )
+ga_view_center_set( -13.832104, 30.995001 )
+ga_view_zoom_set( 34.614990 )
+ga_view_center_set( -14.355120, 32.727119 )
+ga_view_zoom_set( 38.941864 )
+ga_view_center_set( -14.943521, 34.675755 )
+ga_view_zoom_set( 43.809597 )
+ga_view_center_set( -15.605486, 36.867962 )
+ga_view_zoom_set( 49.285797 )
+ga_view_center_set( -16.350191, 39.334190 )
+ga_view_zoom_set( 55.446522 )
+ga_view_center_set( -17.187990, 42.108707 )
+ga_view_zoom_set( 62.377338 )
+ga_view_center_set( -8.455160, 22.771732 )
+ga_view_center_set( -8.932531, 24.742458 )
+ga_view_zoom_set( 70.174507 )
+ga_view_center_set( -9.552206, 26.987064 )
+ga_view_zoom_set( 78.946320 )
+ga_view_center_set( -10.249350, 29.512230 )
+ga_view_zoom_set( 88.814606 )
+ga_view_center_set( -11.695869, 33.817028 )
+ga_view_zoom_set( 99.916428 )
+ga_view_center_set( -13.323254, 38.659939 )
+ga_view_zoom_set( 112.405983 )
+ga_view_center_set( -15.330545, 45.211079 )
+ga_view_zoom_set( 126.456734 )
+ga_view_center_set( -17.638346, 52.630749 )
+ga_view_zoom_set( 142.263824 )
+ga_view_center_set( -16.215708, 21.332706 )
+ga_view_center_set( -18.476908, 28.953983 )
+ga_view_zoom_set( 160.046799 )
+ga_view_center_set( -17.053204, 23.677719 )
+ga_view_zoom_set( 142.263824 )
+ga_view_center_set( -14.775160, 15.235706 )
+ga_view_zoom_set( 113.811058 )
+ga_view_center_set( -12.952759, 8.482101 )
+ga_view_zoom_set( 91.048843 )
+ga_view_center_set( -12.142792, 5.480492 )
+ga_view_zoom_set( 80.932304 )
+ga_view_center_set( -11.309919, 4.816994 )
+ga_view_zoom_set( 71.939827 )
+ga_view_center_set( -10.594662, 4.302517 )
+ga_view_zoom_set( 63.946514 )
+ga_view_center_set( -9.570705, 3.961212 )
+ga_view_zoom_set( 51.157211 )
+ga_view_center_set( -9.133472, 4.005833 )
+ga_view_zoom_set( 45.473076 )
+ga_view_center_set( -8.617901, 6.662998 )
+ga_view_zoom_set( 40.420513 )
+ga_view_center_set( -8.173717, 9.053123 )
+ga_view_zoom_set( 35.929344 )
+ga_view_center_set( -7.463032, 12.990129 )
+ga_view_zoom_set( 28.743475 )
+ga_view_center_set( -7.147175, 14.800079 )
+ga_view_zoom_set( 25.549755 )
+ga_view_center_set( -6.643581, 16.818922 )
+ga_view_zoom_set( 22.710894 )
+ga_view_center_set( -6.195938, 18.613453 )
+ga_view_zoom_set( 20.187462 )
+ga_view_center_set( -5.201979, 22.528793 )
+ga_view_zoom_set( 14.681790 )
+ga_view_center_set( -6.812473, 22.007338 )
+ga_view_zoom_set( 16.517014 )
+ga_view_center_set( -8.624292, 21.420692 )
+ga_view_zoom_set( 18.581640 )
+ga_view_center_set( -10.662588, 20.760723 )
+ga_view_zoom_set( 20.904345 )
+ga_view_center_set( -12.955671, 20.018253 )
+ga_view_zoom_set( 23.517387 )
+ga_view_center_set( -15.590759, 19.210663 )
+ga_view_zoom_set( 26.457062 )
+ga_view_center_set( -18.565619, 18.322876 )
+ga_view_zoom_set( 29.764194 )
+ga_view_center_set( -21.912342, 17.359173 )
+ga_view_zoom_set( 33.484718 )
+ga_view_center_set( -25.690542, 16.274998 )
+ga_view_zoom_set( 37.670307 )
+ga_view_center_set( -30.502832, 15.676247 )
+ga_view_zoom_set( 42.379097 )
+ga_view_center_set( -35.916637, 15.019272 )
+ga_view_zoom_set( 47.676483 )
+ga_view_center_set( -42.007172, 14.280170 )
+ga_view_zoom_set( 53.636044 )
+ga_view_center_set( -48.859024, 13.448689 )
+ga_view_zoom_set( 60.340549 )
+ga_view_center_set( -57.775116, 11.921234 )
+ga_view_zoom_set( 67.883118 )
+ga_view_center_set( -67.805725, 10.202866 )
+ga_view_zoom_set( 76.368507 )
+ga_view_center_set( -79.090149, 8.269680 )
+ga_view_zoom_set( 85.914574 )
+ga_view_center_set( -71.252472, 10.053032 )
+ga_view_zoom_set( 76.368507 )
+ga_view_center_set( -79.090179, 8.269695 )
+ga_view_zoom_set( 85.914574 )
+ga_view_center_set( -87.907532, 6.263458 )
+ga_view_zoom_set( 96.653893 )
+ga_view_center_set( -97.827087, 4.006439 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -108.986542, 1.467293 )
+ga_view_zoom_set( 122.327576 )
+ga_view_center_set( -121.540985, -1.389259 )
+ga_view_zoom_set( 137.618530 )
+ga_view_center_set( -135.664764, -4.602844 )
+ga_view_zoom_set( 154.820847 )
+ga_view_center_set( -120.622864, 0.663185 )
+ga_view_zoom_set( 137.618530 )
+ga_view_center_set( -107.252258, 5.344101 )
+ga_view_zoom_set( 122.327583 )
+ga_view_center_set( -94.684540, 9.888977 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -83.513184, 13.928883 )
+ga_view_zoom_set( 96.653893 )
+ga_view_center_set( -73.583099, 17.519894 )
+ga_view_zoom_set( 85.914574 )
+ga_view_center_set( -87.424522, 12.546436 )
+ga_view_zoom_set( 96.653893 )
+ga_view_center_set( -103.071991, 6.989223 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -120.718025, 0.737389 )
+ga_view_zoom_set( 122.327576 )
+ga_view_aa_set( -29.269491, -7.764379, -0.432427 )
+ga_view_aa_set( -24.073450, 4.729672, 5.885700 )
+ga_view_center_set( -46.417305, 2.608251 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -65.685005, 0.581201 )
+ga_view_zoom_set( 122.327576 )
+ga_view_center_set( -87.361244, -1.699237 )
+ga_view_zoom_set( 137.618530 )
+ga_view_center_set( -65.444969, 0.581201 )
+ga_view_zoom_set( 122.327583 )
+ga_view_center_set( -46.049294, 2.565587 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -33.664085, 0.498242 )
+ga_view_zoom_set( 96.653893 )
+ga_view_center_set( -41.117989, -7.259101 )
+ga_view_zoom_set( 108.735626 )
+uil_primary_file.db_save(  )
+ga_view_center_set( -52.192108, -13.852370 )
+ga_view_zoom_set( 122.327576 )
+ga_view_center_set( -33.842979, 4.496768 )
+ga_view_center_set( -22.470169, 10.535243 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -22.470169, -9.037171 )
+ga_view_center_set( -17.033386, -0.338321 )
+ga_view_center_set( -28.534264, 0.920598 )
+ga_view_zoom_set( 122.327576 )
+ga_view_center_set( -17.076126, -0.338309 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -6.891060, -1.457332 )
+ga_view_zoom_set( 96.653893 )
+ga_view_center_set( -16.165794, -0.490031 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -0.101067, 3.398145 )
+ga_view_zoom_set( 96.653893 )
+ga_view_center_set( -16.165855, -0.490020 )
+ga_view_zoom_set( 108.735626 )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+ui_exec_function( "mesh_seed_display_mgr", "init" )
+ga_viewport_location_set( "default_viewport", -0.050689, 0.000000, 1 )
+mesh_seed_create( "Surface 56.2 56.3 56.4 56.1 59.1 59.2 59.3 59.4 63.2 63" // @
+".3 63.4 63.1 68.1 68.2 68.3 68.4 73.2 73.3 73.4 73.1 78.1 78.3 78.4 80.2 " // @
+"81.3 81.1 82.3 82.1 87.1 87.2 87.3 87.4 88.3 88.4 88.2 89.2 89.4 89.1 95." // @
+"1 95.2 95.3 95.4 106.2 106.3 106.4 106.1 107.1 107.3 107.4 109.2 109.3 10" // @
+"9.4 109.1 112.1 112.3 112.4 113.2 113.4 113.1 114.3 114.1 116.1 116.2 116" // @
+".3 116.4 117.2 117.3 117.4 117.1 120.1 120.2 120.3 120.4 121.2 121.4 121." // @
+"1 126.2 126.4 126.1 128.1 128.2 128.4 129.2 129.3 129.4 129.1 130.4 130.2" // @
+" 131.1 131.3 131.4 133.2 133.3 133.4 133.1 136.1 136.2 136.3 136.4 138.2 " // @
+"138.3 138.4 138.1 140.1 140.2 140.4 141.2 141.4 141.1 142.2 142.3 142.1 1" // @
+"44.1 144.3 144.4 146.3 148.3 148.4 148.2 149.2 149.4 149.1 151.1 151.2 15" // @
+"1.3 151.4 154.3 154.4 154.1", 2, 0, 0., 10., 0. )
+ga_view_aa_set( -21.018610, -2.538424, 2.531069 )
+ga_view_center_set( -34.964119, -5.290950 )
+ga_view_zoom_set( 122.327576 )
+ga_view_center_set( -16.379265, -0.575393 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -0.162804, 3.426560 )
+ga_view_zoom_set( 96.653893 )
+ga_view_center_set( -15.620628, -0.271937 )
+ga_view_zoom_set( 108.735626 )
+ga_view_center_set( -0.314568, 3.274808 )
+ga_view_zoom_set( 96.653893 )
+mesh_seed_display_mgr.erase(  )
+sgm_verify_surface_duplicates( FALSE, FALSE )
+$# No Duplicate Surfaces.
+gm_hilight_clear(  )
+mesh_seed_display_mgr.erase(  )
+INTEGER fem_create_mesh_surfa_num_nodes
+INTEGER fem_create_mesh_surfa_num_elems
+STRING fem_create_mesh_s_nodes_created[VIRTUAL]
+STRING fem_create_mesh_s_elems_created[VIRTUAL]
+fem_create_mesh_surf_4( "Hybrid", 49680,  @
+"Surface 56 59 63:78:5 80:82 87:89 95 106 107 109 112:114 116 117 120 121 " // @
+"126 128:131 133 136:140:2 141 142:148:2 149 151 154", 4, ["3.07559", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 138
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 138
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 136
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 136
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 133
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 133
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 131
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 131
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 109
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 109
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 95
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 95
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 73
+$# The current "Minimum Edge Length" restricts the mesher from creating a 
+$fine mesh for : Surface 73
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 271 nodes created.  IDs  = 1:271.
+$# === 152 elements created.  IDs  = 1:152.
+ga_view_center_set( -6.164726, 12.092168 )
+ga_view_zoom_set( 85.914574 )
+ga_view_center_set( -11.364861, 19.929821 )
+ga_view_zoom_set( 76.368507 )
+ga_view_center_set( -15.987190, 26.896626 )
+ga_view_zoom_set( 67.883118 )
+ga_view_center_set( -20.072250, 33.089336 )
+ga_view_zoom_set( 60.340549 )
+ga_view_center_set( -23.577122, 38.488720 )
+ga_view_zoom_set( 53.636044 )
+ga_view_center_set( -24.989826, 42.259045 )
+ga_view_zoom_set( 47.676483 )
+ga_view_center_set( -25.829746, 45.394230 )
+ga_view_zoom_set( 42.379097 )
+ga_view_center_set( -26.325016, 48.018429 )
+ga_view_zoom_set( 37.670307 )
+ga_view_center_set( -27.426453, 50.494789 )
+ga_view_zoom_set( 42.379097 )
+mesh_seed_display_mgr.erase(  )
+verify_boundaries_display_mgr.initialize(  )
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+ga_view_center_set( -26.576347, 47.382687 )
+ga_view_zoom_set( 37.670307 )
+ga_view_center_set( -25.820711, 44.616375 )
+ga_view_zoom_set( 33.484718 )
+ga_view_center_set( -25.149029, 42.157429 )
+ga_view_zoom_set( 29.764194 )
+ga_view_center_set( -24.572750, 39.940552 )
+ga_view_zoom_set( 26.457062 )
+ga_view_center_set( -24.115875, 37.628490 )
+ga_view_zoom_set( 23.517387 )
+ga_view_center_set( -23.726179, 35.597939 )
+ga_view_zoom_set( 20.904345 )
+ga_view_center_set( -23.445417, 33.800297 )
+ga_view_zoom_set( 18.581640 )
+ga_view_center_set( -24.746130, 23.208761 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_center_set( -6.662592, 6.006104 )
+ga_view_zoom_set( 95.688164 )
+ga_view_center_set( -12.387518, 11.797802 )
+ga_view_zoom_set( 85.056145 )
+ga_view_center_set( -17.476339, 16.797600 )
+ga_view_zoom_set( 75.605461 )
+ga_view_center_set( -21.630495, 19.342815 )
+ga_view_zoom_set( 67.204857 )
+ga_view_center_set( -25.229288, 21.464577 )
+ga_view_zoom_set( 59.737652 )
+ga_view_center_set( -28.261503, 23.204697 )
+ga_view_zoom_set( 53.100136 )
+ga_view_center_set( -32.379456, 25.688816 )
+ga_view_zoom_set( 42.480110 )
+ga_view_center_set( -31.734810, 25.444286 )
+ga_view_zoom_set( 37.760098 )
+ga_view_center_set( -31.069580, 25.108376 )
+ga_view_zoom_set( 33.564529 )
+ga_view_center_set( -28.842171, 23.800659 )
+ga_view_zoom_set( 24.410566 )
+ga_view_center_set( -14.439938, 16.721594 )
+gm_visibility_widget( " Node 1:271 Element 1:152", FALSE )
+gm_visibility_widget( " Node 1:271 Element 1:152", TRUE )
+ga_view_center_set( -1.442566, 1.649811 )
+ga_view_zoom_set( 95.688164 )
+ga_view_center_set( -2.527452, 4.036591 )
+ga_view_zoom_set( 85.056145 )
+ga_view_center_set( -3.491810, 6.158165 )
+ga_view_zoom_set( 75.605461 )
+ga_view_center_set( -4.349037, 8.044003 )
+ga_view_zoom_set( 67.204857 )
+ga_view_center_set( -5.509562, 9.814091 )
+ga_view_zoom_set( 59.737652 )
+ga_view_center_set( -6.561991, 11.387486 )
+ga_view_zoom_set( 53.100136 )
+ga_view_center_set( -7.497469, 12.804592 )
+ga_view_zoom_set( 47.200119 )
+ga_view_center_set( -8.329014, 14.064243 )
+ga_view_zoom_set( 41.955662 )
+ga_view_center_set( -9.068159, 15.183929 )
+ga_view_zoom_set( 37.293922 )
+ga_view_center_set( -9.617029, 17.591633 )
+ga_view_zoom_set( 41.955662 )
+ga_view_center_set( -10.234503, 20.300308 )
+ga_view_zoom_set( 47.200119 )
+ga_view_center_set( -11.114418, 24.218201 )
+ga_view_zoom_set( 53.100136 )
+ga_view_center_set( -12.104305, 28.688362 )
+ga_view_zoom_set( 59.737652 )
+ga_view_center_set( -13.217953, 33.764175 )
+ga_view_zoom_set( 67.204857 )
+ga_view_center_set( -7.169516, -32.768642 )
+ga_view_center_set( -12.545904, -3.870551 )
+ga_view_center_set( -13.964315, -2.123908 )
+ga_view_zoom_set( 59.737652 )
+ga_view_center_set( -15.225149, -0.571338 )
+ga_view_zoom_set( 53.100136 )
+ga_view_center_set( -16.345861, 0.808732 )
+ga_view_zoom_set( 47.200119 )
+ga_view_center_set( -17.342054, 2.035459 )
+ga_view_zoom_set( 41.955662 )
+ga_view_center_set( -18.564207, 3.418603 )
+ga_view_zoom_set( 37.293922 )
+ga_view_center_set( -19.780661, 4.700112 )
+ga_view_zoom_set( 33.150154 )
+ga_view_center_set( -20.931349, 5.885480 )
+ga_view_zoom_set( 29.466805 )
+ga_view_center_set( -21.995298, 6.959702 )
+ga_view_zoom_set( 26.192715 )
+ga_view_center_set( -23.041552, 8.179555 )
+ga_view_zoom_set( 23.282413 )
+ga_view_center_set( -23.971548, 9.263867 )
+ga_view_zoom_set( 20.695478 )
+ga_view_center_set( -24.798220, 10.227696 )
+ga_view_zoom_set( 18.395981 )
+ga_view_center_set( -25.533037, 11.084435 )
+ga_view_zoom_set( 16.351982 )
+ga_view_center_set( -26.169085, 11.851686 )
+ga_view_zoom_set( 14.535095 )
+ga_view_center_set( -27.734982, 12.077003 )
+ga_view_zoom_set( 16.351982 )
+ga_view_center_set( -29.496601, 12.336903 )
+ga_view_zoom_set( 18.395981 )
+ga_view_center_set( -31.478428, 12.629295 )
+ga_view_zoom_set( 20.695478 )
+ga_view_center_set( -35.937546, 13.287189 )
+ga_view_zoom_set( 25.869349 )
+ga_view_center_set( -38.724495, 13.698362 )
+ga_view_zoom_set( 29.103018 )
+ga_view_center_set( -41.848389, 14.160944 )
+ga_view_zoom_set( 32.740894 )
+ga_view_center_set( -45.362778, 14.681343 )
+ga_view_zoom_set( 36.833508 )
+ga_view_center_set( -53.270126, 15.852268 )
+ga_view_zoom_set( 46.041885 )
+ga_view_center_set( -58.121861, 16.584087 )
+ga_view_zoom_set( 51.797119 )
+ga_view_center_set( -63.580082, 17.407383 )
+ga_view_zoom_set( 58.271759 )
+ga_view_center_set( -69.720573, 18.333588 )
+ga_view_zoom_set( 65.555725 )
+ga_view_center_set( -76.628609, 19.375580 )
+ga_view_zoom_set( 73.750191 )
+ga_view_center_set( -84.400185, 20.547821 )
+ga_view_zoom_set( 82.968964 )
+ga_view_center_set( -93.143166, 21.866592 )
+ga_view_zoom_set( 93.340088 )
+ga_view_center_set( -103.088966, 23.569996 )
+ga_view_zoom_set( 105.007599 )
+ga_view_center_set( -114.277992, 25.486328 )
+ga_view_zoom_set( 118.133545 )
+ga_view_center_set( -55.211220, -13.497744 )
+ga_view_center_set( -55.149387, -11.498980 )
+ga_view_zoom_set( 105.007599 )
+ga_view_center_set( -54.764713, -9.136168 )
+ga_view_zoom_set( 93.340088 )
+ga_view_center_set( -54.194904, -6.742842 )
+ga_view_zoom_set( 82.968964 )
+ga_view_center_set( -53.283157, -4.297060 )
+ga_view_zoom_set( 73.750191 )
+ga_view_center_set( -57.581425, -6.019262 )
+ga_view_zoom_set( 82.968964 )
+ga_view_center_set( -62.416908, -7.956728 )
+ga_view_zoom_set( 93.340088 )
+ga_view_center_set( -67.856911, -10.136381 )
+ga_view_zoom_set( 105.007599 )
+ga_view_center_set( -73.976845, -12.547274 )
+ga_view_zoom_set( 118.133545 )
+ga_view_center_set( -80.861794, -15.259535 )
+ga_view_zoom_set( 132.900238 )
+ga_view_center_set( -88.607338, -18.310831 )
+ga_view_zoom_set( 149.512772 )
+ga_view_center_set( -21.326593, 16.077108 )
+ga_view_center_set( -9.982096, 18.137365 )
+ga_view_zoom_set( 132.900238 )
+ga_view_center_set( -0.500849, 17.836000 )
+ga_view_zoom_set( 118.133545 )
+ga_view_center_set( 7.803305, 17.073584 )
+ga_view_zoom_set( 105.007599 )
+ga_view_center_set( -6.897759, -2.877860 )
+$# UNDO: Save Equivalencing Changes
+ga_view_center_set( -16.854198, -55.624126 )
+ga_view_zoom_set( 28.388863 )
+ga_view_center_set( -18.391748, -58.052982 )
+ga_view_zoom_set( 42.583294 )
+ga_view_center_set( -20.739830, -58.896954 )
+ga_view_zoom_set( 47.906204 )
+ga_view_center_set( -23.400211, -59.846428 )
+ga_view_zoom_set( 53.894478 )
+ga_view_center_set( -29.428440, -61.982735 )
+ga_view_zoom_set( 67.368095 )
+ga_view_center_set( -33.222519, -63.370796 )
+ga_view_zoom_set( 75.789108 )
+ga_view_center_set( -39.602718, -66.568329 )
+ga_view_zoom_set( 85.262749 )
+ga_view_center_set( -46.813896, -70.232491 )
+ga_view_zoom_set( 95.920593 )
+ga_view_center_set( -54.775902, -74.731110 )
+ga_view_zoom_set( 107.910667 )
+ga_view_center_set( -61.827385, -81.570808 )
+ga_view_zoom_set( 121.399498 )
+ga_view_center_set( -48.042076, -73.079391 )
+ga_view_zoom_set( 107.910667 )
+ga_view_center_set( -24.156029, -66.246735 )
+ga_view_zoom_set( 95.920593 )
+ga_view_center_set( -35.731987, -69.390121 )
+ga_view_zoom_set( 107.910667 )
+ga_view_center_set( -48.204430, -72.841721 )
+ga_view_zoom_set( 121.399498 )
+ga_view_center_set( -43.185783, -67.272530 )
+ga_view_zoom_set( 107.910667 )
+ga_view_center_set( -38.837727, -62.322151 )
+ga_view_zoom_set( 95.920593 )
+ga_view_center_set( -31.880890, -54.401535 )
+ga_view_zoom_set( 76.736473 )
+ga_view_center_set( -28.815716, -50.881248 )
+ga_view_zoom_set( 68.210197 )
+ga_view_center_set( -27.733011, -47.561737 )
+ga_view_zoom_set( 60.631287 )
+ga_view_center_set( -26.791754, -44.611069 )
+ga_view_zoom_set( 53.894478 )
+ga_view_center_set( -25.285753, -39.889996 )
+ga_view_zoom_set( 43.115582 )
+ga_view_center_set( -24.108032, -36.113144 )
+ga_view_zoom_set( 34.492466 )
+ga_view_center_set( -23.319868, -37.262272 )
+ga_view_zoom_set( 30.659969 )
+ga_view_center_set( -22.619272, -38.401382 )
+ga_view_zoom_set( 27.253305 )
+ga_view_center_set( -21.996527, -39.423424 )
+ga_view_zoom_set( 24.225161 )
+ga_view_center_set( -21.442984, -40.331909 )
+ga_view_zoom_set( 21.533476 )
+ga_view_center_set( -21.198833, -41.274662 )
+ga_view_zoom_set( 19.140867 )
+ga_view_center_set( -21.000504, -42.795105 )
+ga_view_zoom_set( 15.312694 )
+ga_view_center_set( -20.912361, -43.470863 )
+ga_view_zoom_set( 13.611283 )
+ga_view_center_set( -20.805521, -43.824608 )
+ga_view_zoom_set( 12.098919 )
+ga_view_center_set( -20.710550, -44.139046 )
+ga_view_zoom_set( 10.754595 )
+$# UNDO: Save Equivalencing Changes
+ga_view_center_set( -21.742533, -43.972313 )
+ga_view_zoom_set( 12.098919 )
+ga_view_center_set( -22.898769, -43.784740 )
+ga_view_zoom_set( 13.611284 )
+ga_view_center_set( -24.199530, -43.573723 )
+ga_view_zoom_set( 15.312695 )
+ga_view_center_set( -25.632839, -43.330315 )
+ga_view_zoom_set( 17.226782 )
+ga_view_center_set( -28.938915, -43.066635 )
+ga_view_zoom_set( 21.533478 )
+ga_view_center_set( -31.005211, -42.901833 )
+ga_view_zoom_set( 24.225163 )
+ga_view_center_set( -33.329792, -42.725937 )
+ga_view_zoom_set( 27.253307 )
+ga_view_center_set( -36.297913, -42.763367 )
+ga_view_zoom_set( 30.659971 )
+ga_view_center_set( -39.781460, -42.769379 )
+ga_view_zoom_set( 34.492466 )
+ga_view_center_set( -43.727516, -42.762592 )
+ga_view_zoom_set( 38.804024 )
+ga_view_center_set( -48.227726, -42.648369 )
+ga_view_zoom_set( 43.654526 )
+ga_view_center_set( -53.290482, -42.519871 )
+ga_view_zoom_set( 49.111343 )
+ga_view_center_set( -64.681671, -42.230743 )
+ga_view_zoom_set( 61.389179 )
+ga_view_center_set( -71.801178, -42.050026 )
+ga_view_zoom_set( 69.062828 )
+ga_view_center_set( -58.679245, -26.856209 )
+ga_view_center_set( -64.330597, -27.466057 )
+ga_view_zoom_set( 77.695679 )
+ga_view_center_set( -70.688339, -28.152138 )
+ga_view_zoom_set( 87.407639 )
+ga_view_center_set( -77.840805, -28.923981 )
+ga_view_zoom_set( 98.333595 )
+ga_view_center_set( -85.887276, -29.792290 )
+ga_view_zoom_set( 110.625298 )
+ga_view_center_set( -95.069862, -30.291565 )
+ga_view_zoom_set( 124.453461 )
+ga_view_center_set( -105.400307, -30.853271 )
+ga_view_zoom_set( 140.010147 )
+ga_view_center_set( -128.643738, -32.117096 )
+ga_view_zoom_set( 175.012680 )
+ga_view_center_set( -98.891563, 30.887476 )
+ga_view_center_set( -88.390793, -5.865192 )
+ga_view_center_set( -86.223335, 1.186612 )
+ga_view_zoom_set( 155.566833 )
+ga_view_center_set( -84.893707, 6.206639 )
+ga_view_zoom_set( 138.281631 )
+ga_view_center_set( -81.541008, 9.704075 )
+ga_view_zoom_set( 122.917007 )
+ga_view_center_set( -78.560837, 12.812908 )
+ga_view_zoom_set( 109.259560 )
+ga_view_center_set( -75.873665, 15.576321 )
+ga_view_zoom_set( 97.119606 )
+ga_view_center_set( -73.485077, 18.032688 )
+ga_view_zoom_set( 86.328537 )
+ga_view_center_set( -65.308502, 19.041573 )
+ga_view_zoom_set( 76.736481 )
+ga_view_center_set( -57.986858, 19.884834 )
+ga_view_zoom_set( 68.210205 )
+ga_view_center_set( -51.478767, 20.634392 )
+ga_view_zoom_set( 60.631294 )
+ga_view_center_set( -45.693760, 21.300674 )
+ga_view_zoom_set( 53.894485 )
+ga_view_center_set( -41.942871, 24.525127 )
+ga_view_zoom_set( 47.906208 )
+ga_view_center_set( -39.277218, 27.408020 )
+ga_view_zoom_set( 42.583298 )
+ga_view_center_set( -54.607224, 100.651321 )
+ga_view_center_set( -63.824120, 101.445168 )
+ga_view_zoom_set( 47.906212 )
+ga_view_center_set( -74.061516, 102.469841 )
+ga_view_zoom_set( 53.894489 )
+ga_view_center_set( -85.451698, 103.791809 )
+ga_view_zoom_set( 60.631302 )
+ga_view_center_set( -98.122856, 105.469398 )
+ga_view_zoom_set( 68.210213 )
+ga_view_center_set( -112.297623, 107.410217 )
+ga_view_zoom_set( 76.736488 )
+ga_view_center_set( -128.214127, 109.593651 )
+ga_view_zoom_set( 86.328552 )
+ga_view_center_set( -146.120193, 112.050018 )
+ga_view_zoom_set( 97.119621 )
+ga_view_center_set( -166.264542, 114.813431 )
+ga_view_zoom_set( 109.259575 )
+ga_view_center_set( -1.282568, -34.872208 )
+ga_view_center_set( -21.071936, -34.250420 )
+ga_view_zoom_set( 122.917023 )
+ga_view_center_set( -43.334908, -33.502674 )
+ga_view_zoom_set( 138.281647 )
+ga_view_center_set( -68.218025, -32.498653 )
+ga_view_zoom_set( 155.566849 )
+ga_view_center_set( -95.723045, -31.185970 )
+ga_view_zoom_set( 175.012711 )
+ga_viewport_location_set( "default_viewport", 0.025344, 0.031681, 1 )
+ga_viewport_location_set( "default_viewport", 0.000000, 0.000000, 1 )
+STRING fem_delete_any_deleted_ids[VIRTUAL]
+fem_delete_element( "Node 1:271 Elm 1:152", fem_delete_any_deleted_ids )
+$# 152 Elements deleted: Element 1:152
+STRING fem_delete_any_not_found_ids[VIRTUAL]
+fem_delete_free_node( "Node 1:271 Elm 1:152", fem_delete_any_deleted_ids,  @
+fem_delete_any_not_found_ids )
+$# 271 Nodes deleted: Node 1:271
+ga_view_center_set( -116.046280, -27.820347 )
+ga_view_zoom_set( 196.889297 )
+ga_view_center_set( -138.909851, -24.033989 )
+ga_view_zoom_set( 221.500458 )
+ga_view_center_set( -116.483162, -26.145607 )
+ga_view_zoom_set( 196.889297 )
+ga_view_center_set( -96.548279, -28.022587 )
+ga_view_zoom_set( 175.012711 )
+ga_view_center_set( -78.828346, -29.691002 )
+ga_view_zoom_set( 155.566849 )
+gm_visibility_widget( "", FALSE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+gm_visibility_widget( "", TRUE )
+mesh_seed_create( "Surface 56.2 56.3 56.4 56.1 59.1 59.2 59.3 59.4 63.2 63" // @
+".3 63.4 63.1 68.1 68.2 68.3 68.4 73.2 73.3 73.4 73.1 78.1 78.3 78.4 80.2 " // @
+"81.3 81.1 82.3 82.1 87.1 87.2 87.3 87.4 88.3 88.4 88.2 89.2 89.4 89.1 95." // @
+"1 95.2 95.3 95.4 106.2 106.3 106.4 106.1 107.1 107.3 107.4 109.2 109.3 10" // @
+"9.4 109.1 112.1 112.3 112.4 113.2 113.4 113.1 114.3 114.1 116.1 116.2 116" // @
+".3 116.4 117.2 117.3 117.4 117.1 120.1 120.2 120.3 120.4 121.2 121.4 121." // @
+"1 126.2 126.4 126.1 128.1 128.2 128.4 129.2 129.3 129.4 129.1 130.4 130.2" // @
+" 131.1 131.3 131.4 133.2 133.3 133.4 133.1 136.1 136.2 136.3 136.4 138.2 " // @
+"138.3 138.4 138.1 140.1 140.2 140.4 141.2 141.4 141.1 142.2 142.3 142.1 1" // @
+"44.1 144.3 144.4 146.3 148.3 148.4 148.2 149.2 149.4 149.1 151.1 151.2 15" // @
+"1.3 151.4 154.3 154.4 154.1", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 78.1 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -1.539961, -2.160519 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( -4.879620, -2.203335 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( -7.848185, -2.241398 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -12.719721, 1.953529 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -17.049982, 5.682358 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -23.978373, 11.648483 )
+ga_view_zoom_set( 65.049988 )
+ga_view_center_set( -27.057657, 14.300095 )
+ga_view_zoom_set( 57.822212 )
+ga_view_center_set( -29.794817, 16.619061 )
+ga_view_zoom_set( 51.397522 )
+ga_view_center_set( -32.126472, 18.562099 )
+ga_view_zoom_set( 45.686687 )
+ga_view_center_set( -34.048859, 20.169094 )
+ga_view_zoom_set( 40.610390 )
+ga_view_center_set( -35.637505, 21.490738 )
+ga_view_zoom_set( 36.098125 )
+ga_view_center_set( -36.171509, 22.345142 )
+ga_view_zoom_set( 32.087223 )
+ga_view_center_set( -36.603973, 23.072960 )
+ga_view_zoom_set( 28.521976 )
+ga_view_center_set( -36.941521, 23.682405 )
+ga_view_zoom_set( 25.352867 )
+ga_view_center_set( -37.183220, 24.182463 )
+ga_view_zoom_set( 22.535881 )
+ga_view_center_set( -37.212852, 24.404716 )
+ga_view_zoom_set( 20.031895 )
+ga_view_center_set( -37.226021, 24.569345 )
+ga_view_zoom_set( 17.806129 )
+ga_view_center_set( -37.220169, 24.698122 )
+ga_view_zoom_set( 15.827671 )
+ga_view_center_set( -37.571381, 25.330294 )
+ga_view_zoom_set( 17.806129 )
+ga_view_center_set( -37.966484, 26.041491 )
+ga_view_zoom_set( 20.031895 )
+ga_view_center_set( -38.855469, 27.641670 )
+ga_view_zoom_set( 25.039867 )
+ga_view_center_set( -39.411102, 28.641783 )
+ga_view_zoom_set( 28.169851 )
+ga_view_center_set( -40.025749, 29.766911 )
+ga_view_zoom_set( 31.691082 )
+ga_view_center_set( -40.717232, 31.032679 )
+ga_view_zoom_set( 35.652466 )
+ga_view_center_set( -42.273079, 33.880657 )
+ga_view_zoom_set( 44.565582 )
+ga_view_center_set( -43.245468, 35.660641 )
+ga_view_zoom_set( 50.136280 )
+ga_view_center_set( -44.320862, 37.663120 )
+ga_view_zoom_set( 56.403316 )
+ga_view_center_set( -45.530701, 39.915913 )
+ga_view_zoom_set( 63.453732 )
+ga_view_center_set( -46.891754, 42.450298 )
+ga_view_zoom_set( 71.385445 )
+ga_view_center_set( -48.422958, 45.301495 )
+ga_view_zoom_set( 80.308624 )
+ga_view_center_set( -50.145584, 48.509083 )
+ga_view_zoom_set( 90.347198 )
+ga_view_center_set( -47.888397, 52.577969 )
+ga_view_zoom_set( 80.308624 )
+ga_view_center_set( -45.881981, 56.194752 )
+ga_view_zoom_set( 71.385445 )
+ga_view_center_set( -44.450523, 58.424068 )
+ga_view_zoom_set( 63.453728 )
+ga_view_center_set( -43.261570, 60.280521 )
+ga_view_zoom_set( 56.403313 )
+ga_view_center_set( -42.223240, 61.875088 )
+ga_view_zoom_set( 50.136276 )
+ga_view_center_set( -41.333241, 63.275990 )
+ga_view_zoom_set( 44.565578 )
+ga_view_center_set( -40.747242, 64.447983 )
+ga_view_zoom_set( 39.613846 )
+ga_view_center_set( -40.239368, 65.489761 )
+ga_view_zoom_set( 35.212307 )
+ga_view_center_set( -39.787930, 66.415787 )
+ga_view_zoom_set( 31.299828 )
+ga_view_center_set( -39.386646, 67.238930 )
+ga_view_zoom_set( 27.822069 )
+ga_view_center_set( -39.176296, 67.924873 )
+ga_view_zoom_set( 24.730728 )
+ga_view_center_set( -39.054348, 68.493958 )
+ga_view_zoom_set( 21.982870 )
+ga_view_center_set( -38.899879, 67.786659 )
+ga_view_zoom_set( 24.730728 )
+ga_view_center_set( -38.726105, 66.990944 )
+ga_view_zoom_set( 27.822069 )
+ga_view_center_set( -38.530617, 66.095779 )
+ga_view_zoom_set( 31.299828 )
+ga_view_center_set( -38.310692, 65.088722 )
+ga_view_zoom_set( 35.212307 )
+ga_view_center_set( -39.183197, 64.020882 )
+ga_view_zoom_set( 39.613846 )
+ga_view_center_set( -41.175606, 61.618263 )
+ga_view_zoom_set( 49.517307 )
+ga_view_center_set( -40.113472, 59.219315 )
+ga_view_zoom_set( 55.706970 )
+ga_view_center_set( -38.918602, 56.520485 )
+ga_view_zoom_set( 62.670341 )
+ga_view_center_set( -37.574333, 53.484314 )
+ga_view_zoom_set( 70.504135 )
+INTEGER fem_create_mesh_surfa_num_nodes
+INTEGER fem_create_mesh_surfa_num_elems
+STRING fem_create_mesh_s_nodes_created[VIRTUAL]
+STRING fem_create_mesh_s_elems_created[VIRTUAL]
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 56", 4, ["1.31785", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 4 nodes created.  IDs  = 1:4.
+$# === 1 element created.  ID = 1.
+ga_view_center_set( -39.567558, 59.348045 )
+ga_view_zoom_set( 62.670341 )
+ga_view_center_set( -41.359909, 64.580856 )
+ga_view_zoom_set( 55.706970 )
+ga_view_center_set( -42.953110, 69.232246 )
+ga_view_zoom_set( 49.517307 )
+ga_view_center_set( -45.297119, 73.627258 )
+ga_view_zoom_set( 44.015385 )
+ga_view_center_set( -47.380661, 77.533928 )
+ga_view_zoom_set( 39.124786 )
+ga_view_center_set( -50.714363, 83.784607 )
+ga_view_zoom_set( 31.299829 )
+ga_view_center_set( -52.196011, 86.572983 )
+ga_view_zoom_set( 27.822071 )
+ga_view_center_set( -53.513027, 89.051537 )
+ga_view_zoom_set( 24.730730 )
+ga_view_center_set( -55.620258, 93.017242 )
+ga_view_zoom_set( 19.784584 )
+ga_view_center_set( -55.522697, 94.838310 )
+ga_view_zoom_set( 17.586296 )
+ga_view_center_set( -55.430202, 96.457016 )
+ga_view_zoom_set( 15.632263 )
+ga_view_center_set( -55.347961, 97.895889 )
+ga_view_zoom_set( 13.895345 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 121", 4, ["1.90475", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 24 nodes created.  IDs  = 5:28.
+$# === 12 elements created.  IDs  = 2:13.
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( -8.090858, 1.403934 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( -14.513275, 2.731236 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( -20.184029, 3.834949 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -25.190895, 4.782188 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -27.566505, 5.112980 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -29.678169, 5.406998 )
+ga_view_zoom_set( 72.277763 )
+ga_view_center_set( -32.928551, 5.877449 )
+ga_view_zoom_set( 57.822212 )
+ga_view_center_set( -32.966576, 7.683201 )
+ga_view_zoom_set( 51.397522 )
+ga_view_center_set( -33.000381, 9.288311 )
+ga_view_zoom_set( 45.686687 )
+ga_view_center_set( -33.030418, 10.715080 )
+ga_view_zoom_set( 40.610390 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 117", 4, ["0.982775", "0.1", @
+ "0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 29,30.
+$# === 1 element created.  ID = 14.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 151", 4, ["1.88454", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 20 nodes created.  IDs  = 31:50.
+$# === 10 elements created.  IDs  = 15:24.
+ga_view_center_set( -26.938868, -41.266220 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 136", 4, ["0.982672", "0.1", @
+ "0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 51,52.
+$# === 1 element created.  ID = 25.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 154", 4, ["1.88206", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 20 nodes created.  IDs  = 53:72.
+$# === 10 elements created.  IDs  = 26:35.
+ga_view_center_set( -22.471731, -88.374283 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 63", 4, ["1.31783", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 73,74.
+$# === 1 element created.  ID = 36.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 81", 4, ["0.909744", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 1 node created.  ID = 75.
+$# === 1 element created.  ID = 37.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 82", 4, ["0.915507", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 76,77.
+$# === 1 element created.  ID = 38.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 78", 4, ["3.07559", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 12 nodes created.  IDs  = 78:89.
+$# === 7 elements created.  IDs  = 39:45.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 73", 4, ["0.915581", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 90,91.
+$# === 1 element created.  ID = 46.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 80", 4, ["0.909807", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 1 node created.  ID = 92.
+$# === 1 element created.  ID = 47.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 68", 4, ["1.31783", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 93,94.
+$# === 1 element created.  ID = 48.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 149", 4, ["1.88213", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 20 nodes created.  IDs  = 95:114.
+$# === 10 elements created.  IDs  = 49:58.
+ga_view_center_set( -19.222902, -25.428165 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 142", 4, ["0.98269", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 115,116.
+$# === 1 element created.  ID = 59.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 148", 4, ["1.88451", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 20 nodes created.  IDs  = 117:136.
+$# === 10 elements created.  IDs  = 60:69.
+ga_view_center_set( -28.157187, 43.609493 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 129", 4, ["0.982773", "0.1", @
+ "0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 137,138.
+$# === 1 element created.  ID = 70.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 144", 4, ["1.90472", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 24 nodes created.  IDs  = 139:162.
+$# === 12 elements created.  IDs  = 71:82.
+ga_view_center_set( -52.117321, 100.870163 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 59", 4, ["1.31788", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 2 nodes created.  IDs  = 163,164.
+$# === 1 element created.  ID = 83.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 113", 4, ["2.37342", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 6 nodes created.  IDs  = 165:170.
+$# === 2 elements created.  IDs  = 84,85.
+ga_view_center_set( -51.917072, 100.936913 )
+ga_view_zoom_set( 36.098125 )
+ga_view_center_set( -51.739079, 100.996254 )
+ga_view_zoom_set( 32.087223 )
+ga_view_center_set( -51.580860, 101.048996 )
+ga_view_zoom_set( 28.521976 )
+ga_view_center_set( -51.440220, 101.227127 )
+ga_view_zoom_set( 25.352867 )
+ga_view_center_set( -51.315205, 101.385468 )
+ga_view_zoom_set( 22.535881 )
+ga_view_center_set( -51.204082, 101.526222 )
+ga_view_zoom_set( 20.031895 )
+ga_view_center_set( -51.085560, 101.730331 )
+ga_view_zoom_set( 17.806129 )
+ga_view_center_set( -50.895901, 102.056923 )
+ga_view_zoom_set( 14.244904 )
+ga_view_center_set( -50.811607, 102.202057 )
+ga_view_zoom_set( 12.662136 )
+ga_view_center_set( -50.736679, 102.331070 )
+ga_view_zoom_set( 11.255232 )
+ga_view_center_set( -51.082161, 102.193718 )
+ga_view_zoom_set( 12.662136 )
+ga_view_center_set( -51.470829, 102.039185 )
+ga_view_zoom_set( 14.244904 )
+ga_view_center_set( -51.908070, 101.865334 )
+ga_view_zoom_set( 16.025517 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( -4.670944, 12.964306 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( -8.824097, 25.166904 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( -12.515808, 35.937557 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -15.763489, 44.564198 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -18.650330, 52.232357 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -21.216400, 59.048481 )
+ga_view_zoom_set( 72.277763 )
+ga_view_center_set( -23.497345, 65.083511 )
+ga_view_zoom_set( 64.246902 )
+ga_view_center_set( -25.905029, 70.152290 )
+ga_view_zoom_set( 57.108356 )
+ga_view_center_set( -30.027641, 78.194748 )
+ga_view_zoom_set( 45.686684 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 112", 4, ["0.964827", "0.1", @
+ "0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 1 element created.  ID = 86.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 114", 4, ["0.978261", "0.1", @
+ "0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 1 element created.  ID = 87.
+gm_visibility_widget( " Node 1:170 Element 1:87", FALSE )
+gm_visibility_widget( " Node 1:170 Element 1:87", TRUE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( -0.817457, 5.787220 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( -1.545301, 11.952755 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( -2.192305, 17.433216 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -2.767426, 22.304752 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -4.872416, 28.078403 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -8.769650, 37.556850 )
+ga_view_zoom_set( 65.049988 )
+ga_view_center_set( -10.608660, 41.855030 )
+ga_view_zoom_set( 57.822212 )
+ga_view_center_set( -21.594883, 60.358120 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 107", 4, ["1.11561", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 15 nodes created.  IDs  = 171:185.
+$# === 9 elements created.  IDs  = 88:96.
+ga_view_center_set( -24.275005, 64.691925 )
+ga_view_zoom_set( 51.397522 )
+ga_view_center_set( -26.674229, 68.544189 )
+ga_view_zoom_set( 45.686687 )
+ga_view_center_set( -28.806866, 71.968437 )
+ga_view_zoom_set( 40.610390 )
+ga_view_center_set( -30.796009, 75.145706 )
+ga_view_zoom_set( 36.098125 )
+ga_view_center_set( -32.564129, 77.969940 )
+ga_view_zoom_set( 32.087223 )
+ga_view_center_set( -34.135780, 80.480377 )
+ga_view_zoom_set( 28.521976 )
+ga_view_center_set( -35.448421, 82.618103 )
+ga_view_zoom_set( 25.352867 )
+ga_view_center_set( -36.606888, 84.493294 )
+ga_view_zoom_set( 22.535881 )
+ga_view_center_set( -37.629223, 86.145325 )
+ga_view_zoom_set( 20.031895 )
+ga_view_center_set( -38.531384, 87.600632 )
+ga_view_zoom_set( 17.806129 )
+ga_view_center_set( -38.478699, 87.521599 )
+ga_view_zoom_set( 20.031895 )
+ga_view_center_set( -38.419430, 87.432693 )
+ga_view_zoom_set( 22.535881 )
+ga_view_center_set( -38.352749, 87.332680 )
+ga_view_zoom_set( 25.352867 )
+ga_view_center_set( -38.277737, 87.220169 )
+ga_view_zoom_set( 28.521976 )
+ga_view_center_set( -38.193363, 87.093590 )
+ga_view_zoom_set( 32.087223 )
+ga_view_center_set( -38.098431, 86.951180 )
+ga_view_zoom_set( 36.098125 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 109", 4, ["1.11567", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 14 nodes created.  IDs  = 186:199.
+$# === 10 elements created.  IDs  = 97:106.
+ga_view_center_set( -26.908016, 58.433643 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 126", 4, ["1.04823", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 11 nodes created.  IDs  = 200:210.
+$# === 6 elements created.  IDs  = 107:112.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 116", 4, ["1.0483", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 10 nodes created.  IDs  = 211:220.
+$# === 6 elements created.  IDs  = 113:118.
+ga_view_center_set( -19.327414, 25.584352 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 130", 4, ["1.70509", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 7 nodes created.  IDs  = 221:227.
+$# === 5 elements created.  IDs  = 119:123.
+ga_view_center_set( -17.161528, 11.145106 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 128", 4, ["1.06429", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 12 nodes created.  IDs  = 228:239.
+$# === 6 elements created.  IDs  = 124:129.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 120", 4, ["1.06428", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 12 nodes created.  IDs  = 240:251.
+$# === 7 elements created.  IDs  = 130:136.
+ga_view_center_set( -7.776017, -11.957696 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 138", 4, ["1.08119", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 12 nodes created.  IDs  = 252:263.
+$# === 7 elements created.  IDs  = 137:143.
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 131", 4, ["1.08121", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 12 nodes created.  IDs  = 264:275.
+$# === 9 elements created.  IDs  = 144:152.
+ga_view_center_set( -0.556392, -38.670307 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 141", 4, ["1.75526", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 10 nodes created.  IDs  = 276:285.
+$# === 6 elements created.  IDs  = 153:158.
+ga_view_center_set( 3.775383, -59.246227 )
+fem_create_mesh_surf_4( "Hybrid", 49680, "Surface 133", 4, ["1.09624", "0.1",  @
+"0.2", "1.0"], "Quad4", "#", "#", "Coord 0", "Coord 0",  @
+fem_create_mesh_surfa_num_nodes, fem_create_mesh_surfa_num_elems,  @
+fem_create_mesh_s_nodes_created, fem_create_mesh_s_elems_created )
+$# Processing the geometry...
+$# Processing the geometry...
+$# Completed Meshing the Vertices...
+$# Completed Meshing the Edges...
+$# Completed Meshing the Faces...
+$# === 15 nodes created.  IDs  = 286:300.
+$# === 10 elements created.  IDs  = 159:168.
+$# UNDO: FEM Create Mesh Surface for Surface 140
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 140", 1, ["1.09624"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 14 nodes and 6 elements created for Surface 140.
+$# === 14 nodes created.  IDs  = 301:314.
+$# === 6 elements created.  IDs  = 169:174.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 89", 1, ["1.09645"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 11 nodes and 5 elements created for Surface 89.
+$# === 11 nodes created.  IDs  = 315:325.
+$# === 5 elements created.  IDs  = 175:179.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 88", 1, ["1.09646"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 11 nodes and 5 elements created for Surface 88.
+$# === 11 nodes created.  IDs  = 326:336.
+$# === 5 elements created.  IDs  = 180:184.
+ga_view_center_set( 10.634028, -91.012619 )
+ga_view_center_set( 9.699540, -91.519897 )
+ga_view_zoom_set( 40.610390 )
+ga_view_center_set( 8.648232, -92.090576 )
+ga_view_zoom_set( 45.686687 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_center_set( 2.459534, -8.292274 )
+ga_view_zoom_set( 163.630585 )
+ga_view_center_set( 4.880100, -15.796059 )
+ga_view_zoom_set( 184.084412 )
+ga_view_center_set( 2.459541, -8.292274 )
+ga_view_zoom_set( 163.630585 )
+ga_view_center_set( 0.307934, -1.622246 )
+ga_view_zoom_set( 145.449402 )
+ga_view_center_set( -1.843645, 4.689163 )
+ga_view_zoom_set( 129.288361 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( 3.035994, -10.734447 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( 5.733440, -19.383327 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( 8.131113, -27.071209 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( 9.112194, -34.074024 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( 9.984251, -40.298733 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( 11.283321, -50.258305 )
+ga_view_zoom_set( 65.049988 )
+ga_view_center_set( 11.497171, -54.150166 )
+ga_view_zoom_set( 57.822212 )
+ga_view_center_set( 11.687253, -57.609608 )
+ga_view_zoom_set( 51.397522 )
+ga_view_center_set( 11.991382, -63.114292 )
+ga_view_zoom_set( 41.118019 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 87", 1, ["0.60011"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 4 nodes and 1 element created for Surface 87.
+$# === 4 nodes created.  IDs  = 337:340.
+$# === 1 element created.  ID = 185.
+ga_view_center_set( 12.234685, -62.065037 )
+ga_view_zoom_set( 46.257771 )
+ga_view_center_set( 12.508405, -60.884640 )
+ga_view_zoom_set( 52.039993 )
+ga_view_center_set( 12.816342, -59.556698 )
+ga_view_zoom_set( 58.544991 )
+ga_view_center_set( 14.223662, -63.042538 )
+ga_view_zoom_set( 65.863113 )
+ga_view_center_set( 15.831269, -67.037201 )
+ga_view_zoom_set( 74.096001 )
+ga_view_center_set( 17.639820, -71.531197 )
+ga_view_zoom_set( 83.358002 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 95", 1, ["0.5999"], "Quad4" @
+, "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 4 nodes and 1 element created for Surface 95.
+$# === 4 nodes created.  IDs  = 341:344.
+$# === 1 element created.  ID = 186.
+ga_view_center_set( -14.036222, 51.005070 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 106", 1, ["0.598963"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 4 nodes and 1 element created for Surface 106.
+$# === 4 nodes created.  IDs  = 345:348.
+$# === 1 element created.  ID = 187.
+ga_view_center_set( -15.406335, 56.540340 )
+ga_view_zoom_set( 74.096001 )
+ga_view_center_set( -16.624210, 61.460590 )
+ga_view_zoom_set( 65.863113 )
+ga_view_center_set( -17.706772, 65.834122 )
+ga_view_zoom_set( 58.544991 )
+ga_view_center_set( -18.707546, 69.721725 )
+ga_view_zoom_set( 52.039993 )
+ga_view_center_set( -19.614225, 73.160255 )
+ga_view_zoom_set( 46.257771 )
+ga_view_center_set( -20.496181, 76.338371 )
+ga_view_zoom_set( 41.118019 )
+ga_view_center_set( -21.280169, 79.163376 )
+ga_view_zoom_set( 36.549351 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_center_set( -1.616545, -1.317413 )
+ga_view_zoom_set( 129.288361 )
+ga_view_center_set( -3.231590, -1.189919 )
+ga_view_zoom_set( 114.922989 )
+ga_view_center_set( -4.667192, -1.076584 )
+ga_view_zoom_set( 102.153770 )
+ga_view_center_set( -6.816360, 3.053905 )
+ga_view_zoom_set( 90.803352 )
+ga_view_center_set( -8.726774, 6.755291 )
+ga_view_zoom_set( 80.714088 )
+ga_view_center_set( -10.451427, 10.045422 )
+ga_view_zoom_set( 71.745857 )
+ga_view_center_set( -11.984461, 12.969982 )
+ga_view_zoom_set( 63.774094 )
+ga_view_center_set( -13.347143, 15.569588 )
+ga_view_zoom_set( 56.688084 )
+ga_view_center_set( -15.527445, 19.728947 )
+ga_view_zoom_set( 45.350468 )
+ga_view_center_set( -16.526279, 21.309204 )
+ga_view_zoom_set( 40.311527 )
+ga_view_center_set( -17.427391, 22.634369 )
+ga_view_zoom_set( 35.832470 )
+ga_view_center_set( -18.228369, 23.659174 )
+ga_view_zoom_set( 31.851084 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( -0.480299, 2.752644 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( -1.079723, 6.006672 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( -1.726727, 8.823025 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -2.876947, 10.785175 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -4.987940, 13.816360 )
+ga_view_zoom_set( 73.181236 )
+ga_view_center_set( -5.926172, 15.163544 )
+ga_view_zoom_set( 65.049988 )
+ga_view_center_set( -6.824287, 16.382435 )
+ga_view_zoom_set( 57.822212 )
+ga_view_center_set( -7.622610, 17.465889 )
+ga_view_zoom_set( 51.397522 )
+ga_view_center_set( -8.899944, 19.199417 )
+ga_view_zoom_set( 41.118019 )
+ga_view_center_set( -9.521723, 20.023945 )
+ga_view_zoom_set( 36.549351 )
+ga_view_center_set( -10.074402, 20.756855 )
+ga_view_zoom_set( 32.488312 )
+ga_view_center_set( -10.565680, 21.408331 )
+ga_view_zoom_set( 28.878500 )
+mesh_seed_display_mgr.erase(  )
+STRING fem_delete_mesh__deleted_labels[VIRTUAL]
+STRING fem_delete_mes_not_found_labels[VIRTUAL]
+fem_delete_mesh_from_surface( "Surface 130", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 130
+ga_view_center_set( -9.380207, 20.714130 )
+ga_view_zoom_set( 32.488312 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( 3.415392, -12.474560 )
+ga_view_zoom_set( 164.843719 )
+ga_view_center_set( 7.256029, -25.215801 )
+ga_view_zoom_set( 185.449188 )
+ga_view_center_set( 4.085991, -13.754787 )
+ga_view_zoom_set( 164.843719 )
+ga_view_center_set( 1.268156, -3.567204 )
+ga_view_zoom_set( 146.527756 )
+ga_view_center_set( -1.236599, 5.488407 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( -3.934015, 14.265713 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( -6.407843, 22.105839 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -8.640629, 29.142506 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -10.655413, 35.487507 )
+ga_view_zoom_set( 81.312485 )
+fem_delete_mesh_from_surface( "Surface 109", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 109
+ga_view_center_set( -8.640623, 30.796383 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -10.926037, 36.960972 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -12.957499, 42.440594 )
+ga_view_zoom_set( 72.277763 )
+fem_delete_mesh_from_surface( "Surface 107", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 107
+ga_view_center_set( -10.551813, 38.003407 )
+ga_view_zoom_set( 81.312485 )
+fem_delete_mesh_from_surface( "Surface 126", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 126
+ga_view_center_set( -12.583275, 38.404350 )
+ga_view_zoom_set( 72.277763 )
+fem_delete_mesh_from_surface( "Surface 116", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 116
+ga_view_center_set( -12.503086, 41.959427 )
+ga_view_zoom_set( 81.312485 )
+fem_delete_mesh_from_surface( "Surface 120", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 120
+ga_view_center_set( -14.367495, 47.131676 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -12.473021, 39.132755 )
+ga_view_zoom_set( 81.312485 )
+fem_delete_mesh_from_surface( "Surface 128", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 128
+ga_view_center_set( -9.292141, 32.958153 )
+ga_view_zoom_set( 72.277763 )
+ga_view_center_set( -6.464718, 27.469604 )
+ga_view_zoom_set( 64.246902 )
+ga_view_center_set( -7.107187, -18.788172 )
+fem_delete_mesh_from_surface( "Surface 131", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 131
+ga_view_center_set( -9.506939, -17.671446 )
+ga_view_zoom_set( 72.277763 )
+fem_delete_mesh_from_surface( "Surface 138", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 138
+ga_view_center_set( -12.393780, -14.838068 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -9.506941, -17.671438 )
+ga_view_zoom_set( 72.277763 )
+ga_view_center_set( -0.833610, -77.661995 )
+fem_delete_mesh_from_surface( "Surface 133", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 133
+ga_view_center_set( -3.560067, -74.855324 )
+ga_view_zoom_set( 81.312485 )
+fem_delete_mesh_from_surface( "Surface 88", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 88
+ga_view_center_set( -8.070756, -71.066345 )
+ga_view_zoom_set( 91.476547 )
+fem_delete_mesh_from_surface( "Surface 89", fem_delete_mesh__deleted_labels,  @
+fem_delete_mes_not_found_labels )
+$# Mesh deleted from 1 surface: Surface 89
+ga_view_center_set( -13.043765, -67.209694 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -36.713326, 66.574776 )
+ga_view_center_set( -35.224815, 66.033485 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -33.991920, 65.642563 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -32.949436, 65.295074 )
+ga_view_zoom_set( 72.277763 )
+ga_view_center_set( -32.022797, 64.986191 )
+ga_view_zoom_set( 64.246902 )
+ga_view_center_set( -31.283596, 64.711624 )
+ga_view_zoom_set( 57.108356 )
+ga_view_center_set( -30.626516, 64.467560 )
+ga_view_zoom_set( 50.762985 )
+ga_view_center_set( -30.209337, 64.601051 )
+ga_view_zoom_set( 45.122654 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_center_set( -3.720371, 8.627823 )
+ga_view_zoom_set( 129.288361 )
+ga_view_center_set( -7.205479, 17.595551 )
+ga_view_zoom_set( 114.922989 )
+ga_view_center_set( -10.303349, 25.566856 )
+ga_view_zoom_set( 102.153770 )
+ga_view_center_set( -12.922649, 30.503273 )
+ga_view_zoom_set( 90.803352 )
+ga_view_center_set( -15.161419, 34.562843 )
+ga_view_zoom_set( 80.714088 )
+ga_view_center_set( -18.600121, 40.676102 )
+ga_view_zoom_set( 64.571274 )
+ga_view_center_set( -19.406712, 42.522816 )
+ga_view_zoom_set( 57.396687 )
+ga_view_center_set( -20.085962, 44.013405 )
+ga_view_zoom_set( 51.019276 )
+ga_view_center_set( -20.656197, 45.304821 )
+ga_view_zoom_set( 45.350468 )
+ga_view_center_set( -22.148878, 48.290176 )
+ga_view_zoom_set( 51.019276 )
+ga_view_center_set( -23.828135, 51.686424 )
+ga_view_zoom_set( 57.396687 )
+ga_view_center_set( -25.717306, 55.507210 )
+ga_view_zoom_set( 64.571274 )
+ga_view_center_set( -28.081392, 60.927956 )
+ga_view_zoom_set( 72.642685 )
+ga_view_center_set( -30.741011, 67.026291 )
+ga_view_zoom_set( 81.723022 )
+ga_view_center_set( -24.203169, 27.799238 )
+ga_view_center_set( 2.765429, -68.633934 )
+ga_view_center_set( -30.741011, 93.177658 )
+ga_view_center_set( -30.176830, 90.813545 )
+ga_view_zoom_set( 72.642685 )
+ga_view_center_set( -29.675364, 88.712112 )
+ga_view_zoom_set( 64.571274 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( -2.551497, 2.752640 )
+ga_view_zoom_set( 130.246887 )
+ga_view_center_set( -4.820751, 6.220745 )
+ga_view_zoom_set( 115.775009 )
+ga_view_center_set( -6.837856, 9.341576 )
+ga_view_zoom_set( 102.911118 )
+ga_view_center_set( -8.732340, 13.536499 )
+ga_view_zoom_set( 91.476547 )
+ga_view_center_set( -10.416328, 17.265320 )
+ga_view_zoom_set( 81.312485 )
+ga_view_center_set( -11.913198, 20.579834 )
+ga_view_zoom_set( 72.277763 )
+ga_view_center_set( -13.243759, 23.526070 )
+ga_view_zoom_set( 64.246902 )
+ga_view_aa_set( -23.831308, -11.645696, -3.619501 )
+ga_view_center_set( -22.880798, 48.582348 )
+ga_view_center_set( -26.093145, 42.800133 )
+ga_view_aa_set( -45.709465, -10.855215, -2.995006 )
+ga_view_center_set( -43.439804, 74.281120 )
+mesh_seed_display_mgr.plot(  )
+ga_view_center_set( -42.067024, 75.231560 )
+ga_view_zoom_set( 57.108356 )
+ga_view_center_set( -40.865532, 76.076416 )
+ga_view_zoom_set( 50.762985 )
+ga_view_center_set( -39.797539, 76.827393 )
+ga_view_zoom_set( 45.122654 )
+ga_view_center_set( -38.877884, 77.628426 )
+ga_view_zoom_set( 40.109024 )
+ga_view_center_set( -22.433184, 34.310684 )
+mesh_seed_create( "Surface 130.4", 1, 4, 0., 0., 0. )
+mesh_seed_create( "Surface 130.4 130.2", 1, 4, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 130.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_aa_set( -44.579227, -10.143724, -2.280340 )
+ga_view_center_set( -40.482220, 80.034988 )
+mesh_seed_create( "Surface 109.3", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 109.3 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 109.1", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 109.1 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 107.1", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 107.1 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 107.3", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 107.3 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -26.444063, 53.161957 )
+ga_view_center_set( -14.010262, 11.448572 )
+mesh_seed_create( "Surface 128.2", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 128.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 128.4", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 128.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 128.2", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 128.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 120.4", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 120.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 120.2", 1, 9, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 120.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -26.444078, 61.183758 )
+ga_view_center_set( -17.620092, 13.052927 )
+mesh_seed_create( "Surface 120.2", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 120.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 128.4", 1, 8, 0., 0., 0. )
+mesh_seed_create( "Surface 128.4", 1, 8, 0., 0., 0. )
+mesh_seed_create( "Surface 128.2", 1, 7, 0., 0., 0. )
+mesh_seed_create( "Surface 128.2", 1, 7, 0., 0., 0. )
+mesh_seed_create( "Surface 120.4", 1, 7, 0., 0., 0. )
+mesh_seed_create( "Surface 116.4", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -20.427727, 39.524883 )
+mesh_seed_create( "Surface 116.4", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.2", 1, 8, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.4", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -22.163225, 38.412407 )
+ga_view_zoom_set( 45.122650 )
+ga_view_center_set( -24.115654, 37.160866 )
+ga_view_zoom_set( 50.762981 )
+ga_view_center_set( -26.312130, 35.752884 )
+ga_view_zoom_set( 57.108353 )
+ga_view_center_set( -28.783157, 34.168907 )
+ga_view_zoom_set( 64.246895 )
+ga_view_center_set( -48.057217, 86.208908 )
+ga_view_center_set( -47.106853, 88.848930 )
+ga_view_zoom_set( 57.108353 )
+ga_view_center_set( -46.262081, 91.195618 )
+ga_view_zoom_set( 50.762981 )
+ga_view_center_set( -45.511158, 93.281570 )
+ga_view_zoom_set( 45.122650 )
+ga_view_center_set( -44.843685, 95.135735 )
+ga_view_zoom_set( 40.109024 )
+ga_view_center_set( -44.250385, 96.836639 )
+ga_view_zoom_set( 35.652466 )
+ga_view_center_set( -43.723011, 98.348549 )
+ga_view_zoom_set( 31.691080 )
+ga_view_center_set( -43.254215, 99.692490 )
+ga_view_zoom_set( 28.169849 )
+ga_view_center_set( -42.837502, 100.887062 )
+ga_view_zoom_set( 25.039865 )
+ga_view_center_set( -40.583904, 94.877502 )
+ga_view_center_set( -34.824718, 83.609581 )
+ga_view_center_set( -35.658142, 83.554039 )
+ga_view_zoom_set( 28.169849 )
+ga_view_center_set( -33.122852, 50.595306 )
+mesh_seed_create( "Surface 126.2", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 126.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 126.4", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 126.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.4", 1, 7, 0., 0., 0. )
+mesh_seed_create( "Surface 116.2", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.4", 1, 7, 0., 0., 0. )
+ga_view_center_set( -21.291521, 9.185620 )
+ga_view_center_set( -23.562618, 9.737769 )
+ga_view_zoom_set( 31.691080 )
+ga_view_center_set( -26.117596, 10.382377 )
+ga_view_zoom_set( 35.652466 )
+ga_view_center_set( -21.126247, -16.713499 )
+mesh_seed_create( "Surface 131.1", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 131.1 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 131.3", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 131.3 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -24.501617, -14.551138 )
+ga_view_zoom_set( 40.109024 )
+ga_view_center_set( -28.298912, -12.118490 )
+ga_view_zoom_set( 45.122650 )
+ga_view_center_set( -32.570885, -9.381765 )
+ga_view_zoom_set( 50.762981 )
+ga_view_center_set( -37.771080, -4.838614 )
+ga_view_zoom_set( 57.108353 )
+ga_view_center_set( -43.621284, 0.272421 )
+ga_view_zoom_set( 64.246895 )
+ga_view_center_set( -39.714092, -2.198606 )
+ga_view_zoom_set( 57.108353 )
+ga_view_center_set( -36.241043, -4.395082 )
+ga_view_zoom_set( 50.762981 )
+ga_view_center_set( -33.153904, -6.347504 )
+ga_view_zoom_set( 45.122650 )
+ga_view_center_set( -30.409769, -8.082979 )
+ga_view_zoom_set( 40.109024 )
+ga_view_center_set( -27.970533, -9.625620 )
+ga_view_zoom_set( 35.652466 )
+ga_view_center_set( -25.802330, -10.996861 )
+ga_view_zoom_set( 31.691080 )
+ga_view_center_set( -23.875034, -12.215742 )
+ga_view_zoom_set( 28.169849 )
+ga_view_center_set( -22.161865, -13.299189 )
+ga_view_zoom_set( 25.039865 )
+ga_view_center_set( -20.639065, -14.262255 )
+ga_view_zoom_set( 22.257658 )
+ga_view_center_set( -19.285458, -15.118311 )
+ga_view_zoom_set( 19.784584 )
+ga_view_center_set( -18.082254, -15.879250 )
+ga_view_zoom_set( 17.586296 )
+ga_view_center_set( -19.311480, -15.053253 )
+ga_view_zoom_set( 19.784584 )
+ga_view_center_set( -20.694355, -14.124008 )
+ga_view_zoom_set( 22.257656 )
+ga_view_center_set( -22.250097, -13.078606 )
+ga_view_zoom_set( 25.039864 )
+ga_view_center_set( -24.120676, -11.698814 )
+ga_view_zoom_set( 28.169846 )
+ga_view_center_set( -26.225090, -10.146547 )
+ga_view_zoom_set( 31.691076 )
+ga_view_center_set( -28.592539, -8.400238 )
+ga_view_zoom_set( 35.652462 )
+ga_view_center_set( -31.414150, -6.567495 )
+ga_view_zoom_set( 40.109020 )
+ga_view_center_set( 3.079613, -77.961548 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( 1.780939, -13.865276 )
+ga_view_zoom_set( 137.484070 )
+ga_view_center_set( 3.362789, -24.983318 )
+ga_view_zoom_set( 122.208061 )
+ga_view_center_set( 5.893705, -42.772167 )
+ga_view_zoom_set( 97.766449 )
+ga_view_center_set( 6.729324, -49.296352 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( 7.414934, -55.009930 )
+ga_view_zoom_set( 77.247566 )
+ga_view_center_set( 8.374821, -63.740261 )
+ga_view_zoom_set( 61.798054 )
+ga_view_center_set( 8.598288, -66.381195 )
+ga_view_zoom_set( 54.931602 )
+ga_view_center_set( 8.796920, -68.728691 )
+ga_view_zoom_set( 48.828091 )
+ga_view_center_set( 9.114733, -72.484680 )
+ga_view_zoom_set( 39.062473 )
+mesh_seed_create( "Surface 133.3", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 133.3 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 133.1", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 133.1 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 89.2", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 89.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 89.4", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 89.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 88.2", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 88.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 88.4", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 88.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( 6.124376, -70.187744 )
+ga_view_zoom_set( 43.945282 )
+ga_view_center_set( 2.760225, -67.603683 )
+ga_view_zoom_set( 49.438442 )
+ga_view_center_set( -1.024427, -64.696617 )
+ga_view_zoom_set( 55.618248 )
+ga_view_center_set( -4.089199, -61.734695 )
+ga_view_zoom_set( 62.570530 )
+ga_view_center_set( -7.513889, -58.425674 )
+ga_view_zoom_set( 70.391846 )
+ga_view_center_set( -11.366699, -54.703026 )
+ga_view_zoom_set( 79.190826 )
+ga_view_center_set( -15.701109, -50.515068 )
+ga_view_zoom_set( 89.089676 )
+ga_view_center_set( -53.118763, 79.555847 )
+INTEGER fem_create_mesh_surfa_num_nodes
+INTEGER fem_create_mesh_surfa_num_elems
+STRING fem_create_mesh_s_nodes_created[VIRTUAL]
+STRING fem_create_mesh_s_elems_created[VIRTUAL]
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 107", 1, ["1.11561"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 18 nodes and 8 elements created for Surface 107.
+$# === 18 nodes created.  IDs  = 349:366.
+$# === 8 elements created.  IDs  = 188:195.
+ga_view_center_set( -48.842949, 79.233711 )
+ga_view_zoom_set( 79.190826 )
+ga_view_center_set( -45.510803, 79.233727 )
+ga_view_zoom_set( 70.391846 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 109", 1, ["1.11567"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 18 nodes and 8 elements created for Surface 109.
+$# === 18 nodes created.  IDs  = 367:384.
+$# === 8 elements created.  IDs  = 196:203.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 126", 1, ["1.04823"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 126.
+$# === 16 nodes created.  IDs  = 385:400.
+$# === 7 elements created.  IDs  = 204:210.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 116", 1, ["1.0483"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 116.
+$# === 16 nodes created.  IDs  = 401:416.
+$# === 7 elements created.  IDs  = 211:217.
+ga_view_center_set( -41.391895, 74.351204 )
+ga_view_zoom_set( 62.570530 )
+ga_view_center_set( -37.771782, 70.011185 )
+ga_view_zoom_set( 55.618248 )
+ga_view_center_set( -34.572170, 66.171677 )
+ga_view_zoom_set( 49.438442 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 130", 1, ["1.70509"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 10 nodes and 4 elements created for Surface 130.
+$# === 10 nodes created.  IDs  = 417:426.
+$# === 4 elements created.  IDs  = 218:221.
+ga_view_center_set( -24.190090, -8.974770 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 120", 1, ["1.06428"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 17 nodes and 8 elements created for Surface 120.
+$# === 17 nodes created.  IDs  = 427:443.
+$# === 8 elements created.  IDs  = 222:229.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 128", 1, ["1.06429"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 17 nodes and 8 elements created for Surface 128.
+$# === 17 nodes created.  IDs  = 444:460.
+$# === 8 elements created.  IDs  = 230:237.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 131", 1, ["1.08121"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 131.
+$# === 16 nodes created.  IDs  = 461:476.
+$# === 7 elements created.  IDs  = 238:244.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 138", 1, ["1.08119"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 13 nodes and 6 elements created for Surface 138.
+$# === 13 nodes created.  IDs  = 477:489.
+$# === 6 elements created.  IDs  = 245:250.
+ga_view_center_set( -14.796784, -51.491837 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 140", 1, ["1.09624"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Question from application FEM
+$#     Do you wish to delete the existing mesh on Surface 140?
+$? YES 2001103 
+$# 14 nodes and 6 elements created for Surface 140.
+$# === 14 nodes created.  IDs  = 490:503.
+$# === 6 elements created.  IDs  = 251:256.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 133", 1, ["1.09624"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 133.
+$# === 16 nodes created.  IDs  = 504:519.
+$# === 7 elements created.  IDs  = 257:263.
+ga_view_center_set( -5.897866, -91.536995 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 88", 1, ["1.09646"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 88.
+$# === 16 nodes created.  IDs  = 520:535.
+$# === 7 elements created.  IDs  = 264:270.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 89", 1, ["1.09645"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 89.
+$# === 16 nodes created.  IDs  = 536:551.
+$# === 7 elements created.  IDs  = 271:277.
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_center_set( -1.569298, -4.299709 )
+ga_view_zoom_set( 136.460068 )
+ga_view_center_set( -3.184261, -6.587490 )
+ga_view_zoom_set( 121.297836 )
+ga_view_center_set( -4.659607, -8.660954 )
+ga_view_zoom_set( 107.820297 )
+ga_view_center_set( -5.576723, -3.118404 )
+ga_view_zoom_set( 121.297836 )
+ga_view_center_set( -6.608463, 3.116962 )
+ga_view_zoom_set( 136.460068 )
+mesh_seed_display_mgr.erase(  )
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+ga_view_center_set( -8.941143, 5.539364 )
+ga_view_zoom_set( 121.297836 )
+ga_view_center_set( -11.014589, 7.692577 )
+ga_view_zoom_set( 107.820297 )
+ga_view_center_set( -12.857689, 9.606571 )
+ga_view_zoom_set( 95.840263 )
+ga_view_center_set( -14.496002, 11.307896 )
+ga_view_zoom_set( 85.191345 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( -0.659649, -0.493118 )
+ga_view_zoom_set( 137.484070 )
+ga_view_center_set( -1.247179, 0.275215 )
+ga_view_zoom_set( 122.208061 )
+ga_view_center_set( -1.769428, 0.958187 )
+ga_view_zoom_set( 108.629387 )
+STRING fem_delete_mesh__deleted_labels[VIRTUAL]
+STRING fem_delete_mes_not_found_labels[VIRTUAL]
+fem_delete_mesh_from_surface( "Surface 116 126 128 138 120",  @
+fem_delete_mesh__deleted_labels, fem_delete_mes_not_found_labels )
+$# Meshes deleted from 5 surfaces: Surface 116 120 126 128 138
+ga_view_center_set( -7.474072, -1.050480 )
+ga_view_zoom_set( 122.208061 )
+ga_view_center_set( 0.520496, 1.440296 )
+ga_view_zoom_set( 108.629387 )
+ga_view_center_set( -2.514866, 6.903919 )
+ga_view_zoom_set( 96.559456 )
+ga_view_center_set( -5.212946, 11.760479 )
+ga_view_zoom_set( 85.830627 )
+ga_view_center_set( -7.611240, 16.077435 )
+ga_view_zoom_set( 76.293892 )
+ga_view_center_set( -9.743069, 19.914711 )
+ga_view_zoom_set( 67.816795 )
+ga_view_center_set( -11.638020, 23.325634 )
+ga_view_zoom_set( 60.281597 )
+INTEGER fem_create_mesh_surfa_num_nodes
+INTEGER fem_create_mesh_surfa_num_elems
+STRING fem_create_mesh_s_nodes_created[VIRTUAL]
+STRING fem_create_mesh_s_elems_created[VIRTUAL]
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 116", 1, ["1.0483"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 116.
+$# === 16 nodes created.  IDs  = 552:567.
+$# === 7 elements created.  IDs  = 278:284.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 126", 1, ["1.04823"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# 16 nodes and 7 elements created for Surface 126.
+$# === 16 nodes created.  IDs  = 568:583.
+$# === 7 elements created.  IDs  = 285:291.
+mesh_seed_display_mgr.erase(  )
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+ga_view_center_set( -9.874378, 24.673172 )
+ga_view_zoom_set( 53.583641 )
+ga_view_center_set( -11.439871, 23.385113 )
+ga_view_zoom_set( 60.281597 )
+ga_view_center_set( -13.201075, 21.936050 )
+ga_view_zoom_set( 67.816795 )
+ga_view_center_set( -15.182402, 20.305862 )
+ga_view_zoom_set( 76.293892 )
+ga_view_center_set( -17.411411, 18.471886 )
+ga_view_zoom_set( 85.830627 )
+STRING fem_delete_mesh__deleted_labels[VIRTUAL]
+STRING fem_delete_mes_not_found_labels[VIRTUAL]
+fem_delete_mesh_from_surface( "Surface 116 126",  @
+fem_delete_mesh__deleted_labels, fem_delete_mes_not_found_labels )
+$# Meshes deleted from 2 surfaces: Surface 116 126
+ga_view_center_set( -20.617357, 23.328434 )
+ga_view_zoom_set( 96.559456 )
+ga_view_center_set( -19.347679, 25.994789 )
+ga_view_zoom_set( 85.830627 )
+ga_view_center_set( -18.106230, 28.590607 )
+ga_view_zoom_set( 76.293892 )
+ga_view_center_set( -18.457371, 33.656822 )
+ga_view_zoom_set( 67.816795 )
+ga_view_center_set( -18.858652, 38.070961 )
+ga_view_zoom_set( 60.281597 )
+ga_view_center_set( -19.294634, 41.935165 )
+ga_view_zoom_set( 53.583641 )
+mesh_seed_display_mgr.plot(  )
+ga_view_center_set( -17.497946, 43.309128 )
+ga_view_zoom_set( 47.629902 )
+ga_view_center_set( -16.182718, 44.483448 )
+ga_view_zoom_set( 42.337692 )
+ga_view_center_set( -15.250246, 45.527290 )
+ga_view_zoom_set( 37.633503 )
+mesh_seed_create( "Surface 116.4", 1, 9, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.2", 1, 6, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.4", 1, 6, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.4", 1, 7, 0., 0., 0. )
+$# Question from application FEM
+$#     Surface 116.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+INTEGER fem_create_mesh_surfa_num_nodes
+INTEGER fem_create_mesh_surfa_num_elems
+STRING fem_create_mesh_s_nodes_created[VIRTUAL]
+STRING fem_create_mesh_s_elems_created[VIRTUAL]
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 116", 1, ["1.0483"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 15 nodes and 7 elements created for Surface 116.
+$# === 15 nodes created.  IDs  = 552:566.
+$# === 7 elements created.  IDs  = 278:284.
+ga_view_center_set( -13.663628, 46.793812 )
+ga_view_zoom_set( 42.337692 )
+ga_view_center_set( -11.878695, 48.218662 )
+ga_view_zoom_set( 47.629906 )
+ga_view_center_set( -9.870632, 49.821606 )
+ga_view_zoom_set( 53.583645 )
+ga_view_center_set( -7.611563, 51.624916 )
+ga_view_zoom_set( 60.281601 )
+ga_view_center_set( 8.664470, -2.025718 )
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 138", 1, ["1.08119"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 13 nodes and 6 elements created for Surface 138.
+$# === 13 nodes created.  IDs  = 567:579.
+$# === 6 elements created.  IDs  = 285:290.
+fem_create_mesh_surf_4( "IsoMesh", 49152, "Surface 128", 1, ["1.06429"],  @
+"Quad4", "#", "#", "Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 1 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 17 nodes and 8 elements created for Surface 128.
+$# === 17 nodes created.  IDs  = 580:596.
+$# === 8 elements created.  IDs  = 291:298.
+ga_view_center_set( 7.515107, -0.004424 )
+ga_view_zoom_set( 53.583645 )
+ga_view_center_set( 6.493461, 1.792287 )
+ga_view_zoom_set( 47.629906 )
+ga_view_center_set( 5.381785, 3.874742 )
+ga_view_zoom_set( 42.337692 )
+ga_view_center_set( 4.393615, 5.725804 )
+ga_view_zoom_set( 37.633503 )
+ga_view_center_set( 2.812562, 8.687512 )
+ga_view_zoom_set( 30.106802 )
+ga_view_center_set( 2.109876, 10.003831 )
+ga_view_zoom_set( 26.761602 )
+ga_view_center_set( 1.485259, 11.173890 )
+ga_view_zoom_set( 23.788092 )
+ga_view_center_set( 1.969111, 10.285367 )
+ga_view_zoom_set( 26.761602 )
+ga_view_center_set( 2.513442, 9.285783 )
+ga_view_zoom_set( 30.106802 )
+ga_view_center_set( 3.738204, 7.036687 )
+ga_view_zoom_set( 37.633503 )
+ga_view_center_set( 4.503673, 6.006787 )
+ga_view_zoom_set( 42.337692 )
+ga_view_center_set( 5.380486, 4.848142 )
+ga_view_zoom_set( 47.629906 )
+ga_view_center_set( 7.353316, 2.241185 )
+ga_view_zoom_set( 59.537384 )
+ga_view_center_set( 8.586349, 0.611840 )
+ga_view_zoom_set( 66.979553 )
+ga_view_center_set( 9.973493, -1.221164 )
+ga_view_zoom_set( 75.351997 )
+ga_view_center_set( 11.534036, -3.283290 )
+ga_view_zoom_set( 84.770996 )
+ga_view_center_set( 13.289651, -5.603198 )
+ga_view_zoom_set( 95.367371 )
+ga_view_center_set( 15.264731, -8.213099 )
+ga_view_zoom_set( 107.288292 )
+ga_view_center_set( 6.681667, 14.317444 )
+mesh_seed_create( "Surface 107.3", 2, 0, 0., 8., 0. )
+$# Error reported from application FEM
+$#     Surface 107.3 already has existing mesh. You cannot redefine it here.
+$? NO 2001040 
+mesh_seed_display_mgr.erase(  )
+ga_view_center_set( -9.308414, 10.905182 )
+ga_view_zoom_set( 120.699326 )
+ga_view_center_set( 6.382498, -43.409519 )
+STRING fem_delete_mesh__deleted_labels[VIRTUAL]
+STRING fem_delete_mes_not_found_labels[VIRTUAL]
+fem_delete_mesh_from_surface( "Surface 116 126 128 138 133 131",  @
+fem_delete_mesh__deleted_labels, fem_delete_mes_not_found_labels )
+$# Meshes deleted from 5 surfaces: Surface 116 128 131 133 138
+$# Mesh does not exist on 1 entity: Surface 126
+ga_view_center_set( 2.186583, -38.901150 )
+ga_view_zoom_set( 135.786743 )
+ga_view_center_set( 5.132662, -40.106350 )
+ga_view_zoom_set( 120.699326 )
+ga_view_center_set( 7.751410, -41.177654 )
+ga_view_zoom_set( 107.288292 )
+ga_view_center_set( 10.467123, -41.001301 )
+ga_view_zoom_set( 95.367371 )
+ga_view_center_set( 14.812262, -40.719143 )
+ga_view_zoom_set( 76.293900 )
+ga_view_center_set( 11.144278, -35.414684 )
+ga_view_zoom_set( 85.830635 )
+ga_view_center_set( 7.017813, -29.447170 )
+ga_view_zoom_set( 96.559464 )
+ga_view_center_set( 2.375509, -22.733715 )
+ga_view_zoom_set( 108.629395 )
+ga_view_center_set( -5.217318, -17.511150 )
+ga_view_zoom_set( 122.208069 )
+ga_view_center_set( -13.759203, -11.816536 )
+ga_view_zoom_set( 137.484070 )
+ga_view_center_set( -23.317965, -5.816845 )
+ga_view_zoom_set( 154.669586 )
+ga_view_center_set( -33.785637, 0.303589 )
+ga_view_zoom_set( 174.003281 )
+ga_view_center_set( -30.639585, 7.739647 )
+ga_view_zoom_set( 154.669586 )
+ga_view_center_set( -28.199068, 14.451149 )
+ga_view_zoom_set( 137.484070 )
+ga_view_center_set( -25.026346, 25.433640 )
+ga_view_zoom_set( 109.987259 )
+ga_view_center_set( -24.158634, 29.700096 )
+ga_view_zoom_set( 97.766449 )
+ga_view_center_set( -23.612255, 33.138992 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( -23.212345, 35.795799 )
+ga_view_zoom_set( 77.247566 )
+ga_view_center_set( -22.698118, 33.396126 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( -22.151768, 30.246521 )
+ga_view_zoom_set( 97.766449 )
+ga_view_center_set( 7.178169, -90.006210 )
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+ga_view_center_set( 7.648201, -92.717934 )
+ga_view_zoom_set( 109.987259 )
+ga_view_center_set( 8.177011, -95.768623 )
+ga_view_zoom_set( 123.735664 )
+ga_view_center_set( 8.771862, -99.200630 )
+ga_view_zoom_set( 139.202621 )
+ga_view_center_set( 8.085459, -94.167007 )
+ga_view_zoom_set( 123.735664 )
+ga_view_center_set( 7.475304, -89.692680 )
+ga_view_zoom_set( 109.987259 )
+ga_view_center_set( 6.932943, -85.715477 )
+ga_view_zoom_set( 97.766449 )
+ga_view_center_set( 6.418736, -82.180191 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( 5.961626, -79.037727 )
+ga_view_zoom_set( 77.247566 )
+ga_view_center_set( 5.555328, -76.244408 )
+ga_view_zoom_set( 68.664505 )
+ga_view_center_set( 4.905272, -71.775093 )
+ga_view_zoom_set( 54.931602 )
+ga_view_center_set( 3.848892, -71.043747 )
+ga_view_zoom_set( 61.798054 )
+ga_view_center_set( 1.472031, -69.398232 )
+ga_view_zoom_set( 77.247566 )
+ga_view_center_set( -0.013474, -68.369789 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( -11.229958, -69.591064 )
+ga_view_zoom_set( 97.766449 )
+ga_view_center_set( -23.812309, -70.892685 )
+ga_view_zoom_set( 109.987259 )
+ga_view_center_set( -37.967438, -72.357002 )
+ga_view_zoom_set( 123.735664 )
+ga_view_center_set( -81.274933, 58.802811 )
+mesh_seed_create( "Surface 116.2", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 116.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 116.2", 2, 0, 0., 8., 0. )
+ga_view_center_set( -75.173592, 56.524979 )
+ga_view_zoom_set( 109.987259 )
+ga_view_center_set( -69.750168, 54.500237 )
+ga_view_zoom_set( 97.766449 )
+ga_view_center_set( -64.929314, 52.700478 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( -60.729843, 51.329231 )
+ga_view_zoom_set( 77.247566 )
+ga_view_center_set( -57.022362, 50.135742 )
+ga_view_zoom_set( 68.664505 )
+mesh_seed_create( "Surface 116.4", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 116.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 126.4", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 126.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 126.2", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 126.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -53.207672, 48.217117 )
+ga_view_zoom_set( 61.035114 )
+mesh_seed_create( "Surface 128.4", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 128.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 128.2", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 128.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 120.2", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 120.2 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 120.4", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 120.4 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -20.248701, -23.804323 )
+mesh_seed_create( "Surface 138.2", 2, 0, 0., 8., 0. )
+mesh_seed_create( "Surface 138.4", 2, 0, 0., 8., 0. )
+mesh_seed_create( "Surface 131.3", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 131.3 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 131.1", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 131.1 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 133.3", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 133.3 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+mesh_seed_create( "Surface 133.1", 2, 0, 0., 8., 0. )
+$# Question from application FEM
+$#     Surface 133.1 already has a mesh seed. Do you wish to replace it?
+$? YESFORALL 2001026 
+ga_view_center_set( -0.107112, -78.125587 )
+ga_view_center_set( -16.586594, -68.359962 )
+ga_view_center_set( -25.028603, -68.856552 )
+ga_view_zoom_set( 68.664505 )
+ga_view_center_set( -34.525833, -69.415199 )
+ga_view_zoom_set( 77.247566 )
+ga_view_center_set( -49.266792, -71.214966 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( -69.353600, -74.493118 )
+ga_view_zoom_set( 97.766449 )
+ga_view_center_set( -58.394245, -66.361961 )
+ga_view_zoom_set( 86.903511 )
+ga_view_center_set( -48.652622, -59.162853 )
+ga_view_zoom_set( 77.247566 )
+ga_view_center_set( -39.993378, -52.890591 )
+ga_view_zoom_set( 68.664505 )
+ga_view_center_set( -32.318810, -47.315254 )
+ga_view_zoom_set( 61.035114 )
+ga_view_center_set( -43.915489, 40.575321 )
+INTEGER fem_create_mesh_surfa_num_nodes
+INTEGER fem_create_mesh_surfa_num_elems
+STRING fem_create_mesh_s_nodes_created[VIRTUAL]
+STRING fem_create_mesh_s_elems_created[VIRTUAL]
+fem_create_mesh_surf_4( "IsoMesh", 49152,  @
+"Surface 133 138 131 120 128 126 116", 1, ["1.09624"], "Quad4", "#", "#",  @
+"Coord 0", "Coord 0", fem_create_mesh_surfa_num_nodes,  @
+fem_create_mesh_surfa_num_elems, fem_create_mesh_s_nodes_created,  @
+fem_create_mesh_s_elems_created )
+$# Warning reported from application FEM
+$#     Triangle elements were produced on 2 surface(s).  This can be avoided 
+$# by making the total number of elements around each surface perimeter an 
+$# even number.
+$# 14 nodes and 6 elements created for Surface 133.
+$# 13 nodes and 6 elements created for Surface 138.
+$# 13 nodes and 6 elements created for Surface 131.
+$# 12 nodes and 5 elements created for Surface 120.
+$# 12 nodes and 5 elements created for Surface 128.
+$# 12 nodes and 5 elements created for Surface 126.
+$# 12 nodes and 5 elements created for Surface 116.
+$# === 88 nodes created.  IDs  = 552:639.
+$# === 38 elements created.  IDs  = 278:315.
+mesh_seed_display_mgr.erase(  )
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+ga_view_center_set( -30.487757, 20.433727 )
+ga_view_center_set( -8.515111, -23.511560 )
+ga_view_center_set( -5.625875, -23.491484 )
+ga_view_zoom_set( 54.253433 )
+ga_view_center_set( -3.057670, -23.473639 )
+ga_view_zoom_set( 48.225273 )
+ga_view_center_set( -0.774816, -23.457781 )
+ga_view_zoom_set( 42.866909 )
+ga_view_center_set( -2.756455, -23.410215 )
+ga_view_zoom_set( 48.225273 )
+ga_view_center_set( -4.985799, -23.356707 )
+ga_view_zoom_set( 54.253433 )
+ga_view_center_set( -10.001817, -23.236307 )
+ga_view_zoom_set( 67.816788 )
+ga_view_center_set( -13.111760, -23.186136 )
+ga_view_zoom_set( 76.293884 )
+ga_view_center_set( -16.441166, -23.496500 )
+ga_view_zoom_set( 85.830620 )
+ga_view_center_set( -23.932283, -24.194826 )
+ga_view_zoom_set( 107.288277 )
+ga_view_center_set( -28.614258, -24.631281 )
+ga_view_zoom_set( 120.699310 )
+ga_view_center_set( -32.363770, -28.827181 )
+ga_view_zoom_set( 135.786728 )
+ga_view_center_set( -36.381165, -33.497345 )
+ga_view_zoom_set( 152.760071 )
+ga_view_center_set( -40.900665, -38.751282 )
+ga_view_zoom_set( 171.855072 )
+ga_view_center_set( -37.567539, -31.689522 )
+ga_view_zoom_set( 152.760071 )
+ga_view_center_set( -34.604713, -25.412354 )
+ga_view_zoom_set( 135.786728 )
+ga_view_center_set( -31.971142, -19.832695 )
+ga_view_zoom_set( 120.699310 )
+ga_view_center_set( -29.630173, -14.872986 )
+ga_view_zoom_set( 107.288277 )
+ga_view_center_set( -27.549292, -10.464348 )
+ga_view_zoom_set( 95.367355 )
+ga_view_center_set( -25.856379, -6.294746 )
+ga_view_zoom_set( 84.770981 )
+ga_view_center_set( -24.351574, -2.588440 )
+ga_view_zoom_set( 75.351982 )
+ga_view_center_set( -31.680569, 0.058929 )
+ga_view_zoom_set( 84.770981 )
+ga_view_center_set( -39.800304, 2.911812 )
+ga_view_zoom_set( 95.367355 )
+REAL fem_equiv_all_x_equivtol_ab
+INTEGER fem_equiv_all_x_segment
+fem_equiv_all_group4( [" "], 0, "", 1, 1, 1., FALSE,  @
+fem_equiv_all_x_equivtol_ab, fem_equiv_all_x_segment )
+$# Realigning database with new node numbers...
+$# Database realignment completed.
+$# Geometric equivalencing completed. 44 nodes deleted.
+ga_view_center_set( -39.486797, 5.984161 )
+ga_view_zoom_set( 84.770981 )
+ga_view_center_set( -39.208149, 8.715126 )
+ga_view_zoom_set( 75.351982 )
+ga_view_center_set( -38.985233, 11.142662 )
+ga_view_zoom_set( 66.979538 )
+ga_view_center_set( -38.787083, 13.300468 )
+ga_view_zoom_set( 59.537369 )
+ga_view_center_set( -38.630527, 15.198944 )
+ga_view_zoom_set( 52.922104 )
+ga_view_center_set( -38.491344, 16.886471 )
+ga_view_zoom_set( 47.041870 )
+ga_view_center_set( -38.367649, 18.386486 )
+ga_view_zoom_set( 41.814995 )
+ga_view_center_set( -38.257694, 19.719856 )
+ga_view_zoom_set( 37.168884 )
+ga_view_center_set( -38.013340, 20.416332 )
+ga_view_zoom_set( 33.039009 )
+ga_view_center_set( -37.602810, 21.393829 )
+ga_view_zoom_set( 26.431208 )
+ga_view_center_set( -37.394287, 21.793526 )
+ga_view_zoom_set( 23.494408 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_center_set( -5.757961, 7.660732 )
+ga_view_zoom_set( 136.460068 )
+ga_view_center_set( -11.051311, 15.959599 )
+ga_view_zoom_set( 121.297836 )
+ga_view_center_set( -15.756489, 23.176891 )
+ga_view_zoom_set( 107.820297 )
+ga_view_center_set( -18.273037, 24.736454 )
+ga_view_zoom_set( 95.840263 )
+ga_view_center_set( -20.257908, 25.398094 )
+ga_view_zoom_set( 85.191345 )
+ga_view_center_set( -23.232052, 26.204651 )
+ga_view_zoom_set( 68.153076 )
+ga_view_center_set( -24.553898, 26.540718 )
+ga_view_zoom_set( 60.580513 )
+ga_view_center_set( -24.872540, 24.728497 )
+ga_view_zoom_set( 53.849346 )
+ga_view_center_set( -25.155787, 23.082218 )
+ga_view_zoom_set( 47.866085 )
+ga_view_center_set( -25.407549, 21.618874 )
+ga_view_zoom_set( 42.547630 )
+ga_view_center_set( -26.036972, 20.891567 )
+ga_view_zoom_set( 37.820114 )
+ga_view_center_set( -26.596443, 20.245087 )
+ga_view_zoom_set( 33.617878 )
+ga_view_center_set( -27.093758, 19.670433 )
+ga_view_zoom_set( 29.882559 )
+ga_view_center_set( -27.535816, 19.159636 )
+ga_view_zoom_set( 26.562275 )
+ga_view_center_set( -27.981148, 18.958805 )
+ga_view_zoom_set( 23.610910 )
+ga_view_center_set( -28.376997, 18.780293 )
+ga_view_zoom_set( 20.987476 )
+ga_view_center_set( -28.728863, 18.621624 )
+ga_view_zoom_set( 18.655535 )
+ga_view_center_set( -29.041630, 18.480593 )
+ga_view_zoom_set( 16.582697 )
+ga_view_center_set( -30.556400, 18.345675 )
+ga_view_zoom_set( 18.655535 )
+ga_view_center_set( -32.260517, 18.193897 )
+ga_view_zoom_set( 20.987476 )
+ga_view_center_set( -34.162125, 17.751493 )
+ga_view_zoom_set( 23.610910 )
+ga_view_center_set( -36.301426, 17.253794 )
+ga_view_zoom_set( 26.562275 )
+ga_view_center_set( -41.114861, 16.133953 )
+ga_view_zoom_set( 33.202843 )
+ga_view_center_set( -44.123249, 15.421768 )
+ga_view_zoom_set( 37.353199 )
+ga_view_center_set( -48.902916, 13.377308 )
+ga_view_zoom_set( 42.022350 )
+ga_view_center_set( -54.311104, 11.046207 )
+ga_view_zoom_set( 47.275143 )
+ga_view_center_set( -60.395336, 8.423710 )
+ga_view_zoom_set( 53.184536 )
+ga_view_center_set( -57.458134, 10.731525 )
+ga_view_zoom_set( 47.275143 )
+ga_view_center_set( -54.862827, 12.798462 )
+ga_view_zoom_set( 42.022350 )
+ga_view_center_set( -52.555882, 14.635750 )
+ga_view_zoom_set( 37.353199 )
+ga_view_center_set( -50.505276, 16.268894 )
+ga_view_zoom_set( 33.202843 )
+ga_view_center_set( -48.649776, 17.775139 )
+ga_view_zoom_set( 29.513638 )
+ga_view_center_set( -47.000431, 19.114033 )
+ga_view_zoom_set( 26.234344 )
+ga_view_center_set( -44.361477, 21.256269 )
+ga_view_zoom_set( 20.987476 )
+ga_view_center_set( -43.050640, 22.008301 )
+ga_view_zoom_set( 18.655535 )
+ga_view_center_set( -41.873169, 22.615450 )
+ga_view_zoom_set( 16.582697 )
+ga_view_center_set( -40.821091, 23.133335 )
+ga_view_zoom_set( 14.740175 )
+ga_view_center_set( -39.120312, 23.918331 )
+ga_view_zoom_set( 11.792140 )
+ga_view_center_set( -38.038799, 24.029980 )
+ga_view_zoom_set( 9.433712 )
+ga_view_center_set( -37.234982, 24.180714 )
+ga_view_zoom_set( 7.546969 )
+ga_view_center_set( -38.161617, 24.130482 )
+ga_view_zoom_set( 9.433712 )
+ga_view_center_set( -38.740761, 24.099098 )
+ga_view_zoom_set( 10.612926 )
+ga_view_center_set( -40.043835, 24.028465 )
+ga_view_zoom_set( 13.266158 )
+ga_view_center_set( -40.858257, 23.984325 )
+ga_view_zoom_set( 14.924428 )
+ga_view_center_set( -42.806610, 23.046047 )
+ga_view_zoom_set( 16.789982 )
+ga_view_center_set( -44.998505, 21.990482 )
+ga_view_zoom_set( 18.888729 )
+ga_view_center_set( -47.457405, 20.809940 )
+ga_view_zoom_set( 21.249821 )
+ga_view_center_set( -50.223648, 19.481850 )
+ga_view_zoom_set( 23.906048 )
+ga_view_center_set( -53.335682, 17.987732 )
+ga_view_zoom_set( 26.894304 )
+ga_view_center_set( -57.294243, 17.868393 )
+ga_view_zoom_set( 30.256092 )
+ga_view_center_set( -61.747623, 17.734131 )
+ga_view_zoom_set( 34.038105 )
+ga_view_center_set( -71.767708, 17.331326 )
+ga_view_zoom_set( 42.547630 )
+ga_view_center_set( -78.738373, 17.048107 )
+ga_view_zoom_set( 47.866085 )
+ga_view_center_set( -86.580338, 16.729485 )
+ga_view_zoom_set( 53.849346 )
+ga_view_center_set( -95.402542, 16.371029 )
+ga_view_zoom_set( 60.580513 )
+ga_view_center_set( -105.305145, 15.206039 )
+ga_view_zoom_set( 68.153076 )
+ga_view_center_set( -73.954697, 70.410034 )
+ga_view_center_set( -84.187744, 71.065369 )
+ga_view_zoom_set( 76.672211 )
+ga_view_center_set( -95.699951, 71.802612 )
+ga_view_zoom_set( 86.256241 )
+ga_view_center_set( -108.651123, 72.632011 )
+ga_view_zoom_set( 97.038269 )
+ga_view_center_set( -123.221191, 73.565086 )
+ga_view_zoom_set( 109.168053 )
+ga_view_center_set( -113.854744, 77.082016 )
+ga_view_zoom_set( 97.038269 )
+ga_view_center_set( -105.401382, 79.219315 )
+ga_view_zoom_set( 86.256241 )
+ga_view_center_set( -97.802208, 80.750519 )
+ga_view_zoom_set( 76.672211 )
+ga_view_center_set( -57.932636, -16.623198 )
+ga_view_center_set( -43.364899, -44.225201 )
+ga_view_center_set( -37.997837, -51.892426 )
+ga_view_center_set( -36.535973, -50.254128 )
+ga_view_zoom_set( 68.153076 )
+ga_view_center_set( -35.236523, -48.820259 )
+ga_view_zoom_set( 60.580513 )
+ga_view_center_set( -34.081482, -47.545723 )
+ga_view_zoom_set( 53.849346 )
+ga_view_center_set( -33.054779, -46.412785 )
+ga_view_zoom_set( 47.866085 )
+ga_view_center_set( -32.173607, -45.515869 )
+ga_view_zoom_set( 42.547630 )
+ga_view_center_set( -30.763760, -44.181522 )
+ga_view_zoom_set( 34.038105 )
+ga_view_center_set( -30.137163, -43.599670 )
+ga_view_zoom_set( 30.256094 )
+ga_view_center_set( -29.580183, -43.102371 )
+ga_view_zoom_set( 26.894306 )
+ga_view_center_set( -29.076260, -42.916695 )
+ga_view_zoom_set( 23.906050 )
+ga_view_center_set( -28.628311, -42.751656 )
+ga_view_zoom_set( 21.249823 )
+ga_view_center_set( -28.230143, -42.604954 )
+ga_view_zoom_set( 18.888731 )
+ga_view_center_set( -27.851379, -42.474548 )
+ga_view_zoom_set( 16.789984 )
+ga_view_center_set( -29.788683, -42.288265 )
+ga_view_zoom_set( 18.888731 )
+ga_view_center_set( -31.968149, -42.078697 )
+ga_view_zoom_set( 21.249823 )
+ga_view_center_set( -34.420067, -41.842941 )
+ga_view_zoom_set( 23.906050 )
+ga_view_center_set( -37.204983, -41.453934 )
+ga_view_zoom_set( 26.894306 )
+ga_view_center_set( -40.338020, -41.016293 )
+ga_view_zoom_set( 30.256094 )
+ga_view_center_set( -47.387337, -40.031620 )
+ga_view_zoom_set( 37.820118 )
+ga_view_center_set( -52.030933, -39.248363 )
+ga_view_zoom_set( 42.547634 )
+ga_view_center_set( -57.254982, -38.367195 )
+ga_view_zoom_set( 47.866089 )
+ga_view_center_set( -69.009109, -36.384575 )
+ga_view_zoom_set( 59.832611 )
+ga_view_center_set( -76.355423, -35.233952 )
+ga_view_zoom_set( 67.311691 )
+ga_view_center_set( -87.408066, -33.790112 )
+ga_view_zoom_set( 75.725655 )
+ga_view_center_set( -99.842331, -32.165806 )
+ga_view_zoom_set( 85.191360 )
+ga_view_center_set( -127.819382, -28.511143 )
+ga_view_zoom_set( 106.489197 )
+ga_view_center_set( -145.304977, -26.187580 )
+ga_view_zoom_set( 119.800346 )
+ga_view_center_set( -164.976395, -23.573605 )
+ga_view_zoom_set( 134.775391 )
+ga_view_center_set( -187.106735, -20.632862 )
+ga_view_zoom_set( 151.622314 )
+ga_view_center_set( -168.315933, -10.215664 )
+ga_view_zoom_set( 134.775391 )
+ga_view_center_set( -151.612991, -0.955936 )
+ga_view_zoom_set( 119.800346 )
+ga_view_center_set( -136.765945, 7.274906 )
+ga_view_zoom_set( 106.489197 )
+ga_view_center_set( -123.568558, 14.591228 )
+ga_view_zoom_set( 94.657066 )
+ga_view_center_set( -111.837540, 21.094624 )
+ga_view_zoom_set( 84.139618 )
+ga_view_center_set( -101.409988, 26.875423 )
+ga_view_zoom_set( 74.790771 )
+ga_view_center_set( -92.141068, 32.013905 )
+ga_view_zoom_set( 66.480682 )
+ga_view_center_set( -83.901993, 36.581448 )
+ga_view_zoom_set( 59.093941 )
+ga_view_center_set( -76.578384, 40.641483 )
+ga_view_zoom_set( 52.527946 )
+ga_view_center_set( -70.068512, 44.250416 )
+ga_view_zoom_set( 46.691509 )
+ga_view_center_set( -64.404778, 47.350925 )
+ga_view_zoom_set( 41.503563 )
+ga_view_center_set( -59.424881, 50.011433 )
+ga_view_zoom_set( 36.892056 )
+ga_view_center_set( -56.320236, 47.028061 )
+ga_view_zoom_set( 32.792938 )
+ga_view_center_set( -59.461281, 50.132729 )
+ga_view_zoom_set( 36.892056 )
+ga_view_center_set( -62.994957, 53.625484 )
+ga_view_zoom_set( 41.503563 )
+ga_view_center_set( -66.970337, 57.554840 )
+ga_view_zoom_set( 46.691509 )
+ga_view_center_set( -73.462959, 61.232841 )
+ga_view_zoom_set( 52.527946 )
+ga_view_center_set( -55.603451, -1.800699 )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+INTEGER fem_modify_qu_num_nodes_created
+INTEGER fem_modify_qu_num_elems_created
+INTEGER fem_modify_qu_num_nodes_deleted
+INTEGER fem_modify_qu_num_elems_deleted
+STRING fem_modify_quad_s_nodes_created[VIRTUAL]
+STRING fem_modify_quad_s_elems_created[VIRTUAL]
+STRING fem_modify_quad_s_nodes_deleted[VIRTUAL]
+STRING fem_modify_quad_s_elems_deleted[VIRTUAL]
+fem_mod_quad_split( "2_tria", "Auto", "Elm 291 290", "", "",  @
+fem_modify_qu_num_nodes_created, fem_modify_qu_num_elems_created,  @
+fem_modify_qu_num_nodes_deleted, fem_modify_qu_num_elems_deleted,  @
+fem_modify_quad_s_nodes_created, fem_modify_quad_s_elems_created,  @
+fem_modify_quad_s_nodes_deleted, fem_modify_quad_s_elems_deleted )
+$# === No nodes deleted.
+$# === No nodes created.
+$# === 2 elements deleted.  IDs  = 291,290.
+$# === 4 elements created.  IDs  = 316:319.
+fem_mod_quad_split( "2_tria", "Auto", "Elm 285 284", "", "",  @
+fem_modify_qu_num_nodes_created, fem_modify_qu_num_elems_created,  @
+fem_modify_qu_num_nodes_deleted, fem_modify_qu_num_elems_deleted,  @
+fem_modify_quad_s_nodes_created, fem_modify_quad_s_elems_created,  @
+fem_modify_quad_s_nodes_deleted, fem_modify_quad_s_elems_deleted )
+$# === No nodes deleted.
+$# === No nodes created.
+$# === 2 elements deleted.  IDs  = 285,284.
+$# === 4 elements created.  IDs  = 320:323.
+fem_mod_quad_split( "2_tria", "Auto", "Elm 307 306", "", "",  @
+fem_modify_qu_num_nodes_created, fem_modify_qu_num_elems_created,  @
+fem_modify_qu_num_nodes_deleted, fem_modify_qu_num_elems_deleted,  @
+fem_modify_quad_s_nodes_created, fem_modify_quad_s_elems_created,  @
+fem_modify_quad_s_nodes_deleted, fem_modify_quad_s_elems_deleted )
+$# === No nodes deleted.
+$# === No nodes created.
+$# === 2 elements deleted.  IDs  = 307,306.
+$# === 4 elements created.  IDs  = 324:327.
+fem_mod_quad_split( "2_tria", "Auto", "Elm 312 311", "", "",  @
+fem_modify_qu_num_nodes_created, fem_modify_qu_num_elems_created,  @
+fem_modify_qu_num_nodes_deleted, fem_modify_qu_num_elems_deleted,  @
+fem_modify_quad_s_nodes_created, fem_modify_quad_s_elems_created,  @
+fem_modify_quad_s_nodes_deleted, fem_modify_quad_s_elems_deleted )
+$# === No nodes deleted.
+$# === No nodes created.
+$# === 2 elements deleted.  IDs  = 312,311.
+$# === 4 elements created.  IDs  = 328:331.
+ga_view_center_set( -31.440582, -92.674042 )
+ga_view_center_set( -26.713066, -61.682556 )
+fem_mod_quad_split( "2_tria", "Auto", "Elm 312 311 251 252", "", "",  @
+fem_modify_qu_num_nodes_created, fem_modify_qu_num_elems_created,  @
+fem_modify_qu_num_nodes_deleted, fem_modify_qu_num_elems_deleted,  @
+fem_modify_quad_s_nodes_created, fem_modify_quad_s_elems_created,  @
+fem_modify_quad_s_nodes_deleted, fem_modify_quad_s_elems_deleted )
+$# Question from application FEM
+$#     Element 312 does not exist.  Do you wish to continue?
+$? YESFORALL 2001200 
+$# === No nodes deleted.
+$# === No nodes created.
+$# === 2 elements deleted.  IDs  = 251,252.
+$# === 4 elements created.  IDs  = 332:335.
+fem_mod_quad_split( "2_tria", "Auto", "Elm 278 279", "", "",  @
+fem_modify_qu_num_nodes_created, fem_modify_qu_num_elems_created,  @
+fem_modify_qu_num_nodes_deleted, fem_modify_qu_num_elems_deleted,  @
+fem_modify_quad_s_nodes_created, fem_modify_quad_s_elems_created,  @
+fem_modify_quad_s_nodes_deleted, fem_modify_quad_s_elems_deleted )
+$# === No nodes deleted.
+$# === No nodes created.
+$# === 2 elements deleted.  IDs  = 278,279.
+$# === 4 elements created.  IDs  = 336:339.
+ga_view_center_set( -19.359152, -83.218994 )
+ga_view_center_set( -24.740147, -84.054329 )
+ga_view_zoom_set( 59.093941 )
+ga_view_center_set( -30.793795, -84.994064 )
+ga_view_zoom_set( 66.480682 )
+ga_view_center_set( -37.604126, -86.051254 )
+ga_view_zoom_set( 74.790771 )
+ga_view_center_set( -45.265732, -87.240601 )
+ga_view_zoom_set( 84.139618 )
+ga_view_center_set( -57.886677, -40.122410 )
+ga_view_center_set( -66.412643, -44.634335 )
+ga_view_zoom_set( 94.657074 )
+ga_view_center_set( -76.004379, -49.710239 )
+ga_view_zoom_set( 106.489212 )
+ga_view_center_set( -86.795120, -55.460026 )
+ga_view_zoom_set( 119.800362 )
+ga_view_center_set( -97.577148, -0.351855 )
+ga_view_center_set( -109.583771, 1.863393 )
+ga_view_zoom_set( 134.775406 )
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+ga_view_center_set( -108.387558, 9.572446 )
+ga_view_zoom_set( 119.800362 )
+ga_view_center_set( -107.127296, 16.228046 )
+ga_view_zoom_set( 106.489212 )
+ga_view_center_set( -104.795921, 26.624928 )
+ga_view_zoom_set( 85.191368 )
+ga_view_center_set( -98.550797, 32.814091 )
+ga_view_zoom_set( 75.725662 )
+ga_view_center_set( -92.501740, 43.299191 )
+ga_view_zoom_set( 60.580528 )
+ga_view_center_set( -90.470459, 47.999081 )
+ga_view_zoom_set( 53.849358 )
+ga_view_center_set( -83.301170, 45.078278 )
+ga_view_zoom_set( 47.866096 )
+ga_view_center_set( -76.928482, 42.482006 )
+ga_view_zoom_set( 42.547642 )
+ga_view_center_set( -71.305824, 40.174202 )
+ga_view_zoom_set( 37.820126 )
+ga_view_center_set( -66.345200, 38.122826 )
+ga_view_zoom_set( 33.617889 )
+ga_view_center_set( -61.946808, 36.299374 )
+ga_view_zoom_set( 29.882568 )
+ga_view_center_set( -58.980171, 35.150055 )
+ga_view_zoom_set( 26.562283 )
+ga_view_center_set( -56.343155, 34.128441 )
+ga_view_zoom_set( 23.610918 )
+ga_view_center_set( -52.123932, 32.493851 )
+ga_view_zoom_set( 18.888735 )
+ga_view_center_set( -48.748562, 31.186180 )
+ga_view_zoom_set( 15.110988 )
+ga_view_center_set( -47.168926, 30.605000 )
+ga_view_zoom_set( 13.431989 )
+ga_view_center_set( -44.641495, 29.675110 )
+ga_view_zoom_set( 10.745591 )
+ga_view_center_set( -43.518200, 29.261818 )
+ga_view_zoom_set( 9.551637 )
+ga_view_center_set( -42.117805, 28.781427 )
+ga_view_zoom_set( 8.490344 )
+ga_view_center_set( -40.873009, 28.334867 )
+ga_view_zoom_set( 7.546972 )
+ga_view_center_set( -42.703934, 29.373144 )
+ga_view_zoom_set( 9.433716 )
+ga_view_center_set( -44.992592, 30.670984 )
+ga_view_zoom_set( 11.792145 )
+ga_view_center_set( -47.853413, 32.284561 )
+ga_view_zoom_set( 14.740181 )
+ga_view_center_set( -49.641434, 33.282158 )
+ga_view_zoom_set( 16.582703 )
+ga_view_center_set( -52.358208, 33.834114 )
+ga_view_zoom_set( 18.655540 )
+ga_view_center_set( -55.462872, 34.434353 )
+ga_view_zoom_set( 20.987484 )
+ga_view_center_set( -66.313660, 35.994453 )
+ga_view_zoom_set( 28.857790 )
+ga_view_center_set( -72.898453, 38.054214 )
+ga_view_zoom_set( 32.465015 )
+ga_view_center_set( -80.306366, 40.383446 )
+ga_view_zoom_set( 36.523144 )
+ga_view_center_set( -88.640251, 43.003830 )
+ga_view_zoom_set( 41.088535 )
+ga_view_center_set( -98.015854, 45.951756 )
+ga_view_zoom_set( 46.224602 )
+ga_view_center_set( -108.546341, 49.148521 )
+ga_view_zoom_set( 52.002678 )
+ga_view_center_set( -120.393097, 52.744881 )
+ga_view_zoom_set( 58.503014 )
+ga_view_center_set( -160.311005, 64.817627 )
+ga_view_zoom_set( 80.441643 )
+ga_view_center_set( -153.071259, 90.558937 )
+ga_view_center_set( -139.029633, 94.578400 )
+ga_view_zoom_set( 71.503685 )
+ga_view_center_set( -126.501274, 97.939720 )
+ga_view_zoom_set( 63.558830 )
+ga_view_center_set( -115.364883, 100.906662 )
+ga_view_zoom_set( 56.496738 )
+ga_view_center_set( -97.546677, 105.653740 )
+ga_view_zoom_set( 45.197392 )
+ga_view_center_set( -89.627495, 107.763573 )
+ga_view_zoom_set( 40.175461 )
+ga_view_center_set( -76.956795, 111.044189 )
+ga_view_zoom_set( 32.140369 )
+ga_view_center_set( -66.820236, 113.649681 )
+ga_view_zoom_set( 25.712296 )
+ga_view_center_set( -62.323547, 114.799225 )
+ga_view_zoom_set( 22.855373 )
+ga_view_center_set( -58.401619, 115.407822 )
+ga_view_zoom_set( 20.315887 )
+ga_view_center_set( -54.928825, 115.922066 )
+ga_view_zoom_set( 18.058567 )
+ga_view_center_set( -49.372353, 116.723511 )
+ga_view_zoom_set( 14.446854 )
+ga_view_center_set( -46.907562, 117.065468 )
+ga_view_zoom_set( 12.841648 )
+ga_view_center_set( -48.422539, 117.777847 )
+ga_view_zoom_set( 14.446854 )
+ga_view_center_set( -50.126892, 118.579277 )
+ga_view_zoom_set( 16.252710 )
+ga_view_center_set( -57.796448, 122.185669 )
+ga_view_zoom_set( 24.379066 )
+ga_view_center_set( -60.672531, 123.538078 )
+ga_view_zoom_set( 27.426449 )
+ga_view_center_set( -64.161697, 125.323242 )
+ga_view_zoom_set( 30.854755 )
+ga_view_center_set( -72.012321, 129.339874 )
+ga_view_zoom_set( 38.568443 )
+ga_view_center_set( -76.918961, 131.850281 )
+ga_view_zoom_set( 43.389500 )
+ga_view_center_set( -87.958900, 137.498657 )
+ga_view_zoom_set( 54.236874 )
+ga_view_center_set( -57.043900, -18.703535 )
+ga_view_center_set( -22.874662, -100.058853 )
+ga_view_center_set( -27.628410, -98.494347 )
+ga_view_zoom_set( 61.016483 )
+ga_view_center_set( -32.976379, -96.734268 )
+ga_view_zoom_set( 68.643547 )
+ga_view_center_set( -38.992836, -94.754166 )
+ga_view_zoom_set( 77.223991 )
+ga_view_center_set( -45.761353, -92.526535 )
+ga_view_zoom_set( 86.876991 )
+ga_view_center_set( -53.375931, -90.052605 )
+ga_view_zoom_set( 97.736618 )
+ga_view_center_set( -62.014572, -88.209190 )
+ga_view_zoom_set( 109.953697 )
+ga_view_center_set( -80.706711, 3.052392 )
+ga_view_aa_set( -23.954847, -3.852041, 2.669230 )
