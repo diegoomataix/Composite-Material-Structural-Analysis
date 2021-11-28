@@ -1,35 +1,26 @@
-$ MSC.Nastran input file created on November  28, 2021 at 22:56:43 by
+$ MSC.Nastran input file created on November  28, 2021 at 22:35:04 by
 $ Patran 2020  (Student Edition)
 $ Direct Text Input for Nastran System Cell Section
 $ Direct Text Input for File Management Section
 $ Direct Text Input for Executive Control
-$ Buckling Analysis, Database
-SOL 105
+$ Linear Static Analysis, Database
+SOL 101
 CEND
 $ Direct Text Input for Global Case Control Data
 TITLE = MSC.Nastran job created on 28-Nov-21 at 22:30:54
-LABEL = Pandeo
 ECHO = NONE
 SUBCASE 1
-$ Subcase name : Default
    SUBTITLE=Default
    SPC = 2
    LOAD = 2
-   DISPLACEMENT(SORT1,REAL)=ALL
-   SPCFORCES(SORT1,REAL)=ALL
-SUBCASE 2
-$ Subcase name : Default
-   SUBTITLE=Default
-   SPC = 2
-   METHOD = 1
-   VECTOR(SORT1,REAL)=ALL
-   SPCFORCES(SORT1,REAL)=ALL
-   STATSUB = 1
+   DISPLACEMENT(PLOT,SORT1,REAL)=ALL
+   SPCFORCES(PLOT,SORT1,REAL)=ALL
+   STRESS(PLOT,SORT1,REAL,VONMISES,BILIN)=ALL
+$ Direct Text Input for this Subcase
 BEGIN BULK
 $ Direct Text Input for Bulk Data
-MDLPRM   HDF5    0
+PARAM    POST    0
 PARAM   PRTMAXIM YES
-EIGRL    1                       1       0
 $ Elements and Element Properties for region : Shell_3mm
 PSHELL   1       1       3.      1               1
 $ Pset: "Shell_3mm" will be imported as: "pshell.1"
@@ -8750,4 +8741,4 @@ SPC1     4       1       3       74
 $ Nodal Forces of Load Set : 15kN_Down
 FORCE    1       7178    0       15.     0.      0.      -1.
 $ Referenced Coordinate Frames
-ENDDATA e50a6e73
+ENDDATA 32802aa1
