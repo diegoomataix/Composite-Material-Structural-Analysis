@@ -6,7 +6,14 @@ Notes:
 
 
 *********** Shell direction ***********
-- Dirección en los nodos donde hay triple cruce debe ser la misma?
+- Dirección en los nodos donde hay triple cruce debe ser la misma? 
 
 *********** Laminate ***********
 - Ángulos laminado cruce helicoidales
+
+*********** BC***********
+- Están bien?
+
+*********** Results ***********
+- Tiene sentido?
+- Reduzco laminado?
