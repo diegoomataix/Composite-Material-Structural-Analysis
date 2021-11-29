@@ -1,0 +1,31 @@
+Propiedad	M¢dulo el stico [Pa]	M¢dulo Poisson	Resistencia [Pa]							
+'Longitudinal_Tension.csv'	1.58E+11	0.315611	2.23E+09						22.98689	323.8804
+'Longitudinal_Compression.csv'	1.40932E+11	0.3563							20.440467	
+'Transverse_Tension.csv'	8.9491E+09		5.12E+07						1.29795	7.4312
+'Transverse_Compression.csv'	9.71E+09	0.0235	2.55E+08						1.40865	36.9449
+'In-Plane_Shear.csv'	4.65E+09		8.87E+07		Densidad	1580			0.67425	12.8629
+										
+										
+	Anillos (tracci¢n) [Gpa]	Rigidizadores (compresi¢n) [Gpa]								
+Elastic Modulus 11	158.489	140.932			1.58E+11	1.41E+11				
+Elastic Modulus 22	8.949	9.712			8.95E+09	9.71E+09				
+Poisson Ratio 12	0.316	0.356			0.315611	0.3563				
+Shear Modulus 12	4.649	4.649			4.65E+09	4.65E+09				
+Shear Modulus 23	4.649	4.649			4.65E+09	4.65E+09				
+Shear Modulus 13	4.649	4.649			4.65E+09	4.65E+09				
+Density [g/mü]	1.580	1.580			1580	1580				
+										
+Tension Stress Limit 11	2.233	2.233			2.23E+09	2.23E+09				
+Tension Stress Limit 22	0.051	0.051			5.12E+07	5.12E+07				
+Compress Stress Limit 11	1.418	1.418			1.42E+09	1.42E+09				
+Compress Stress Limit 22	0.255	0.255			2.55E+08	2.55E+08				
+Shear Stress Limit	0.089	0.089			8.87E+07	8.87E+07				
+Bonding Shear Stress Limit	0.089	0.089			8.87E+07	8.87E+07				
+										
+										
+Espesor de las capas [mm]	0.183	0.183			1.83E-04	1.83E-04				
+Espesor total [mm]	1.829	1.829								
+Numero de capas	10	10								
+										
+										
+0.0072										
