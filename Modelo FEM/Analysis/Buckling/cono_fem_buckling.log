@@ -1,13 +1,13 @@
 MSC Nastran V2020 (Intel Windows 10 Home 6.2 9200) Control File: 
 ----------------------------------------------------------------- 
 Nastran BUFFSIZE=8193 $(c:/program files/msc.software/napa_se/2020/nastran/conf/nast20200.rcf[2])
-JID='c:/users/diego/desktop/analysis/buckling/cono_fem_buckling.bdf'
+JID='c:/users/diego/pictures/analysis/aas/cono_fem_buckling.bdf'
 OUT='./cono_fem_buckling'
 MEM=527MB      $ 
 MACH='Intel'
 OPER='Windows 10 Home'
 OSV='6.2 9200'
-MODEL='Xeon/2956 (klkgng)'
+MODEL='Xeon/2955 (klkgng)'
 NPROC='8'
 CONFIG=6
 NPROC=8
@@ -15,8 +15,8 @@ symbol=DELDIR='c:/program files/msc.software/napa_se/2020/nastran/msc20200/nast/
 symbol=DEMODIR='c:/program files/msc.software/napa_se/2020/nastran/msc20200/nast/demo' $(program default)
 symbol=SSSALTERDIR='c:/program files/msc.software/napa_se/2020/nastran/msc20200/nast/sssalter' $(program default)
 symbol=TPLDIR='c:/program files/msc.software/napa_se/2020/nastran/msc20200/nast/tpl' $(program default)
-SDIR='c:/engineering software/nastran-patran/cono_fem_buckling.T9232_30'
-DBS='c:/engineering software/nastran-patran/cono_fem_buckling.T9232_30'
+SDIR='c:/engineering software/nastran-patran/cono_fem_buckling.T27296_36'
+DBS='c:/engineering software/nastran-patran/cono_fem_buckling.T27296_36'
 SCR='yes'
 SMEM=100
 BPOOL=150
@@ -31,13 +31,13 @@ MSGCAT='c:/program files/msc.software/napa_se/2020/nastran/msc20200/win64i8/anal
 MSGDEST='f06'
 NEWS='c:/program files/msc.software/napa_se/2020/nastran/msc20200/nast/news.txt'
 ----------------------------------------------------------------- 
-MSC_ISHELLPATH=c:\users\diego\desktop\analysis\buckling 
+MSC_ISHELLPATH=c:\users\diego\pictures\analysis\aas 
 MSC_JIDPATH= 
 PATH=c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\nCode\bin;c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\nvidia;c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\lib;c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020.2.254\windows\mpi\intel64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MATLAB\R2020b\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\PuTTY\;C:\Program Files\MSC.Software\NaPa_SE\2020\Patran\bin;C:\Users\diego\AppData\Local\Microsoft\WindowsApps;C:\Users\diego\AppData\Local\GitHubDesktop\bin;C:\Users\diego\AppData\Local\Microsoft\WindowsApps;C:\Users\diego\AppData\Local\atom\bin;C:\Users\diego\AppData\Local\Programs\Microsoft VS Code\bin 
 SCA_SERVICE_CATALOG=c:\program files\msc.software\napa_se\2020\nastran\msc20200\res\SCAServiceCatalog.xml 
 SCA_RESOURCE_DIR=c:\program files\msc.software\napa_se\2020\nastran\msc20200\res 
-Cmd Line:    C:\Program Files\MSC.Software\NaPa_SE\2020\Nastran\msc20200\win64i8\nastran.exe JID=C:\Users\diego\Desktop\Analysis\Buckling\Cono_FEM_Buckling.bdf 
-Current Dir: C:\Users\diego\Desktop\Analysis\Buckling 
+Cmd Line:    C:\Program Files\MSC.Software\NaPa_SE\2020\Nastran\msc20200\win64i8\nastran.exe JID=C:\Users\diego\Pictures\Analysis\aas\Cono_FEM_Buckling.bdf 
+Current Dir: C:\Users\diego\Pictures\Analysis\aas 
 Time Cmd:    c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\msctime 
 Executable:  c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\analysis.exe 
 Arch= Kywd:  [Not specified]  
@@ -46,9 +46,9 @@ FPE:         yes
 ----------------------------------------------------------------- 
 Current resource limits:
  Physical memory:                    16275 MB
- Physical memory available:           7290 MB
+ Physical memory available:           5963 MB
  Paging file size:                   32147 MB
- Paging file size available:         16924 MB
+ Paging file size available:         13101 MB
  Virtual memory:                 134217727 MB
  Virtual memory available:       134213511 MB
 ----------------------------------------------------------------- 
@@ -56,8 +56,8 @@ System configuration:
  Hostname:         klkgng
  Architecture:     win64i8
  Platform:         Intel Windows 10 Home 6.2 9200 (Windows Compute Cluster)
- Model:            Xeon/3043
- Clock freq.:      3042 MHz
+ Model:            Xeon/2950
+ Clock freq.:      2956 MHz
  Number of CPUs:   8
  Executable:       standard
  Raw model ID:     6
@@ -70,8 +70,8 @@ System configuration:
  Remote shell cmd: "c:/program files/msc.software/napa_se/2020/nastran/msc20200/win64i8/mscrmtcmd.exe" (Windows non-CCS nodes, UNIX)
                    <ccs_cmd> (Windows CCS nodes)
 ----------------------------------------------------------------- 
-MSC Nastran started  Mon Nov 29 13:25:30 WEST 2021 
- 13:25:31  Beginning Analysis
+MSC Nastran started  Tue Nov 30 00:12:36 WEST 2021 
+ 00:12:37  Beginning Analysis
 SCA Kernel 24.7.714370 successfully initialized
 BLAS/LAPACK .dll "c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\libimalloc.dll" has been loaded.
 BLAS/LAPACK .dll "c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\mkl_core.dll" has been loaded.
@@ -79,14 +79,14 @@ BLAS/LAPACK .dll "c:\program files\msc.software\napa_se\2020\nastran\msc20200\wi
 BLAS/LAPACK .dll "c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\mkl_rt.dll" has been loaded.
 BLAS/LAPACK .dll "c:\program files\msc.software\napa_se\2020\nastran\msc20200\win64i8\MSCblas.dll" has been loaded.
 
- 13:25:31  MSC Authorization Information - Checkout Successful (1016, 0)
- 13:25:31  -------------------------------------------------------------
- 13:25:31  Acquired 1 license for Student Edition Nastran
+ 00:12:38  MSC Authorization Information - Checkout Successful (1016, 0)
+ 00:12:38  -------------------------------------------------------------
+ 00:12:38  Acquired 1 license for Student Edition Nastran
 
 
- 13:25:31  MSC Authorization Information - System Attributes (1004, 0)
- 13:25:31  -----------------------------------------------------------
-  Date:          Mon Nov 29 13:25:31 2021
+ 00:12:38  MSC Authorization Information - System Attributes (1004, 0)
+ 00:12:38  -----------------------------------------------------------
+  Date:          Tue Nov 30 00:12:38 2021
   LAPI Version:  LAPI 10.6.4 (CL 714361) (FLEXlm 11.16.3.0)
   License Mode:  Student Edition
 
@@ -94,49 +94,49 @@ BLAS/LAPACK .dll "c:\program files\msc.software\napa_se\2020\nastran\msc20200\wi
   * * * * * * * * * * * * * * * * * * * *
   * *                                 * *
   * *   MSC Customer Entitlement ID   * *
-  * *        d021037d-G2CCA02E        * *
+  * *        d021037d-G29866FC        * *
   * *                                 * *
   * * * * * * * * * * * * * * * * * * * *
   * * * * * * * * * * * * * * * * * * * *
 
- 13:25:31  MSC Authorization Information - Checkout Successful (1016, 0)
- 13:25:31  -------------------------------------------------------------
- 13:25:31  Acquired 1 license for Student Edition Nastran
+ 00:12:38  MSC Authorization Information - Checkout Successful (1016, 0)
+ 00:12:38  -------------------------------------------------------------
+ 00:12:38  Acquired 1 license for Student Edition Nastran
 
 
 Beginning bulk data processing using the IFPStar component.
 For more information on IFPStar, please see KB article KB8019200
 on our support pages, at http://simcompanion.mscsoftware.com.
 
- 13:25:31  8912 records read from JID file "c:/users/diego/desktop/analysis/buckling/cono_fem_buckling.bdf"
+ 00:12:38  8912 records read from JID file "c:/users/diego/pictures/analysis/aas/cono_fem_buckling.bdf"
 
 Processing of bulk data entries is complete.
 
- 13:25:31  Analysis started.
- 13:25:31  Geometry access/verification to CAD part initiated (if needed).
- 13:25:31  Geometry access/verification to CAD part successfully completed (if needed).
- 13:25:31  Finite element model generation started.
- 13:25:32  Finite element model generated 20022 degrees of freedom.
- 13:25:32  Finite element model generation successfully completed.
- 13:25:32  Application of Loads and Boundary Conditions to the finite element model started.
- 13:25:32  Application of Loads and Boundary Conditions to the finite element model successfully completed.
- 13:25:32  Application of Loads and Boundary Conditions to the finite element model started.
- 13:25:32  Application of Loads and Boundary Conditions to the finite element model successfully completed.
- 13:25:32  Solution of the system equations for linear statics started.
- 13:25:32  Solution of the system equations for linear statics successfully completed.
- 13:25:32  Solution of the system equations for normal modes started.
+ 00:12:38  Analysis started.
+ 00:12:38  Geometry access/verification to CAD part initiated (if needed).
+ 00:12:38  Geometry access/verification to CAD part successfully completed (if needed).
+ 00:12:38  Finite element model generation started.
+ 00:12:39  Finite element model generated 20022 degrees of freedom.
+ 00:12:39  Finite element model generation successfully completed.
+ 00:12:39  Application of Loads and Boundary Conditions to the finite element model started.
+ 00:12:39  Application of Loads and Boundary Conditions to the finite element model successfully completed.
+ 00:12:39  Application of Loads and Boundary Conditions to the finite element model started.
+ 00:12:39  Application of Loads and Boundary Conditions to the finite element model successfully completed.
+ 00:12:39  Solution of the system equations for linear statics started.
+ 00:12:39  Solution of the system equations for linear statics successfully completed.
+ 00:12:39  Solution of the system equations for normal modes started.
 
- 13:25:32  MSC Authorization Information - Checkout Successful (1016, 0)
- 13:25:32  -------------------------------------------------------------
- 13:25:32  Acquired 1 license for Student Edition Nastran
+ 00:12:39  MSC Authorization Information - Checkout Successful (1016, 0)
+ 00:12:39  -------------------------------------------------------------
+ 00:12:39  Acquired 1 license for Student Edition Nastran
 
- 13:25:33  Solution of the system equations for normal modes successfully completed.
- 13:25:33  29 records read from JID file "c:/users/diego/desktop/analysis/buckling/cono_fem_buckling.bdf"
- 13:25:33  NSEXIT: EXIT(0)
- 13:25:33  Analysis complete  0
-Real:        2.198 seconds ( 0:00:02.198)
-User:        1.562 seconds ( 0:00:01.562)
-Sys:         0.578 seconds ( 0:00:00.578)
+ 00:12:40  Solution of the system equations for normal modes successfully completed.
+ 00:12:40  29 records read from JID file "c:/users/diego/pictures/analysis/aas/cono_fem_buckling.bdf"
+ 00:12:40  NSEXIT: EXIT(0)
+ 00:12:40  Analysis complete  0
+Real:        2.641 seconds ( 0:00:02.641)
+User:        1.734 seconds ( 0:00:01.734)
+Sys:         0.687 seconds ( 0:00:00.687)
  ==================================================
  OS:                           6.2
  OEM ID:                       9
@@ -152,4 +152,4 @@ Sys:         0.578 seconds ( 0:00:00.578)
  HyperThreading:               On
  Ram:                          16275 Mb
 Can't open the file c:\engineering
-MSC Nastran finished Mon Nov 29 13:25:33 WEST 2021 
+MSC Nastran finished Tue Nov 30 00:12:40 WEST 2021 

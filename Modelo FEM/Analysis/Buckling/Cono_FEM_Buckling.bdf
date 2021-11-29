@@ -1,4 +1,4 @@
-$ MSC.Nastran input file created on November  29, 2021 at 13:24:00 by
+$ MSC.Nastran input file created on November  30, 2021 at 00:11:06 by
 $ Patran 2020  (Student Edition)
 $ Direct Text Input for Nastran System Cell Section
 $ Direct Text Input for File Management Section
@@ -7,7 +7,7 @@ $ Buckling Analysis, Database
 SOL 105
 CEND
 $ Direct Text Input for Global Case Control Data
-TITLE = MSC.Nastran job created on 29-Nov-21 at 13:21:15
+TITLE = Buckling
 SUBTITLE = Buckling
 LABEL = Buckling
 ECHO = NONE
@@ -16,15 +16,15 @@ $ Subcase name : BC
    SUBTITLE=BC
    SPC = 2
    LOAD = 2
-   DISPLACEMENT(PLOT,SORT1,REAL)=ALL
-   SPCFORCES(PLOT,SORT1,REAL)=ALL
+   DISPLACEMENT(SORT1,REAL)=ALL
+   SPCFORCES(SORT1,REAL)=ALL
 SUBCASE 2
 $ Subcase name : BC
    SUBTITLE=BC
    SPC = 2
    METHOD = 1
-   VECTOR(PLOT,SORT1,REAL)=ALL
-   SPCFORCES(PLOT,SORT1,REAL)=ALL
+   VECTOR(SORT1,REAL)=ALL
+   SPCFORCES(SORT1,REAL)=ALL
    STATSUB = 1
 BEGIN BULK
 $ Direct Text Input for Bulk Data
@@ -2191,7 +2191,7 @@ MAT8*    4               158.49001       8.9490004       .3156
                                  2.227   1.418   .044    .199    .089
 $ Multipoint Constraints of the Entire Model
 $ ID conflict : the PATRAN MPC ID was 1
-RBE2     2569    7000    3       3       4       47      48      52
+RBE2     2569    7000    123456  3       4       47      48      52
          53      54      423     424     428     429     430     799
          800     804     805     806     1175    1176    1180    1181
          1182    1551    1552    1556    1557    1558    1927    1928
@@ -8902,11 +8902,11 @@ SPC1     1       3       3420    3779
 SPC1     1       3       3785    THRU    3792
 SPC1     1       3       3796    4155
 SPC1     1       3       4161    THRU    4167
-$ Displacement Constraints of Load Set : SPC_12
-SPC1     3       12      1916    1927
 $ Displacement Constraints of Load Set : SPC_1
-SPC1     4       1       3       16
+SPC1     3       1       16
+$ Displacement Constraints of Load Set : SPC_12
+SPC1     4       12      1916
 $ Nodal Forces of Load Set : Force_15kN
 FORCE    1       7000    0       15.     0.      0.      -1.
 $ Referenced Coordinate Frames
-ENDDATA 187f3e0a
+ENDDATA e2f389dc
