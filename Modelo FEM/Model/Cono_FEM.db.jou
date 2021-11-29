@@ -16599,3 +16599,4478 @@ $# ===Call traceback...
 $#      Function SYS_ALLOCATE_ARRAY
 $#      Function AU_MSC_FAILURE_INDICES.PUT_SUBCASE_DATA, Line Number 683
 $#      Function AU_MSC_FI_SELECT_F06.FILE_CB, Line Number 99
+$# Error reported from application PCL: Read Failure Indices
+$#     Loadcase Name is BLANK!
+$? NO 0 
+$# Error reported from application PCL: Read Failure Indices
+$#     Loadcase name (BC) already exists!
+$? NO 0 
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# INTEGER subcase_id = 2
+$# Possible EOF reached on or about line: 559
+$# Error reported from application PCL: Read Failure Indices
+$#     Apparently no Failure Index data is defined in the F06 file!
+$? NO 0 
+$#  Beginning analysis of  Cono_FEM_Linear-Static
+jobfile.open( "Cono_FEM_Linear-Static", "ANALYZE NO JOBFILE" )
+msc_delete_old_files( "Cono_FEM_Linear-Static", ".bdf", ".op2" )
+jobfile.write_spl( "/* Jobfile for PATNAS created %A% at %A% */", ["29-Nov-21" @
+, "13:44:37"] )
+jobfile.writec( "", "TRANSLATOR = pat3nas" )
+jobfile.writec( "DATABASE", "C:\Users\diego\Dropbox\Academic\MEng Space Sy" // @
+"stems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Model\Cono_F" // @
+"EM.db" )
+jobfile.writec( "JOBNAME", "Cono_FEM_Linear-Static" )
+jobfile.writec( "ANALYSIS TITLE", "MSC.Nastran job created on 29-Nov-21 at" // @
+" 13:21:15" )
+jobfile.writec( "ANALYSIS SUBTITLE", "Linear-Static" )
+jobfile.writec( "ANALYSIS LABEL", "Linear-Static" )
+jobfile.writec( "", "" )
+jobfile.writec( "OBJECT", "Entire Model" )
+jobfile.writec( "METHOD", "Analysis Deck" )
+jobfile.writec( "", "" )
+jobfile.writec( "MODEL SUFFIX", ".bdf" )
+jobfile.writec( "RESULTS SUFFIX", ".op2" )
+jobfile.writec( "", "" )
+jobfile.writec( "", "/*" )
+jobfile.writec( "", " * File Search Path Declaration" )
+jobfile.writec( "", " */" )
+jobfile.writec( "", "" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\shareware\msc\unsupported\utilities\extra_files" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\helpfiles" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\alters" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\icons" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\icons\RibbonIcons" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\bin" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\bin\exe" )
+jobfile.writec( "File Search Path", "C:\Users\diego" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\mscprocor_files\dmap" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\mscprocor_files\plb" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\mscprocor_files\lib" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\mscprocor_files\icons" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\shareware\msc\unsupported\utilities\icons" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\shareware\msc\unsupported\utilities\plb" )
+jobfile.writec( "File Search Path", "C:\Program Files\MSC.Software\NaPa_SE" // @
+"\2020\Patran\mscexplore_files\" )
+jobfile.writec( "", "" )
+jobfile.writec( "", "/*" )
+jobfile.writec( "", " * Translation Parameters" )
+jobfile.writec( "", " */" )
+jobfile.writec( "", "" )
+jobfile.writec( "DATA OUTPUT", "XDB" )
+jobfile.writec( "OUTPUT2 REQUESTS", "P3 Built In" )
+jobfile.writec( "OUTPUT2 FORMAT", "Binary" )
+jobfile.writec( "DIVISION TOLERANCE", "1.0e-08" )
+jobfile.writec( "NUMERICAL TOLERANCE", "1.0e-04" )
+jobfile.writec( "WRITING TOLERANCE", "1.0e-21" )
+jobfile.writec( "GEOM CHECK", "INFORM" )
+jobfile.writec( "SORTED BULK", "NO" )
+jobfile.writec( "CARD FORMAT", "either" )
+jobfile.writec( "NODE COORDINATES", "reference frame" )
+jobfile.writec( "COORD COORDINATES", "global" )
+jobfile.writec( "MSC.Nastran VERSION", "2020." )
+jobfile.writec( "WRITE STORED PRECISION", "TRUE" )
+jobfile.writec( "WRITE IN FREE FORMAT", "FALSE" )
+jobfile.writec( "PROPS ON ELEM ENTRY", "FALSE" )
+jobfile.writec( "CONTINUATION ENTRY", "FALSE" )
+jobfile.writec( "PCOMPG ENTRY", "TRUE" )
+jobfile.writec( "CONVERT CBAR CBEAM", "FALSE" )
+jobfile.writec( "ITERATIVE SOLVER", "FALSE" )
+jobfile.writei( "SUPER ELEMENT 0", 0 )
+jobfile.writec( "SEALL WRITE", "FALSE" )
+jobfile.writec( "PART SUPERELEMENT CREATE", "TRUE" )
+jobfile.writec( "AUTOQSET", "FALSE" )
+jobfile.writec( "FIXEDB", "FALSE" )
+jobfile.writei( "SUPER TREE COUNT", 0 )
+jobfile.writec( "MODEL TOLERANCE", "0.0049999999" )
+jobfile.writec( "ELEMENT PROPERTY OFFSET", "0" )
+jobfile.writec( "MATERIAL PROPERTY OFFSET", "0" )
+jobfile.writec( "TABLE OFFSET", "0" )
+jobfile.writec( "LOAD SET OFFSET", "0" )
+jobfile.writec( "LOAD CASE OFFSET", "0" )
+jobfile.writec( "CONTROL SET OFFSET", "0" )
+jobfile.writec( "RIGID ELEMENT OFFSET", "0" )
+jobfile.writec( "SCALAR POINT OFFSET", "0" )
+jobfile.writec( "BEGINNING CONTINUATION MARKER", "+      A" )
+jobfile.writec( "NUMBER ONLY", "ON" )
+jobfile.writec( "BEGINNING NUMBER", "OFF" )
+jobfile.writec( "TRAILING NUMBER", "OFF" )
+jobfile.writec( "SYNTAX NUMBER", "ON" )
+jobfile.writec( "SYNTAX MARKER", "." )
+jobfile.writec( "EXTERNAL SUPERELEMENT METHOD", "NONE" )
+jobfile.writec( "GRID COORDINATES ROUNDING", "15" )
+jobfile.writec( "COORD DATA PRECISION ROUNDING", "15" )
+jobfile.writec( "MPC DATA PRECISION ROUNDING", "15" )
+jobfile.writec( "LBC DATA PRECISION ROUNDING", "7" )
+jobfile.writec( "MAT DATA PRECISION ROUNDING", "15" )
+jobfile.writec( "PROP DATA PRECISION ROUNDING", "7" )
+jobfile.writec( "USE LEGACY PRECISION", "FALSE" )
+jobfile.writec( "EXPONENTIAL WRITE", "As Needed" )
+jobfile.writec( "EXPONENTIAL FORM", "Condensed" )
+jobfile.writec( "", "" )
+jobfile.writec( "", "/*" )
+jobfile.writec( "", " * Solution Parameters" )
+jobfile.writec( "", " */" )
+jobfile.writec( "", "" )
+jobfile.writec( "SOLUTION TYPE", "LINEAR STATIC" )
+jobfile.writei( "SOLUTION SEQUENCE", 101 )
+jobfile.writec( "DATABASE RUN", "ON" )
+jobfile.writec( "CYCLIC SYMMETRY", "OFF" )
+jobfile.writec( "AUTOMATIC CONSTRAINTS", "ON" )
+jobfile.writec( "INERTIA RELIEF", "OFF" )
+jobfile.writec( "ALTERNATE REDUCTION", "OFF" )
+jobfile.writec( "SHELL NORMAL TOLERANCE", "" )
+jobfile.writec( "MASS CALCULATION", "Lumped" )
+jobfile.writec( "DATA DECK ECHO", "None" )
+jobfile.writec( "PLATE RZ STIFFNESS FACTOR", "100.0" )
+jobfile.writec( "MAXIMUM PRINTED LINES", "" )
+jobfile.writec( "MAXIMUM RUN TIME", "" )
+jobfile.writec( "WT-MASS CONVERSION", "1.0" )
+jobfile.writec( "NODE ID FOR WT-GENER", "" )
+jobfile.writec( "RIGID ELEMENT TYPE", "LINEAR" )
+jobfile.writec( "USE SOL600", "OFF" )
+jobfile.writei( "CONTACT-SEGMENT-CONTROL METHOD", 0 )
+jobfile.writei( "CONTACT-DEFORMABLE-DEFORMABLE METHOD", 0 )
+jobfile.writec( "CONTACT CHECK", "OFF" )
+jobfile.writei( "CONTACT-CRITERION", 0 )
+jobfile.writei( "CONTACT-DERIVATION", 0 )
+jobfile.writei( "CONTACT-REL_ABS", 0 )
+jobfile.writec( "USE SOL700", "OFF" )
+jobfile.writec( "SN MEAN STRESS CORRECTION", "NONE" )
+jobfile.writec( "NEF FATIGUE STRESS OUTPUT", "NONE" )
+jobfile.writec( "NEF STRESS UNITS", "MPA" )
+jobfile.writec( "NEF STRESS COMBINATION", "ABSMAXPR" )
+jobfile.writec( "NEF RESULT LOCATION", "NODA" )
+jobfile.writec( "NEF RECOVERY LOCATION", "CORNER" )
+jobfile.writec( "NEF LAYER LOCATION", "WORST" )
+jobfile.writec( "NEF INTERPOLATION LIMIT", "0" )
+jobfile.writec( "NEF LEVEL OF MESSAGE", "0" )
+jobfile.writec( "NEF NUMBER OF THREADS", "1" )
+jobfile.writer( "NEF CERTAINTY OF SURVIVAL", 50. )
+jobfile.writer( "NEF OVERALL SCALE FACTOR", 1. )
+jobfile.writer( "NEF TOP STRESS PERCENTAGE FILTER", 100. )
+jobfile.writer( "NEF TOP DAMAGE PERCENTAGE FILTER", 100. )
+jobfile.writec( "NEF TIME HISTORY DIRECTORY", "C:\Users\diego" )
+jobfile.writei( "NEF MAX LOAD PER EVENT", 1 )
+jobfile.writec( "NEF EVENT DATA", "0" )
+jobfile.writec( "NEF LOAD SEQUENCE DATA", "0" )
+jobfile.writec( "USE CONTACT TABLE", "OFF" )
+jobfile.writec( "INITIAL CONTACTPAIR LOADCASE NAME", "" )
+jobfile.writei( "MDOF DATA", 0 )
+jobfile.writec( "CELL WRITE", "ON" )
+jobfile.writei( "CELL INPUT 0", 0 )
+jobfile.writec( "FMS WRITE", "ON" )
+jobfile.writei( "FMS INPUT 0", 0 )
+jobfile.writec( "EXEC WRITE", "ON" )
+jobfile.writei( "EXEC INPUT 0", 0 )
+jobfile.writec( "CASE WRITE", "ON" )
+jobfile.writei( "CASE INPUT 0", 0 )
+jobfile.writec( "BULK WRITE", "ON" )
+jobfile.writei( "BULK INPUT 0", 0 )
+jobfile.writec( "CELL DTI POSITION", "START" )
+jobfile.writec( "FMS DTI POSITION", "START" )
+jobfile.writec( "EXEC DTI POSITION", "START" )
+jobfile.writec( "CASE DTI POSITION", "START" )
+jobfile.writec( "BULK DTI POSITION", "START" )
+jobfile.writec( "", "END" )
+jobfile.close(  )
+mscnastran_job.associate_subcases( "101", "Cono_FEM_Linear-Static", 1, ["BC"] )
+analysis_submit_2( "MSC.Nastran", "Cono_FEM_Linear-Static" )
+$# Patran 2020  (Student Edition) has obtained 0 concurrent license(s) from 
+$# FLEXlm per a request to execute on Windows node KLKGNG(9cb6d021037d) (
+$# Windows 6.2 (Build 9200: Service Pack 0)) at 29-Nov-21 13:44:37.
+$# 
+$# Reading model information from the specified database, 
+$# C:\Users\diego\Dropbox\Academic\MEng\ Space\ Systems\3.\ MUE\ -\ 
+$# Materiales\ uso\ Espacial\Coursework\Modelo\ FEM\Model\Cono_FEM.db.
+$# Messages output from the Patran 2020  (Student Edition) input deck 
+$# translator on November  29, 2021 at 13:44:37.
+$# 
+$# The NASTRAN input file, Cono_FEM_Linear-Static.bdf, has been successfully 
+$# opened.
+$# 
+$# Translating 1512 elements from the element property region Shell_C_0.
+$# 
+$# Translating 300 elements from the element property region Shell_T_0.
+$# 
+$# Translating 48 elements from the element property region Shell_CT_0_90.
+$# 
+$# Translating 12 elements from the element property region Shell_CC_33.3.
+$# 
+$# Translating 12 elements from the element property region Shell_CC_57.5.
+$# 
+$# Translating 12 elements from the element property region Shell_CC_60.9.
+$# 
+$# Translating 24 elements from the element property region Shell_CT_0_55.
+$# 
+$# Translating 36 elements from the element property region Shell_CTC_0_90_24.1.
+$# 
+$# Translating 36 elements from the element property region Shell_CTC_0_90_29.
+$# 
+$# 9 property regions translated.
+$# 
+$# Translating 2 referenced material records.
+$# 
+$# Translating 1 multipoint constraints from the entire model.
+$# 
+$# Translating 3337 nodes from the entire model.
+$# 
+$# Writing loads for Load Case : BC.
+$# 
+$# Translating nodal constraints in load set : SPC_3.
+$# 
+$# Translating nodal constraints in load set : SPC_12.
+$# 
+$# Translating nodal constraints in load set : SPC_1.
+$# Writing interface element lbcs.
+$# 
+$# Translating nodal forces in load set : Force_15kN.
+$# Total execution time in real seconds: 1
+$# Total execution time in CPU seconds: 0.251007
+$# 
+$# End of NASTRAN input file translation.
+$# Student Edition Patran Nastran Preference Patran 2020  (Student Edition) 
+$# has released 0 license(s) to FLEXlm at 29-Nov-21 13:44:38.
+$# The translation has completed successfully.
+$# No Analysis Requested
+msc_dra_init_stream(  )
+msc_dra_add_param( "DATABASE", "C:\Users\diego\Dropbox\Academic\MEng Space" // @
+" Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Model\Con" // @
+"o_FEM.db" )
+msc_dra_add_param( "JOBNAME", "Cono_FEM_Linear-Static" )
+msc_dra_add_param( "RESULTS FILE", "C:\Users\diego\Dropbox\Academic\MEng S" // @
+"pace Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Analy" // @
+"sis\Linear-Static\cono_fem_linear-static.xdb" )
+msc_dra_add_param( "OBJECT", "Result Entities" )
+msc_dra_add_param( "ANALYSIS TYPE", "Structural" )
+msc_dra_add_param( "DIVISION TOLERANCE", "1.0E-8" )
+msc_dra_add_param( "NUMERICAL TOLERANCE", "1.0E-4" )
+msc_dra_add_param( "MODEL TOLERANCE", "0.0049999999" )
+msc_dra_add_param( "ROTATIONAL NODAL RESULTS", "OFF" )
+msc_dra_add_param( "STRESS/STRAIN INVARIANTS", "OFF" )
+msc_dra_add_param( "PRINCIPAL DIRECTIONS", "OFF" )
+msc_dra_add_param( "ELEMENT RESULTS POSITIONS", "Nodal       " )
+msc_dra_add_param( "TITLE DESCRIPTION", "ON" )
+msc_dra_finish_stream(  )
+analysis_import( "MSC.Nastran", "Cono_FEM_Linear-Static",  @
+"Attach Results File No Job", "C:\Users\diego\Dropbox\Academic\MEng Space " // @
+"Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Analysis\L" // @
+"inear-Static\cono_fem_linear-static.xdb", TRUE )
+$# Attaching Direct Results Access file: 
+$# "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE - Materiales 
+$# uso Espacial\Coursework\Modelo 
+$# FEM\Analysis\Linear-Static\cono_fem_linear-static.xdb"
+$# XDB file created by "MSC.NASTRAN V2020" on 11/29/2021 using "VENDOR:INTEL  
+$#               MODEL:XEON/3000 (KLKGNG)   OPSYS:WINDOWS 10 HOME 6.2"
+$# *** Begin: Attach Result File ***
+$# Processing result sub-case: Static Subcase
+$# Total execution time in real seconds:        0.000
+$# Total execution time in CPU  seconds:        0.063
+$# *** End:   Attach Result File ***
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A3:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "AsIs",  @
+"DeriveAverage", "All", "ShapeFunc", "", 0. )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN"] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], FALSE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+ga_view_center_set( -170.255249, -2.783585 )
+ga_view_zoom_set( 227.587494 )
+ga_view_center_set( -207.608047, 9.956566 )
+ga_view_zoom_set( 256.035919 )
+ga_view_center_set( -171.077209, -1.778961 )
+ga_view_zoom_set( 227.587479 )
+ga_view_center_set( -138.605225, -12.210556 )
+ga_view_zoom_set( 202.299988 )
+ga_view_center_set( -109.741264, -21.410927 )
+ga_view_zoom_set( 179.822205 )
+ga_view_center_set( -144.161469, -12.066231 )
+ga_view_zoom_set( 202.299988 )
+ga_view_center_set( -182.884216, -1.553444 )
+ga_view_zoom_set( 227.587494 )
+$# Counting SUBCASEs in: C:\Users\diego\Dropbox\Academic\MEng Space 
+$# Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Analysis\Linear-Static\cono_fem_linear-static.f06
+$# The F06 file contains 0 SUBCASEs
+$# ===(PCL) Invalid data range for argument. Arg#: 2
+$# ===Call traceback...
+$#      Function SYS_ALLOCATE_ARRAY
+$#      Function AU_MSC_FAILURE_INDICES.PUT_SUBCASE_DATA, Line Number 682
+$#      Function AU_MSC_FI_SELECT_F06.FILE_CB, Line Number 99
+$# ===(PCL) Invalid data range for argument. Arg#: 2
+$# ===Call traceback...
+$#      Function SYS_ALLOCATE_ARRAY
+$#      Function AU_MSC_FAILURE_INDICES.PUT_SUBCASE_DATA, Line Number 683
+$#      Function AU_MSC_FI_SELECT_F06.FILE_CB, Line Number 99
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 1
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# INTEGER subcase_id = 0
+$# Possible EOF reached on or about line: 488
+$# Error reported from application PCL: Read Failure Indices
+$#     Apparently no Failure Index data is defined in the F06 file!
+$? NO 0 
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A3:Static Subcase",  @
+"Stress Tensor", "", "Layer 12", "VONM", "AsIs", "DeriveAverage", "All",  @
+"ShapeFunc", "", 0. )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@Maximum,27 " // @
+"of 30 layers"] )
+res_data_dbres_list( 0, "Nodal", "Scalar", 26, ["SC1:BC", "SC1:BC", "SC1:BC",  @
+"SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC" @
+, "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC",  @
+"SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC", "SC1:BC" @
+], ["A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase", "A3:Static Subcase",  @
+"A3:Static Subcase", "A3:Static Subcase"], ["Stress Tensor", "Stress Tensor",  @
+"Stress Tensor", "Stress Tensor", "Stress Tensor", "Stress Tensor",  @
+"Stress Tensor", "Stress Tensor", "Stress Tensor", "Stress Tensor",  @
+"Stress Tensor", "Stress Tensor", "Stress Tensor", "Stress Tensor",  @
+"Stress Tensor", "Stress Tensor", "Stress Tensor", "Stress Tensor",  @
+"Stress Tensor", "Stress Tensor", "Stress Tensor", "Stress Tensor",  @
+"Stress Tensor", "Stress Tensor", "Stress Tensor", "Stress Tensor"], ["", "",  @
+"", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" @
+, "", "", "", ""], ["Layer 13", "Layer 14", "Layer 15", "Layer 16", "Layer 17" @
+, "Layer 18", "Layer 19", "Layer 2", "Layer 20", "Layer 21", "Layer 22",  @
+"Layer 23", "Layer 24", "Layer 25", "Layer 26", "Layer 27", "Layer 28",  @
+"Layer 29", "Layer 3", "Layer 30", "Layer 4", "Layer 5", "Layer 6", "Layer 7", @
+ "Layer 8", "Layer 9"] )
+res_data_list_max( 0, "Nodal", "Scalar", "Algebraic", "VONM" )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], FALSE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+ga_view_center_set( -153.578293, -9.549652 )
+ga_view_zoom_set( 202.299988 )
+ga_view_center_set( -127.528595, -16.657387 )
+ga_view_zoom_set( 179.822205 )
+ga_view_center_set( -104.437515, -22.975357 )
+ga_view_zoom_set( 159.841965 )
+ga_view_center_set( -59.681778, -88.510559 )
+ga_view_aa_set( -55.997368, 48.203911, 147.045944 )
+ga_view_aa_set( -1.664823, -14.056270, 114.938950 )
+ga_view_aa_set( -41.917568, 8.277225, 88.338234 )
+ga_view_center_set( -163.579056, -35.762722 )
+ga_view_aa_set( -47.690762, 25.784590, 112.571053 )
+ga_view_center_set( -197.317780, -38.232189 )
+ga_view_zoom_set( 179.822205 )
+uil_primary_file.db_save(  )
+$# Flushing the User Data Manager
+$# Journal file stopped recording at 29-Nov-21 14:04:53
+$# Appending to existing journal file C:\Users\diego\Dropbox\Academic\MEng 
+$# Space Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 29-Nov-21 15:42:09
+$# Synchronizing the User Data Manager
+$# Error reported from application UserDataManager
+$#     The amount of instance data fails to match the template for ud_region
+$? NO 1000020000 
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+$# Error reported from application Mass Properties
+$#     No region is defined.
+$? NO 1 
+REAL mass_prop_mass_props_array(VIRTUAL)
+STRING mass_prop_entity_list[VIRTUAL]
+STRING mass_prop_reject_list[VIRTUAL]
+mass_prop.cleanup_detailed( mass_prop_mass_props_array, mass_prop_entity_list, @
+ mass_prop_reject_list )
+INTEGER mass_prop_noutputs
+STRING mass_prop_gnames_out[32](VIRTUAL)
+INTEGER mass_prop_entities(VIRTUAL)
+INTEGER mass_prop_entity_types(VIRTUAL)
+INTEGER mass_prop_len_elist
+INTEGER mass_prop_num_ents
+INTEGER mass_prop_len_rlist
+INTEGER mass_prop_num_rejects
+INTEGER mass_prop_segment_id
+INTEGER mass_prop_cord_label
+INTEGER mass_prop_user_cord_label
+mass_prop_create_detailed( "3D", "Group", "FEM", "Summary", 1, [ @
+"default_group"], "", "Coord 0", "Use Element Properties",  @
+"Use Element Properties", "Coord 0", 3, 1, FALSE, FALSE, mass_prop_noutputs,  @
+mass_prop_gnames_out, mass_prop_entities, mass_prop_entity_types,  @
+mass_prop_mass_props_array, mass_prop_entity_list, mass_prop_len_elist,  @
+mass_prop_num_ents, mass_prop_reject_list, mass_prop_len_rlist,  @
+mass_prop_num_rejects, mass_prop_segment_id, mass_prop_cord_label,  @
+mass_prop_user_cord_label )
+mass_prop.cleanup_detailed( mass_prop_mass_props_array, mass_prop_entity_list, @
+ mass_prop_reject_list )
+mass_prop_create_detailed( "3D", "Group", "FEM", "Summary", 1, [ @
+"default_group"], "", "Coord 0", "Use Element Properties",  @
+"Use Element Properties", "Coord 0", 3, 1, FALSE, FALSE, mass_prop_noutputs,  @
+mass_prop_gnames_out, mass_prop_entities, mass_prop_entity_types,  @
+mass_prop_mass_props_array, mass_prop_entity_list, mass_prop_len_elist,  @
+mass_prop_num_ents, mass_prop_reject_list, mass_prop_len_rlist,  @
+mass_prop_num_rejects, mass_prop_segment_id, mass_prop_cord_label,  @
+mass_prop_user_cord_label )
+ga_view_center_set( -168.967072, -39.033985 )
+ga_view_zoom_set( 159.841965 )
+ga_view_center_set( -139.383636, -39.870617 )
+ga_view_zoom_set( 138.993011 )
+ga_view_center_set( -117.469994, -40.490364 )
+ga_view_zoom_set( 123.549347 )
+ga_view_center_set( -97.991272, -41.041233 )
+ga_view_zoom_set( 109.821640 )
+ga_view_center_set( -121.365791, -40.380180 )
+ga_view_zoom_set( 126.294884 )
+ga_view_center_set( -143.766434, -39.746685 )
+ga_view_zoom_set( 142.081741 )
+ga_view_center_set( -168.454071, -42.682995 )
+ga_view_zoom_set( 159.841965 )
+ga_view_center_set( -196.227570, -45.986301 )
+ga_view_zoom_set( 179.822205 )
+ga_view_center_set( -169.608673, -41.785015 )
+ga_view_zoom_set( 159.841965 )
+ga_viewport_location_set( "default_viewport", -0.025344, 0.006336, 1 )
+ga_viewport_location_set( "default_viewport", 1.533342, 0.038017, 1 )
+ga_viewport_size_set( "default_viewport", 8.762857, 4.181841, 1 )
+ga_viewport_location_set( "default_viewport", 1.539678, 0.038017, 1 )
+ga_viewport_location_set( "default_viewport", 0.000000, 0.000000, 1 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+$# Attaching Direct Results Access file: 
+$# "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE - Materiales 
+$# uso Espacial\Coursework\Modelo FEM\Analysis\Buckling\cono_fem_buckling.xdb"
+$# XDB file created by "MSC.NASTRAN V2020" on 11/29/2021 using "VENDOR:INTEL  
+$#               MODEL:XEON/2956 (KLKGNG)   OPSYS:WINDOWS 10 HOME 6.2"
+$# *** Begin: Attach Result File ***
+$# Processing result load case: SC2:BC
+$# Processing result sub-case: Static Subcase
+$# Total execution time in real seconds:        0.000
+$# Total execution time in CPU  seconds:        0.000
+$# *** End:   Attach Result File ***
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+res_data_load_dbresult( 0, "Nodal", "Scalar", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+ga_view_center_set( -175.631287, -27.048931 )
+ga_view_zoom_set( 142.081741 )
+ga_view_center_set( -178.387726, -18.050655 )
+ga_view_zoom_set( 126.294884 )
+ga_view_center_set( -180.797379, -10.052181 )
+ga_view_zoom_set( 112.262115 )
+ga_view_center_set( -178.387711, -18.050686 )
+ga_view_zoom_set( 126.294876 )
+ga_view_center_set( -175.676865, -27.048977 )
+ga_view_zoom_set( 142.081741 )
+ga_view_center_set( -169.884995, -46.987576 )
+ga_view_zoom_set( 177.602173 )
+ga_view_center_set( -166.521317, -59.192944 )
+ga_view_zoom_set( 199.802444 )
+ga_view_center_set( -82.604294, -27.224554 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "BC", "A1:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+$# Flushing the User Data Manager
+$# Journal file stopped recording at 29-Nov-21 17:10:34
+$# Appending to existing journal file C:\Users\diego\Dropbox\Academic\MEng 
+$# Space Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 29-Nov-21 17:10:57
+$# Synchronizing the User Data Manager
+$# Error reported from application UserDataManager
+$#     The amount of instance data fails to match the template for ud_region
+$? NO 1000020000 
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+res_display_tool_unpost( "Deformation", "default_Deformation" )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+$# Attaching Direct Results Access file: 
+$# "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE - Materiales 
+$# uso Espacial\Coursework\Modelo FEM\Analysis\Buckling\cono_fem_buckling.xdb"
+$# XDB file created by "MSC.NASTRAN V2020" on 11/29/2021 using "VENDOR:INTEL  
+$#               MODEL:XEON/2956 (KLKGNG)   OPSYS:WINDOWS 10 HOME 6.2"
+$# *** Begin: Attach Result File ***
+$# Processing result load case: SC2:BC
+$# Total execution time in real seconds:        0.000
+$# Total execution time in CPU  seconds:        0.000
+$# *** End:   Attach Result File ***
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+res_display_tool_unpost( "Fringe", "default_Fringe" )
+res_data_load_dbresult( 0, "Nodal", "Vector", "BC",  @
+"A1:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "BC",  @
+"A1:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "BC",  @
+"A1:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( -63.854370, 64.153786, -69.618111 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "BC", "A1:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+$# Warning reported from application Results
+$#     Unable to retrieve (Direct Results Access) data.
+analysis_main_tasks.delete_job( "MSC.Nastran", "Cono_FEM" )
+analysis_main_tasks.delete_job( "MSC.Nastran", "Cono_FEM_Buckling" )
+analysis_main_tasks.delete_job( "MSC.Nastran", "Cono_FEM_Linear-Static" )
+$# Warning reported from application Results
+$#     Detaching from the selected Direct Results Access file(s). This 
+$# operation cannot be undone. Please reattach file(s) if this was not the 
+$# desired action!
+$# Detach external results file:  C:\Users\diego\Dropbox\Academic\MEng Space 
+$# System
+$# s\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Analysis\Buckling\cono_
+$# fem_buckling.xdb
+res_dra_detach_file( 1, 130, 27 )
+$# Detach external results file:  C:\Users\diego\Dropbox\Academic\MEng Space 
+$# System
+$# s\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Analysis\Modes\cono_fem
+$# _modes.xdb
+res_dra_detach_file( 2, 130, 28 )
+$# Detach external results file:  C:\Users\diego\Dropbox\Academic\MEng Space 
+$# System
+$# s\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Analysis\Linear-Static\
+$# cono_fem_linear-static.xdb
+res_dra_detach_file( 3, 130, 31 )
+msc_dra_init_stream(  )
+msc_dra_add_param( "DATABASE", "C:\Users\diego\Dropbox\Academic\MEng Space" // @
+" Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Model\Con" // @
+"o_FEM.db" )
+msc_dra_add_param( "JOBNAME", "" )
+msc_dra_add_param( "RESULTS FILE", "C:\Users\diego\Dropbox\Academic\MEng S" // @
+"pace Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Analy" // @
+"sis\Modes\cono_fem_modes.xdb" )
+msc_dra_add_param( "OBJECT", "Result Entities" )
+msc_dra_add_param( "ANALYSIS TYPE", "Structural" )
+msc_dra_add_param( "DIVISION TOLERANCE", "1.0E-8" )
+msc_dra_add_param( "NUMERICAL TOLERANCE", "1.0E-4" )
+msc_dra_add_param( "MODEL TOLERANCE", "0.0049999999" )
+msc_dra_add_param( "ROTATIONAL NODAL RESULTS", "OFF" )
+msc_dra_add_param( "STRESS/STRAIN INVARIANTS", "OFF" )
+msc_dra_add_param( "PRINCIPAL DIRECTIONS", "OFF" )
+msc_dra_add_param( "ELEMENT RESULTS POSITIONS", "Nodal       " )
+msc_dra_add_param( "TITLE DESCRIPTION", "ON" )
+msc_dra_finish_stream(  )
+analysis_import( "MSC.Nastran", "", "Attach Results File No Job",  @
+"C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE - Materiales us" // @
+"o Espacial\Coursework\Modelo FEM\Analysis\Modes\cono_fem_modes.xdb", TRUE )
+$# Attaching Direct Results Access file: 
+$# "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE - Materiales 
+$# uso Espacial\Coursework\Modelo FEM\Analysis\Modes\cono_fem_modes.xdb"
+$# XDB file created by "MSC.NASTRAN V2020" on 11/29/2021 using "VENDOR:INTEL  
+$#               MODEL:XEON/2955 (KLKGNG)   OPSYS:WINDOWS 10 HOME 6.2"
+$# *** Begin: Attach Result File ***
+$# Processing result sub-case: Mode 1 : Freq. = 0.42679
+$# Processing result sub-case: Mode 2 : Freq. = 0.5962
+$# Processing result sub-case: Mode 3 : Freq. = 0.69113
+$# Processing result sub-case: Mode 4 : Freq. = 0.69427
+$# Processing result sub-case: Mode 5 : Freq. = 0.84721
+$# Processing result sub-case: Mode 6 : Freq. = 0.86786
+$# Processing result sub-case: Mode 7 : Freq. = 0.97829
+$# Processing result sub-case: Mode 8 : Freq. = 1.1748
+$# Processing result sub-case: Mode 9 : Freq. = 1.1979
+$# Processing result sub-case: Mode 10 : Freq. = 1.3778
+$# Total execution time in real seconds:        0.000
+$# Total execution time in CPU  seconds:        0.000
+$# *** End:   Attach Result File ***
+ga_view_center_set( -65.273148, -28.654631 )
+ga_view_zoom_set( 177.602173 )
+ga_view_center_set( -49.322937, -28.170362 )
+ga_view_zoom_set( 157.868591 )
+ga_view_center_set( -77.739288, -47.114594 )
+msc_dra_init_stream(  )
+msc_dra_add_param( "DATABASE", "C:\Users\diego\Dropbox\Academic\MEng Space" // @
+" Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Model\Con" // @
+"o_FEM.db" )
+msc_dra_add_param( "JOBNAME", "" )
+msc_dra_add_param( "RESULTS FILE", "C:\Users\diego\Dropbox\Academic\MEng S" // @
+"pace Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo FEM\Analy" // @
+"sis\Buckling\cono_fem_buckling.xdb" )
+msc_dra_add_param( "OBJECT", "Result Entities" )
+msc_dra_add_param( "ANALYSIS TYPE", "Structural" )
+msc_dra_add_param( "DIVISION TOLERANCE", "1.0E-8" )
+msc_dra_add_param( "NUMERICAL TOLERANCE", "1.0E-4" )
+msc_dra_add_param( "MODEL TOLERANCE", "0.0049999999" )
+msc_dra_add_param( "ROTATIONAL NODAL RESULTS", "OFF" )
+msc_dra_add_param( "STRESS/STRAIN INVARIANTS", "OFF" )
+msc_dra_add_param( "PRINCIPAL DIRECTIONS", "OFF" )
+msc_dra_add_param( "ELEMENT RESULTS POSITIONS", "Nodal       " )
+msc_dra_add_param( "TITLE DESCRIPTION", "ON" )
+msc_dra_finish_stream(  )
+analysis_import( "MSC.Nastran", "", "Attach Results File No Job",  @
+"C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE - Materiales us" // @
+"o Espacial\Coursework\Modelo FEM\Analysis\Buckling\cono_fem_buckling.xdb",  @
+TRUE )
+$# Attaching Direct Results Access file: 
+$# "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MUE - Materiales 
+$# uso Espacial\Coursework\Modelo FEM\Analysis\Buckling\cono_fem_buckling.xdb"
+$# XDB file created by "MSC.NASTRAN V2020" on 11/29/2021 using "VENDOR:INTEL  
+$#               MODEL:XEON/2956 (KLKGNG)   OPSYS:WINDOWS 10 HOME 6.2"
+$# *** Begin: Attach Result File ***
+$# Processing result load case: SC2:BC
+$# Processing result sub-case: Static Subcase
+$# Processing result sub-case: Mode 1 : Factor = 1.1906
+$# Total execution time in real seconds:        0.000
+$# Total execution time in CPU  seconds:        0.000
+$# *** End:   Attach Result File ***
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "AsIs",  @
+"DeriveAverage", "All", "ShapeFunc", "", 0. )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN"] )
+$# Error reported from application Results
+$#     This is a Pre-Release version of Patran Isosurface generation. This 
+$# message will appear once per session the first time an Isosurface is 
+$# created or modified. Please report any problems to MSC.
+$? NO 4700159 
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( 6.655072, -2.240040, 111.076042 )
+ga_view_center_set( -67.704346, -44.531853 )
+ga_view_zoom_set( 140.327637 )
+ga_view_center_set( -58.784389, -42.236069 )
+ga_view_zoom_set( 124.735680 )
+ga_view_center_set( -67.704338, -44.531776 )
+ga_view_zoom_set( 140.327637 )
+ga_view_center_set( -97.809158, -52.279877 )
+ga_view_zoom_set( 192.950500 )
+ga_view_center_set( -134.469757, -0.183236 )
+ga_view_aa_set( -59.243542, 10.229628, 117.279579 )
+ga_view_center_set( -115.174713, -50.350365 )
+ga_view_center_set( -134.521500, -51.830025 )
+ga_view_zoom_set( 217.069305 )
+ga_view_center_set( -155.537598, -46.919296 )
+ga_view_zoom_set( 244.202972 )
+ga_view_aa_set( 4.095822, 6.631376, 128.337601 )
+ga_view_aa_set( 0., 0., 0. )
+ga_view_center_set( -134.022095, -29.357346 )
+ga_view_zoom_set( 217.069305 )
+ga_view_center_set( -99.863708, -1.924042 )
+ga_view_zoom_set( 173.655441 )
+ga_view_center_set( -84.859741, 10.386902 )
+ga_view_zoom_set( 154.360397 )
+ga_view_center_set( -71.522858, 21.329971 )
+ga_view_zoom_set( 137.209244 )
+ga_view_center_set( -66.034485, 6.236954 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -56.471008, 6.470787 )
+ga_view_zoom_set( 121.963776 )
+ga_view_center_set( -47.970123, 6.678635 )
+ga_view_zoom_set( 108.412247 )
+ga_view_center_set( -40.413757, 6.863388 )
+ga_view_zoom_set( 96.366440 )
+ga_view_center_set( -25.055878, 8.072670 )
+ga_view_zoom_set( 70.084686 )
+ga_view_center_set( -20.577057, 8.430969 )
+ga_view_zoom_set( 62.297501 )
+ga_view_center_set( -16.723267, 8.791927 )
+ga_view_zoom_set( 55.375557 )
+ga_view_center_set( -14.971535, 6.562462 )
+ga_view_zoom_set( 76.141388 )
+ga_view_center_set( -14.664970, 5.774193 )
+ga_view_zoom_set( 104.694412 )
+ga_view_aa_set( -50.062763, 2.701808, 3.152270 )
+ga_view_center_set( -14.290292, 10.555710 )
+ga_view_zoom_set( 93.061699 )
+ga_view_center_set( -13.690805, 18.206184 )
+ga_view_zoom_set( 74.449356 )
+ga_view_center_set( -13.221370, 22.392998 )
+ga_view_zoom_set( 66.177208 )
+ga_view_center_set( -12.470295, 29.091911 )
+ga_view_zoom_set( 52.941765 )
+ga_view_center_set( -12.100377, 31.978985 )
+ga_view_zoom_set( 47.059345 )
+ga_view_center_set( -14.453344, 56.920441 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_center_set( -10.776743, 10.747261 )
+ga_view_zoom_set( 148.085663 )
+ga_view_center_set( -14.183607, 19.790993 )
+ga_view_zoom_set( 107.698662 )
+ga_view_center_set( -13.688047, 21.993423 )
+ga_view_zoom_set( 95.732147 )
+ga_view_center_set( -12.446685, 27.119080 )
+ga_view_zoom_set( 69.623383 )
+ga_view_center_set( -11.556807, 30.488716 )
+ga_view_zoom_set( 61.887451 )
+ga_view_center_set( -9.615271, 38.099525 )
+ga_view_zoom_set( 45.009056 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_aa_set( 0., 0., 0. )
+ga_view_center_set( -19.659475, 36.373718 )
+ga_view_zoom_set( 67.513580 )
+ga_view_center_set( -27.089056, 36.891457 )
+ga_view_zoom_set( 84.391975 )
+ga_view_center_set( -36.376060, 37.538643 )
+ga_view_zoom_set( 105.489967 )
+ga_view_center_set( -49.683617, 45.062080 )
+ga_view_zoom_set( 131.862457 )
+ga_view_center_set( -58.000877, 49.764229 )
+ga_view_zoom_set( 148.345261 )
+ga_view_center_set( -38.715992, 2.293739 )
+ga_view_center_set( -36.263783, 3.861137 )
+ga_view_zoom_set( 131.862457 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -41.395710, -0.133172 )
+ga_view_zoom_set( 148.345261 )
+ga_view_center_set( -47.169117, -4.626748 )
+ga_view_zoom_set( 166.888412 )
+ga_view_aa_set( -63.510937, 13.984786, 3.712033 )
+ga_view_center_set( -0.440357, -64.706581 )
+ga_view_aa_set( -85.224571, 4.496398, -33.307163 )
+ga_view_aa_set( -50.849400, -5.729897, -50.042355 )
+ga_view_center_set( -0.440358, -69.713234 )
+ga_view_aa_set( -77.190956, 1.515586, -46.991859 )
+ga_view_center_set( -47.169117, 2.048790 )
+ga_view_center_set( -50.400620, -1.534691 )
+ga_view_zoom_set( 187.749466 )
+ga_view_center_set( -54.036179, -5.566109 )
+ga_view_zoom_set( 211.218155 )
+ga_view_aa_set( -73.060608, 0.287405, -54.844891 )
+ga_view_center_set( -114.818100, -20.629997 )
+ga_view_zoom_set( 237.620422 )
+ga_view_center_set( -82.382263, -13.260063 )
+ga_view_zoom_set( 211.218155 )
+ga_view_center_set( -99.279724, -51.279335 )
+ga_view_center_set( -264.029938, -36.494064 )
+ga_view_center_set( -231.022552, -40.165543 )
+ga_view_zoom_set( 187.749466 )
+ga_view_center_set( -170.942688, -38.288048 )
+ga_view_center_set( -144.290466, -41.935532 )
+ga_view_zoom_set( 166.888412 )
+ga_view_center_set( -201.032532, -36.928879 )
+ga_view_aa_set( 0., 0., 0. )
+ga_view_aa_set( -90., 0., 0. )
+ga_view_center_set( -152.634888, -18.571152 )
+ga_view_center_set( -138.613739, -20.391342 )
+ga_view_zoom_set( 148.345261 )
+ga_view_center_set( -126.150513, -22.009277 )
+ga_view_zoom_set( 131.862457 )
+ga_view_center_set( -115.072083, -23.447449 )
+ga_view_zoom_set( 117.211075 )
+ga_view_center_set( -105.224579, -24.725830 )
+ga_view_zoom_set( 104.187622 )
+ga_view_center_set( -89.468597, -26.771233 )
+ga_view_zoom_set( 83.350098 )
+ga_view_center_set( -82.465927, -27.680298 )
+ga_view_zoom_set( 74.088974 )
+ga_view_center_set( -76.241333, -28.488358 )
+ga_view_zoom_set( 65.856865 )
+ga_view_center_set( -66.281998, -29.781250 )
+ga_view_zoom_set( 52.685493 )
+ga_view_center_set( -61.855621, -30.355873 )
+ga_view_zoom_set( 46.831551 )
+ga_view_center_set( -57.952988, -30.802803 )
+ga_view_zoom_set( 41.628044 )
+ga_view_center_set( -65.726341, -29.908951 )
+ga_view_zoom_set( 52.035057 )
+ga_view_center_set( -75.443031, -28.791637 )
+ga_view_zoom_set( 65.043823 )
+ga_view_center_set( -81.291496, -27.993557 )
+ga_view_zoom_set( 73.174301 )
+ga_view_center_set( -94.450539, -26.197865 )
+ga_view_zoom_set( 91.467880 )
+ga_view_center_set( -102.674904, -25.075558 )
+ga_view_zoom_set( 102.901367 )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "AsIs", "", "", "", "", @
+ 0. )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -114.689278, -30.796688 )
+ga_view_zoom_set( 115.764038 )
+ga_view_center_set( -128.604889, -36.567135 )
+ga_view_zoom_set( 130.234543 )
+ga_view_center_set( -159.915131, -49.550640 )
+ga_view_zoom_set( 162.793182 )
+ga_view_center_set( -180.357819, -52.921352 )
+ga_view_zoom_set( 183.142334 )
+ga_view_center_set( -163.875000, -21.787155 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -148.363525, -15.982040 )
+ga_view_zoom_set( 162.793182 )
+ga_view_center_set( -134.575409, -10.821915 )
+ga_view_zoom_set( 144.705048 )
+ga_view_center_set( -122.319397, -6.235153 )
+ga_view_zoom_set( 128.626709 )
+ga_view_center_set( -110.855225, -0.009857 )
+ga_view_zoom_set( 114.334854 )
+ga_view_center_set( -92.512543, 9.950592 )
+ga_view_zoom_set( 91.467880 )
+ga_view_center_set( -83.113220, 15.530945 )
+ga_view_zoom_set( 81.304779 )
+ga_view_center_set( -74.758301, 20.491257 )
+ga_view_zoom_set( 72.270912 )
+ga_view_center_set( -67.331696, 24.900421 )
+ga_view_zoom_set( 64.240814 )
+ga_view_center_set( -60.730270, 28.819675 )
+ga_view_zoom_set( 57.102947 )
+ga_view_center_set( -69.411743, 31.556591 )
+ga_view_zoom_set( 64.240814 )
+ga_view_center_set( -79.178421, 34.635620 )
+ga_view_zoom_set( 72.270920 )
+ga_view_center_set( -90.165955, 38.099525 )
+ga_view_zoom_set( 81.304787 )
+ga_view_center_set( -102.558105, 41.996422 )
+ga_view_zoom_set( 91.467888 )
+ga_view_center_set( -116.499207, 46.380424 )
+ga_view_zoom_set( 102.901375 )
+ga_view_center_set( -132.774841, 50.602219 )
+ga_view_zoom_set( 115.764046 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Blue,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -101.632202, 44.210342 )
+ga_view_zoom_set( 92.611237 )
+ga_view_center_set( -88.485443, 41.211689 )
+ga_view_zoom_set( 82.321098 )
+ga_view_center_set( -76.799469, 38.546211 )
+ga_view_zoom_set( 73.174309 )
+ga_view_center_set( -66.411911, 36.176903 )
+ga_view_zoom_set( 65.043831 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,FreeEdge", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -72.210480, 36.476181 )
+ga_view_zoom_set( 73.174309 )
+ga_view_center_set( -78.733887, 36.981216 )
+ga_view_zoom_set( 82.321098 )
+ga_view_center_set( -86.072708, 37.580956 )
+ga_view_zoom_set( 92.611237 )
+ga_view_center_set( -96.601547, 38.681770 )
+ga_view_zoom_set( 104.187637 )
+ga_view_center_set( -78.260391, 38.255653 )
+ga_view_zoom_set( 92.611237 )
+ga_view_center_set( -62.209671, 38.097824 )
+ga_view_zoom_set( 82.321098 )
+ga_view_center_set( -51.730164, 43.484886 )
+ga_view_zoom_set( 73.174309 )
+ga_view_center_set( -70.023743, 74.218094 )
+ga_view_center_set( -61.132584, 79.979263 )
+ga_view_zoom_set( 65.043831 )
+ga_view_center_set( -53.229340, 85.100296 )
+ga_view_zoom_set( 57.816738 )
+ga_view_center_set( -46.204224, 89.652336 )
+ga_view_zoom_set( 51.392654 )
+ga_view_center_set( -39.959671, 93.698593 )
+ga_view_zoom_set( 45.682358 )
+ga_view_center_set( -34.408966, 97.295258 )
+ga_view_zoom_set( 40.606541 )
+ga_view_center_set( -29.474983, 100.492294 )
+ga_view_zoom_set( 36.094704 )
+ga_view_center_set( -34.907188, 97.862686 )
+ga_view_zoom_set( 40.606541 )
+ga_view_center_set( -41.018410, 94.919952 )
+ga_view_zoom_set( 45.682358 )
+ga_view_center_set( -47.963615, 91.679451 )
+ga_view_zoom_set( 51.392654 )
+ga_view_center_set( -63.590263, 84.388313 )
+ga_view_zoom_set( 64.240814 )
+ga_view_center_set( -73.356941, 79.831360 )
+ga_view_zoom_set( 72.270920 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ui_exec_function( "mesh_seed_display_mgr", "init" )
+mesh_seed_display_mgr.erase(  )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+ga_view_center_set( -2.550903, 15.494507 )
+ga_view_zoom_set( 164.266663 )
+ga_view_center_set( -5.434265, 28.819458 )
+ga_view_zoom_set( 146.014816 )
+ga_view_center_set( -8.445099, 40.315506 )
+ga_view_zoom_set( 129.790955 )
+ga_view_center_set( -11.431091, 49.826416 )
+ga_view_zoom_set( 115.369736 )
+ga_view_center_set( -14.163971, 57.887360 )
+ga_view_zoom_set( 102.550873 )
+ga_view_center_set( -16.593170, 64.877876 )
+ga_view_zoom_set( 91.156334 )
+ga_view_center_set( -18.410706, 70.377075 )
+ga_view_zoom_set( 81.027855 )
+ga_view_center_set( -25.798218, 63.997589 )
+ga_view_zoom_set( 72.024757 )
+ga_view_center_set( -32.340347, 58.326927 )
+ga_view_zoom_set( 64.022003 )
+ga_view_center_set( -38.090103, 53.308167 )
+ga_view_zoom_set( 56.908447 )
+ga_view_center_set( -42.813087, 48.982807 )
+ga_view_zoom_set( 50.585285 )
+ga_view_center_set( -47.011299, 45.138050 )
+ga_view_zoom_set( 44.964699 )
+ga_view_aa_set( -83.451866, 2.452792, 29.871008 )
+ga_view_center_set( -44.847534, 48.034569 )
+ga_view_zoom_set( 50.585285 )
+ga_view_center_set( -40.017876, 54.396511 )
+ga_view_zoom_set( 63.231606 )
+ga_view_center_set( -37.872189, 57.839325 )
+ga_view_zoom_set( 71.135559 )
+ga_view_center_set( -31.530537, 68.067772 )
+ga_view_zoom_set( 97.811394 )
+ga_view_aa_set( -49.995846, 6.975574, 40.282536 )
+ga_view_aa_set( -57.587997, 4.221573, 36.089436 )
+ga_view_center_set( -31.999363, 68.255295 )
+ga_view_zoom_set( 110.037819 )
+ga_view_center_set( -33.054211, 68.592834 )
+ga_view_zoom_set( 137.547272 )
+ga_view_center_set( -33.713490, 68.540100 )
+ga_view_zoom_set( 154.740677 )
+ga_view_center_set( -34.039822, 69.133453 )
+ga_view_zoom_set( 174.083267 )
+ga_view_center_set( -33.973114, 70.334961 )
+ga_view_zoom_set( 217.604080 )
+ga_view_center_set( 26.956030, -71.107697 )
+ga_view_center_set( 21.208138, -83.196838 )
+ga_view_zoom_set( 193.425842 )
+ga_view_center_set( 15.769257, -93.942719 )
+ga_view_zoom_set( 171.934082 )
+ga_view_center_set( 10.758911, -103.611816 )
+ga_view_zoom_set( 152.830292 )
+ga_view_center_set( 6.305237, -112.206573 )
+ga_view_zoom_set( 135.849152 )
+ga_view_center_set( 2.346451, -119.846344 )
+ga_view_zoom_set( 120.754799 )
+ga_view_center_set( -1.172455, -126.637253 )
+ga_view_zoom_set( 107.337601 )
+ga_view_center_set( -1.300506, -131.649246 )
+ga_view_zoom_set( 95.411201 )
+verify_boundaries_display_mgr.erase(  )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -0.074948, -127.368912 )
+ga_view_zoom_set( 107.337601 )
+ga_view_center_set( 1.303823, -122.553513 )
+ga_view_zoom_set( 120.754799 )
+ga_view_center_set( 0.418981, -127.121948 )
+ga_view_zoom_set( 107.337601 )
+ga_view_center_set( 1.303842, -122.553513 )
+ga_view_zoom_set( 120.754799 )
+ga_view_center_set( 2.253001, -117.506653 )
+ga_view_zoom_set( 135.849152 )
+ga_view_center_set( 3.164623, -111.933090 )
+ga_view_zoom_set( 152.830292 )
+ga_view_center_set( 6.241164, -93.122299 )
+ga_view_zoom_set( 210.141647 )
+ga_view_center_set( 5.395069, -87.079117 )
+ga_view_zoom_set( 236.409348 )
+ga_view_center_set( 4.443291, -80.280548 )
+ga_view_zoom_set( 265.960510 )
+ga_view_center_set( 1.842770, -73.855896 )
+ga_view_zoom_set( 299.205566 )
+ga_view_aa_set( -69.036453, 23.073717, -173.157623 )
+ga_view_center_set( 11.377773, -71.816330 )
+ga_view_zoom_set( 265.960510 )
+ga_view_center_set( 26.633709, -68.553070 )
+ga_view_zoom_set( 212.768402 )
+ga_view_center_set( 32.471401, -65.434784 )
+ga_view_zoom_set( 189.127472 )
+ga_view_center_set( 45.049999, -58.631271 )
+ga_view_zoom_set( 137.547256 )
+ga_view_center_set( 47.886242, -56.427895 )
+ga_view_zoom_set( 122.264229 )
+ga_view_center_set( 51.899166, -52.827477 )
+ga_view_zoom_set( 97.811386 )
+ga_view_aa_set( -57.934410, -2.745348, 149.093307 )
+ga_view_center_set( 52.315865, -48.060211 )
+ga_view_zoom_set( 86.943451 )
+ga_view_center_set( 52.686283, -43.733749 )
+ga_view_zoom_set( 77.283066 )
+ga_view_center_set( 52.989189, -39.835335 )
+ga_view_zoom_set( 68.696060 )
+ga_view_center_set( 53.188206, -36.299835 )
+ga_view_zoom_set( 61.063164 )
+ga_view_center_set( 53.365108, -33.157166 )
+ga_view_zoom_set( 54.278366 )
+ga_view_aa_set( -43.074642, -4.365752, 133.134064 )
+ga_view_center_set( 50.753162, -30.493202 )
+ga_view_zoom_set( 61.063164 )
+ga_view_center_set( 47.814724, -27.496231 )
+ga_view_zoom_set( 68.696060 )
+ga_view_center_set( 44.403637, -24.124653 )
+ga_view_zoom_set( 77.283066 )
+ga_view_center_set( 40.477230, -20.479786 )
+ga_view_zoom_set( 86.943451 )
+ga_view_center_set( 36.060047, -16.379307 )
+ga_view_zoom_set( 97.811386 )
+ga_view_center_set( 31.015720, -11.916279 )
+ga_view_zoom_set( 110.037811 )
+ga_view_aa_set( -90., 0., 0. )
+ga_view_center_set( 25.340794, -7.865810 )
+ga_view_zoom_set( 123.792542 )
+ga_view_center_set( 18.956608, -3.309025 )
+ga_view_zoom_set( 139.266602 )
+ga_view_center_set( 11.774326, 1.817348 )
+ga_view_zoom_set( 156.674927 )
+ga_view_center_set( 4.294987, 7.944973 )
+ga_view_zoom_set( 176.259293 )
+ga_view_center_set( -7.565945, 18.217762 )
+ga_view_zoom_set( 198.291702 )
+ga_view_center_set( 8.297393, -25.406416 )
+ga_view_center_set( 7.249785, -35.881950 )
+ga_view_zoom_set( 176.259293 )
+ga_view_center_set( 6.318664, -45.193520 )
+ga_view_zoom_set( 156.674927 )
+ga_view_center_set( 2.927794, -60.092049 )
+ga_view_zoom_set( 139.266602 )
+ga_view_center_set( -0.086335, -73.335182 )
+ga_view_zoom_set( 123.792534 )
+ga_view_center_set( -2.934312, -85.022484 )
+ga_view_zoom_set( 110.037811 )
+ga_view_center_set( -5.503373, -95.298698 )
+ga_view_zoom_set( 97.811386 )
+ga_view_center_set( -7.853654, -104.366402 )
+ga_view_zoom_set( 86.943451 )
+ga_view_center_set( -11.614076, -118.874748 )
+ga_view_zoom_set( 69.554764 )
+ga_view_center_set( -13.285401, -125.322899 )
+ga_view_zoom_set( 61.826458 )
+ga_view_center_set( -14.770997, -131.054596 )
+ga_view_zoom_set( 54.956852 )
+ga_view_center_set( -16.091537, -136.149429 )
+ga_view_zoom_set( 48.850536 )
+ga_view_center_set( -14.883400, -131.185715 )
+ga_view_zoom_set( 54.956852 )
+ga_view_center_set( -13.524223, -125.601517 )
+ga_view_zoom_set( 61.826458 )
+ga_view_center_set( -11.995125, -119.319305 )
+ga_view_zoom_set( 69.554764 )
+ga_view_center_set( -10.274925, -112.251816 )
+ga_view_zoom_set( 78.249107 )
+ga_view_center_set( -8.339699, -104.300873 )
+ga_view_zoom_set( 88.030243 )
+ga_view_center_set( -6.162575, -95.356079 )
+ga_view_zoom_set( 99.034027 )
+ga_view_center_set( -3.713295, -85.293182 )
+ga_view_zoom_set( 111.413284 )
+ga_view_center_set( -0.957878, -73.972443 )
+ga_view_zoom_set( 125.339943 )
+ga_view_center_set( 5.241829, -48.500732 )
+ga_view_zoom_set( 156.674927 )
+ga_view_center_set( 9.116615, -32.580933 )
+ga_view_zoom_set( 176.259293 )
+ga_view_center_set( 9.691109, -16.563492 )
+ga_view_zoom_set( 198.291702 )
+ga_view_center_set( 8.132393, -0.748825 )
+ga_view_zoom_set( 223.078171 )
+ga_view_center_set( 4.069405, -16.573013 )
+ga_view_zoom_set( 250.962936 )
+ga_view_center_set( 11.382759, 11.910492 )
+ga_view_zoom_set( 200.770355 )
+ga_view_center_set( 14.633125, 24.569870 )
+ga_view_zoom_set( 178.462540 )
+ga_view_center_set( 16.549110, 39.046387 )
+ga_view_zoom_set( 158.633362 )
+ga_view_center_set( 18.252266, 51.914383 )
+ga_view_zoom_set( 141.007431 )
+ga_view_center_set( 19.718086, 63.256500 )
+ga_view_zoom_set( 125.339935 )
+ga_view_center_set( 18.617088, 80.977455 )
+ga_view_zoom_set( 91.156319 )
+ga_view_center_set( 18.290871, 86.228111 )
+ga_view_zoom_set( 81.027840 )
+ga_view_center_set( 17.768898, 94.629158 )
+ga_view_zoom_set( 64.822273 )
+ga_view_center_set( 14.598480, 99.114143 )
+ga_view_zoom_set( 57.619797 )
+ga_view_center_set( 9.525810, 106.290108 )
+ga_view_zoom_set( 46.095837 )
+ga_view_center_set( 7.381271, 109.605080 )
+ga_view_zoom_set( 40.974075 )
+ga_view_center_set( 5.475014, 112.551765 )
+ga_view_zoom_set( 36.421402 )
+ga_view_center_set( 3.780567, 115.171028 )
+ga_view_zoom_set( 32.374580 )
+ga_view_center_set( 2.285423, 117.068901 )
+ga_view_zoom_set( 28.777405 )
+ga_view_center_set( 0.946598, 118.746132 )
+ga_view_zoom_set( 25.579916 )
+ga_view_center_set( 1.088814, 118.618607 )
+ga_view_zoom_set( 28.777405 )
+ga_view_center_set( 0.746758, 118.839294 )
+ga_view_zoom_set( 35.971756 )
+ga_view_center_set( -1.232521, 119.294479 )
+ga_view_zoom_set( 40.468224 )
+ga_view_center_set( -7.959106, 121.622040 )
+ga_view_zoom_set( 55.643806 )
+ga_view_center_set( -10.338058, 124.523712 )
+ga_view_zoom_set( 62.599281 )
+ga_view_center_set( -13.014374, 127.788094 )
+ga_view_zoom_set( 70.424194 )
+ga_view_center_set( -19.036072, 135.132950 )
+ga_view_zoom_set( 88.030243 )
+ga_view_center_set( -26.563217, 145.326630 )
+ga_view_zoom_set( 110.037804 )
+ga_view_center_set( -31.267715, 151.697678 )
+ga_view_zoom_set( 123.792526 )
+ga_view_center_set( -41.852707, 166.032562 )
+ga_view_zoom_set( 154.740662 )
+ga_view_center_set( -55.084000, 183.951172 )
+ga_view_zoom_set( 193.425827 )
+ga_view_center_set( -84.097870, -40.422806 )
+ga_view_center_set( -61.847931, -43.626785 )
+ga_view_zoom_set( 154.740662 )
+ga_view_center_set( -51.959106, -45.050781 )
+ga_view_zoom_set( 137.547256 )
+ga_view_center_set( -46.075592, -48.941864 )
+ga_view_zoom_set( 122.264229 )
+ga_view_center_set( -36.737030, -55.242592 )
+ga_view_zoom_set( 97.811386 )
+ga_view_center_set( -33.619995, -57.376190 )
+ga_view_zoom_set( 86.943451 )
+ga_view_center_set( -26.819214, -62.031288 )
+ga_view_zoom_set( 63.231602 )
+ga_view_center_set( -24.804153, -63.410576 )
+ga_view_zoom_set( 56.205868 )
+ga_view_center_set( -21.580086, -65.617424 )
+ga_view_zoom_set( 44.964695 )
+ga_view_center_set( -20.147156, -66.598251 )
+ga_view_zoom_set( 39.968616 )
+ga_view_center_set( -21.687363, -65.479500 )
+ga_view_zoom_set( 44.964695 )
+ga_view_center_set( -25.152817, -62.962311 )
+ga_view_zoom_set( 56.205868 )
+ga_view_center_set( -27.318741, -61.389076 )
+ga_view_zoom_set( 63.231602 )
+ga_view_center_set( -29.755371, -59.619171 )
+ga_view_zoom_set( 71.135551 )
+ga_view_center_set( -35.237823, -55.636909 )
+ga_view_zoom_set( 88.919441 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "ZZ", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], FALSE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -58.592834, -44.044647 )
+ga_view_zoom_set( 111.149300 )
+ga_view_center_set( -87.786591, -29.554321 )
+ga_view_zoom_set( 138.936630 )
+ga_view_center_set( -106.032623, -20.764229 )
+ga_view_zoom_set( 156.303711 )
+ga_view_center_set( -147.086334, -0.986542 )
+ga_view_zoom_set( 195.379639 )
+ga_view_center_set( -172.744904, 11.374519 )
+ga_view_zoom_set( 219.802094 )
+ga_view_center_set( -160.720978, 25.158974 )
+ga_view_zoom_set( 195.379639 )
+ga_view_center_set( -141.722382, 47.573708 )
+ga_view_zoom_set( 156.303711 )
+ga_view_center_set( -130.401855, 56.736679 )
+ga_view_zoom_set( 138.936630 )
+ga_view_center_set( -120.197052, 64.692162 )
+ga_view_zoom_set( 123.499229 )
+ga_view_center_set( -110.621002, 71.174385 )
+ga_view_zoom_set( 109.777092 )
+ga_view_center_set( -100.574921, 74.691452 )
+ga_view_zoom_set( 97.579636 )
+ga_view_center_set( -83.303909, 78.582672 )
+ga_view_zoom_set( 78.063705 )
+ga_view_center_set( -73.659027, 78.742310 )
+ga_view_zoom_set( 69.389961 )
+ga_view_center_set( -64.825638, 78.671364 )
+ga_view_zoom_set( 61.679966 )
+ga_view_center_set( -35.836060, 74.353767 )
+ga_view_center_set( -42.351700, 77.759407 )
+ga_view_zoom_set( 69.389961 )
+ga_view_center_set( -49.601990, 81.750397 )
+ga_view_zoom_set( 78.063705 )
+ga_view_center_set( -57.698685, 86.389923 )
+ga_view_zoom_set( 87.821671 )
+ga_view_center_set( -66.908554, 91.710411 )
+ga_view_zoom_set( 98.799377 )
+ga_view_center_set( -77.269577, 97.695953 )
+ga_view_zoom_set( 111.149300 )
+ga_view_center_set( -88.925766, 104.429695 )
+ga_view_zoom_set( 125.042961 )
+ga_view_center_set( -75.171036, -35.618435 )
+ga_view_center_set( -89.914352, -29.193676 )
+ga_view_zoom_set( 140.673325 )
+ga_view_center_set( -106.230942, -19.430691 )
+ga_view_zoom_set( 158.257492 )
+ga_view_center_set( -124.587143, -8.386654 )
+ga_view_zoom_set( 178.039673 )
+ga_view_center_set( -106.352341, -19.430691 )
+ga_view_zoom_set( 158.257492 )
+ga_view_center_set( -89.550278, -25.256115 )
+ga_view_zoom_set( 140.673325 )
+ga_view_center_set( -52.891281, -37.730785 )
+ga_view_zoom_set( 102.307869 )
+ga_view_center_set( -44.203949, -44.492348 )
+ga_view_zoom_set( 74.405724 )
+ga_view_center_set( -41.908890, -46.546497 )
+ga_view_zoom_set( 66.138420 )
+ga_view_center_set( -41.108627, -48.552742 )
+ga_view_zoom_set( 58.789707 )
+ga_view_center_set( -40.397308, -50.336075 )
+ga_view_zoom_set( 52.257519 )
+ga_view_center_set( -39.765007, -51.921257 )
+ga_view_zoom_set( 46.451126 )
+ga_view_center_set( -39.202957, -53.330299 )
+ga_view_zoom_set( 41.289890 )
+ga_view_center_set( -38.303719, -55.584785 )
+ga_view_zoom_set( 33.031914 )
+ga_view_center_set( -34.053703, -56.958305 )
+ga_view_zoom_set( 29.361702 )
+ga_view_center_set( -30.275909, -58.179207 )
+ga_view_zoom_set( 26.099291 )
+ga_view_center_set( -26.917877, -59.264450 )
+ga_view_zoom_set( 23.199369 )
+ga_view_center_set( -23.932961, -60.229118 )
+ga_view_zoom_set( 20.621662 )
+ga_view_center_set( -21.272671, -61.016312 )
+ga_view_zoom_set( 18.330366 )
+ga_view_center_set( -23.932968, -60.229126 )
+ga_view_zoom_set( 20.621662 )
+ga_view_center_set( -26.925797, -59.343529 )
+ga_view_zoom_set( 23.199369 )
+ga_view_center_set( -33.659660, -57.350945 )
+ga_view_zoom_set( 28.999212 )
+ga_view_center_set( -37.512512, -55.994392 )
+ga_view_zoom_set( 32.624115 )
+ga_view_center_set( -46.181419, -52.942131 )
+ga_view_zoom_set( 40.780144 )
+ga_view_center_set( -51.599495, -51.034477 )
+ga_view_zoom_set( 45.877663 )
+ga_view_center_set( -63.543892, -46.390427 )
+ga_view_zoom_set( 57.347076 )
+ga_view_center_set( -78.474342, -40.585358 )
+ga_view_zoom_set( 71.683846 )
+ga_view_center_set( -87.805885, -36.957184 )
+ga_view_zoom_set( 80.644325 )
+ga_view_center_set( -98.303871, -32.875496 )
+ga_view_zoom_set( 90.724869 )
+ga_view_center_set( -110.114113, -28.283585 )
+ga_view_zoom_set( 102.065475 )
+ga_view_center_set( -123.400642, -23.117699 )
+ga_view_zoom_set( 114.823662 )
+ga_view_center_set( -125.697121, 72.185951 )
+ga_view_center_set( -111.275673, 77.664902 )
+ga_view_zoom_set( 102.065475 )
+ga_view_center_set( -98.456612, 82.535095 )
+ga_view_zoom_set( 90.724869 )
+ga_view_center_set( -87.061897, 86.864166 )
+ga_view_zoom_set( 80.644325 )
+ga_view_center_set( -78.582436, 89.008072 )
+ga_view_zoom_set( 71.683846 )
+ga_view_center_set( -65.806892, 91.822639 )
+ga_view_zoom_set( 57.347076 )
+ga_view_center_set( -60.363411, 92.819466 )
+ga_view_zoom_set( 50.975178 )
+ga_view_center_set( -55.524757, 93.705544 )
+ga_view_zoom_set( 45.311268 )
+ga_view_center_set( -47.810722, 95.067650 )
+ga_view_zoom_set( 36.249016 )
+ga_view_center_set( -45.580681, 96.080727 )
+ga_view_zoom_set( 32.221348 )
+ga_view_center_set( -42.032372, 97.701683 )
+ga_view_zoom_set( 25.777079 )
+ga_view_center_set( -46.168755, 96.653999 )
+ga_view_zoom_set( 28.999214 )
+ga_view_center_set( -50.822205, 95.475349 )
+ga_view_zoom_set( 32.624115 )
+ga_view_center_set( -56.057312, 94.136848 )
+ga_view_zoom_set( 36.702129 )
+ga_view_center_set( -63.002289, 93.911674 )
+ga_view_zoom_set( 41.289894 )
+ga_view_center_set( -78.628479, 93.405052 )
+ga_view_zoom_set( 51.612366 )
+ga_view_center_set( -88.018860, 93.820641 )
+ga_view_zoom_set( 58.063911 )
+ga_view_center_set( -98.560745, 94.288170 )
+ga_view_zoom_set( 65.321899 )
+ga_view_center_set( -110.420364, 94.814156 )
+ga_view_zoom_set( 73.487137 )
+ga_view_center_set( -19.296316, 89.670059 )
+ga_view_aa_set( -67.416809, 22.724749, -69.831512 )
+ga_view_center_set( -27.594652, 93.727585 )
+ga_view_zoom_set( 82.673027 )
+ga_view_center_set( -55.696472, 107.612061 )
+ga_view_zoom_set( 113.675415 )
+ga_view_center_set( -68.925247, 114.455223 )
+ga_view_zoom_set( 127.884842 )
+ga_view_center_set( -113.572174, 137.550980 )
+ga_view_zoom_set( 175.841660 )
+ga_view_center_set( -88.954346, -61.150105 )
+ga_view_aa_set( -57.355347, -6.821282, -97.036781 )
+ga_view_aa_set( -56.259903, -6.266539, -96.199303 )
+ga_view_aa_set( -46.168743, 6.374034, -80.709259 )
+ga_view_center_set( -142.112732, -29.924725 )
+ga_view_zoom_set( 197.821869 )
+ga_view_center_set( -154.438660, -22.491238 )
+ga_view_zoom_set( 222.549606 )
+ga_view_center_set( -170.950684, -17.968578 )
+ga_view_zoom_set( 250.368301 )
+ga_view_center_set( -144.710632, -3.888538 )
+ga_view_zoom_set( 222.549606 )
+ga_view_center_set( -87.459709, 26.831470 )
+ga_view_zoom_set( 161.854263 )
+ga_view_center_set( -72.592697, 35.326916 )
+ga_view_zoom_set( 143.870453 )
+ga_view_center_set( -51.228771, 44.233585 )
+ga_view_zoom_set( 104.633057 )
+ga_view_center_set( -47.252419, 44.055283 )
+ga_view_zoom_set( 93.007164 )
+ga_view_center_set( -43.717873, 43.516396 )
+ga_view_zoom_set( 82.673035 )
+ga_view_center_set( -36.006218, 42.340618 )
+ga_view_zoom_set( 60.125843 )
+ga_view_center_set( -29.901403, 43.225914 )
+ga_view_zoom_set( 48.100674 )
+ga_view_center_set( -24.722462, 44.140728 )
+ga_view_zoom_set( 38.480537 )
+ga_view_center_set( -21.909204, 44.914558 )
+ga_view_zoom_set( 34.204922 )
+ga_view_center_set( -17.407999, 46.152664 )
+ga_view_zoom_set( 27.363937 )
+ga_view_center_set( -15.407463, 46.702942 )
+ga_view_zoom_set( 24.323500 )
+ga_view_center_set( -13.479977, 46.893631 )
+ga_view_zoom_set( 21.620888 )
+ga_view_center_set( -10.382750, 46.999756 )
+ga_view_zoom_set( 17.296711 )
+ga_view_center_set( -13.131777, 47.722679 )
+ga_view_zoom_set( 19.458799 )
+ga_view_center_set( -16.224440, 48.543407 )
+ga_view_zoom_set( 21.891150 )
+ga_view_center_set( -23.182932, 50.390053 )
+ga_view_zoom_set( 27.363937 )
+ga_view_center_set( -31.881048, 52.698360 )
+ga_view_zoom_set( 34.204922 )
+ga_view_center_set( -37.317383, 54.141052 )
+ga_view_zoom_set( 38.480537 )
+ga_view_center_set( -49.549091, 57.387108 )
+ga_view_zoom_set( 48.100670 )
+ga_view_center_set( -72.483612, 63.196804 )
+ga_view_zoom_set( 66.138420 )
+ga_view_center_set( -61.901466, -43.286060 )
+ga_view_center_set( -57.417862, -44.746784 )
+ga_view_zoom_set( 52.910736 )
+ga_view_center_set( -53.506363, -45.688122 )
+ga_view_zoom_set( 42.328590 )
+ga_view_center_set( -50.729179, -44.966770 )
+ga_view_zoom_set( 37.625412 )
+ga_view_center_set( -48.260574, -44.325565 )
+ga_view_zoom_set( 33.444809 )
+res_display_tool_unpost( "Deformation", "default_Deformation" )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Rotational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], FALSE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+ga_view_center_set( -53.088783, -43.722836 )
+ga_view_zoom_set( 37.625412 )
+ga_view_center_set( -64.038811, -42.482117 )
+ga_view_zoom_set( 47.031765 )
+ga_view_center_set( -77.762428, -40.895161 )
+ga_view_zoom_set( 58.789707 )
+ga_view_center_set( -86.745461, -38.528236 )
+ga_view_zoom_set( 66.138420 )
+ga_view_center_set( -106.957237, -33.202667 )
+ga_view_zoom_set( 82.673027 )
+ga_view_center_set( -119.589592, -29.874187 )
+ga_view_zoom_set( 93.007156 )
+ga_view_center_set( -136.368668, -27.841434 )
+ga_view_zoom_set( 104.633049 )
+ga_view_center_set( -174.121643, -23.267757 )
+ga_view_zoom_set( 130.791306 )
+ga_view_center_set( -64.256943, -66.428894 )
+ga_view_aa_set( -64.578201, -0.161664, -84.959694 )
+ga_view_center_set( -110.033913, 21.201290 )
+ga_view_center_set( -96.994850, 28.422878 )
+ga_view_zoom_set( 116.258942 )
+ga_view_center_set( -85.404610, 34.842052 )
+ga_view_zoom_set( 103.341278 )
+ga_view_center_set( -74.573860, 41.322857 )
+ga_view_zoom_set( 91.858917 )
+ga_view_center_set( -64.946510, 47.083569 )
+ga_view_zoom_set( 81.652374 )
+ga_view_center_set( -56.388897, 52.204220 )
+ga_view_zoom_set( 72.579887 )
+ga_view_center_set( -48.534744, 55.890087 )
+ga_view_zoom_set( 64.515457 )
+ga_view_center_set( -41.685200, 58.990505 )
+ga_view_zoom_set( 57.347073 )
+ga_view_aa_set( -33.897335, 12.558951, -70.935608 )
+ga_view_center_set( -25.628021, 47.521088 )
+ga_view_center_set( -30.410614, 49.236214 )
+ga_view_zoom_set( 64.515457 )
+ga_view_center_set( -41.171429, 53.095261 )
+ga_view_zoom_set( 80.644318 )
+ga_view_center_set( -47.896935, 55.507172 )
+ga_view_zoom_set( 90.724854 )
+ga_view_center_set( -55.602276, 58.429276 )
+ga_view_zoom_set( 102.065460 )
+ga_view_center_set( -72.939308, 65.004044 )
+ga_view_zoom_set( 127.581825 )
+ga_view_center_set( -83.774994, 69.113251 )
+ga_view_zoom_set( 143.529556 )
+ga_view_aa_set( -80.426117, -0.292194, -91.554237 )
+ga_view_aa_set( 90., 0., 0. )
+ga_view_aa_set( -90., 0., 0. )
+ga_view_center_set( -95.304626, 66.801834 )
+ga_view_zoom_set( 161.470749 )
+ga_view_center_set( -108.399384, 64.758682 )
+ga_view_zoom_set( 181.654587 )
+ga_view_center_set( -123.339996, 62.808411 )
+ga_view_zoom_set( 204.361404 )
+ga_view_center_set( -119.252762, -29.154221 )
+ga_view_center_set( -87.595596, -26.786026 )
+ga_view_zoom_set( 181.654587 )
+ga_view_center_set( -120.293427, -1.354384 )
+res_display_tool_unpost( "Deformation", "default_Deformation" )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], FALSE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+ga_view_center_set( -127.559631, -14.070206 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], FALSE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -99.791321, -1.068344 )
+ga_view_zoom_set( 161.470749 )
+ga_view_center_set( -75.768860, 11.149261 )
+ga_view_zoom_set( 143.529556 )
+ga_view_center_set( -72.417847, 19.367729 )
+ga_view_zoom_set( 127.581825 )
+ga_view_center_set( -69.787079, 26.455597 )
+ga_view_zoom_set( 113.406067 )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+ga_view_center_set( -3.810608, -2.834351 )
+ga_view_zoom_set( 164.266663 )
+ga_view_center_set( -7.197876, -5.577728 )
+ga_view_zoom_set( 146.014816 )
+ga_view_center_set( -10.208710, -8.066040 )
+ga_view_zoom_set( 129.790955 )
+ga_view_center_set( -9.832733, -6.738953 )
+ga_view_zoom_set( 115.369736 )
+ga_view_center_set( -8.947998, -5.048119 )
+ga_view_zoom_set( 102.550873 )
+ga_view_center_set( -8.161560, -3.545158 )
+ga_view_zoom_set( 91.156334 )
+ga_view_center_set( -7.462509, -2.209190 )
+ga_view_zoom_set( 81.027855 )
+ga_view_center_set( -6.841125, -1.021667 )
+ga_view_zoom_set( 72.024757 )
+ga_view_center_set( -6.239700, -0.113373 )
+ga_view_zoom_set( 64.022003 )
+ga_view_center_set( -10.081019, -12.277554 )
+ga_view_center_set( -14.562562, -105.109436 )
+ga_view_center_set( -16.882370, -104.741219 )
+ga_view_zoom_set( 72.024750 )
+ga_view_center_set( -19.492157, -104.326942 )
+ga_view_zoom_set( 81.027847 )
+ga_view_center_set( -23.543545, 51.246544 )
+ga_view_center_set( -21.513714, 49.202888 )
+ga_view_zoom_set( 72.024750 )
+ga_view_center_set( -27.603237, 55.333832 )
+ga_view_zoom_set( 99.034027 )
+ga_view_center_set( -30.318295, 57.650192 )
+ga_view_zoom_set( 111.413284 )
+verify_boundaries_display_mgr.erase(  )
+ga_view_aa_set( 0., 0., 0. )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+uil_toolbar.hidden_line(  )
+ga_view_center_set( -29.204163, -11.426048 )
+ga_view_center_set( -38.410278, -11.255173 )
+ga_view_zoom_set( 125.339943 )
+ga_view_center_set( -48.767181, -11.062943 )
+ga_view_zoom_set( 141.007431 )
+ga_view_center_set( -41.716805, -18.113314 )
+ga_view_center_set( -40.202919, -24.697512 )
+ga_view_zoom_set( 125.339935 )
+ga_view_center_set( -38.985420, -30.763720 )
+ga_view_zoom_set( 111.413277 )
+ga_view_center_set( -37.941139, -36.231857 )
+ga_view_zoom_set( 99.034027 )
+ga_view_center_set( -37.924263, -42.442581 )
+ga_view_zoom_set( 88.030243 )
+ga_view_center_set( -37.897255, -52.379738 )
+ga_view_zoom_set( 70.424194 )
+ga_view_center_set( -37.885246, -56.796257 )
+ga_view_zoom_set( 62.599285 )
+ga_view_center_set( -37.874565, -60.722046 )
+ga_view_zoom_set( 55.643810 )
+ga_view_center_set( -37.857506, -67.003319 )
+ga_view_zoom_set( 44.515049 )
+ga_view_center_set( -37.849922, -69.794998 )
+ga_view_zoom_set( 39.568932 )
+ga_view_center_set( -61.986973, -89.579483 )
+ga_view_center_set( -44.180939, -53.571724 )
+ga_view_center_set( -49.324902, -76.521721 )
+ga_view_center_set( -49.102375, -78.908798 )
+ga_view_zoom_set( 35.172382 )
+ga_view_center_set( -48.928555, -81.030640 )
+ga_view_zoom_set( 31.264339 )
+ga_view_center_set( -48.774044, -82.916733 )
+ga_view_zoom_set( 27.790524 )
+ga_view_center_set( -48.636700, -84.593254 )
+ga_view_zoom_set( 24.702688 )
+ga_view_center_set( -48.514614, -86.083504 )
+ga_view_zoom_set( 21.957945 )
+ga_view_center_set( -48.406094, -87.408165 )
+ga_view_zoom_set( 19.518173 )
+ga_view_center_set( -48.309631, -88.585640 )
+ga_view_zoom_set( 17.349487 )
+ga_view_center_set( -48.155296, -90.469604 )
+ga_view_zoom_set( 13.879590 )
+ga_view_center_set( -48.791557, -90.937935 )
+ga_view_zoom_set( 12.337414 )
+ga_view_center_set( -49.432823, -91.324791 )
+ga_view_zoom_set( 10.966590 )
+ga_view_center_set( -50.406509, -90.988396 )
+ga_view_zoom_set( 9.748080 )
+ga_view_center_set( -51.275330, -90.612953 )
+ga_view_zoom_set( 8.664960 )
+ga_view_center_set( -52.041714, -90.211304 )
+ga_view_zoom_set( 7.702187 )
+ga_view_center_set( -52.615307, -89.607513 )
+ga_view_zoom_set( 6.846388 )
+ga_view_center_set( -53.085499, -89.070824 )
+ga_view_zoom_set( 6.085678 )
+ga_view_center_set( -53.476486, -88.593758 )
+ga_view_zoom_set( 5.409492 )
+ga_view_center_set( -53.247292, -88.871696 )
+ga_view_zoom_set( 6.085678 )
+ga_view_center_set( -52.989445, -89.172714 )
+ga_view_zoom_set( 6.846388 )
+ga_view_center_set( -52.704617, -89.506111 )
+ga_view_zoom_set( 7.702187 )
+ga_view_center_set( -52.428486, -89.807343 )
+ga_view_zoom_set( 8.664960 )
+ga_view_center_set( -52.117836, -90.146240 )
+ga_view_zoom_set( 9.748080 )
+ga_view_center_set( -51.768360, -90.523750 )
+ga_view_zoom_set( 10.966590 )
+ga_view_center_set( -51.425655, -90.864357 )
+ga_view_zoom_set( 12.337414 )
+ga_view_center_set( -50.654568, -91.630707 )
+ga_view_zoom_set( 15.421767 )
+ga_view_center_set( -50.178543, -92.044640 )
+ga_view_zoom_set( 17.349487 )
+ga_view_center_set( -49.643024, -92.510307 )
+ga_view_zoom_set( 19.518173 )
+ga_view_center_set( -49.040562, -93.034187 )
+ga_view_zoom_set( 21.957945 )
+ga_view_center_set( -30.156727, -53.290318 )
+ga_view_center_set( -30.632423, -52.524147 )
+ga_view_zoom_set( 24.702688 )
+ga_view_center_set( -31.167587, -51.662212 )
+ga_view_zoom_set( 27.790524 )
+ga_view_center_set( -31.769638, -50.692528 )
+ga_view_zoom_set( 31.264339 )
+ga_view_center_set( -32.446953, -49.601624 )
+ga_view_zoom_set( 35.172382 )
+ga_view_center_set( -33.208939, -48.374363 )
+ga_view_zoom_set( 39.568932 )
+ga_view_center_set( -34.066170, -46.993702 )
+ga_view_zoom_set( 44.515049 )
+ga_view_center_set( -35.030533, -45.440449 )
+ga_view_zoom_set( 50.079430 )
+ga_view_center_set( -36.115471, -43.693050 )
+ga_view_zoom_set( 56.339359 )
+ga_view_center_set( -37.335991, -41.727222 )
+ga_view_zoom_set( 63.381779 )
+ga_view_center_set( -26.561083, -3.064335 )
+ga_view_center_set( -31.190752, -3.914936 )
+ga_view_zoom_set( 71.304504 )
+ga_view_center_set( -36.399170, -4.871868 )
+ga_view_zoom_set( 80.217567 )
+verify_boundaries_display_mgr.erase(  )
+res_display_tool_unpost( "Deformation", "default_Deformation" )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 10 : Freq. = 1.3778", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+ga_view_aa_set( -61.570148, 12.519867, 12.977232 )
+ga_view_center_set( -40.505398, -7.147968 )
+ga_view_zoom_set( 90.244766 )
+ga_view_center_set( -45.124886, -9.708569 )
+ga_view_zoom_set( 101.525360 )
+ga_view_center_set( -50.321869, -12.589275 )
+ga_view_zoom_set( 114.216034 )
+ga_view_center_set( -56.168419, -15.830044 )
+ga_view_zoom_set( 128.493042 )
+ga_view_center_set( -62.745808, -19.475933 )
+ga_view_zoom_set( 144.554672 )
+ga_view_center_set( -70.145370, -23.577541 )
+ga_view_zoom_set( 162.624008 )
+ga_view_aa_set( -73.049591, 5.311115, -3.700133 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 10 : Freq. = 1.3778", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 10 : Freq. = 1.3778", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( 10.704024, 11.753993, 41.742657 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 9 : Freq. = 1.1979", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 9 : Freq. = 1.1979", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( 19.829489, -4.449185, 21.262890 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 8 : Freq. = 1.1748", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 8 : Freq. = 1.1748", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( -1.311293, 1.119058, 11.610160 )
+ga_view_aa_set( 0., 0., 0. )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 1 : Freq. = 0.42679", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 1 : Freq. = 0.42679", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 2 : Freq. = 0.5962", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 2 : Freq. = 0.5962", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 3 : Freq. = 0.69113", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 3 : Freq. = 0.69113", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 4 : Freq. = 0.69427", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 4 : Freq. = 0.69427", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Rotational", "(NON-LAYERED)",  @
+"", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Constraint Forces", "Rotational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Constraint Forces", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Constraint Forces", "Rotational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 5 : Freq. = 0.84721", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -81.026474, -24.637600 )
+ga_view_zoom_set( 182.952011 )
+ga_view_center_set( -93.267746, -25.830151 )
+ga_view_zoom_set( 205.821014 )
+ga_view_center_set( -74.390274, 1.191746 )
+ga_view_zoom_set( 164.656815 )
+ga_view_center_set( -66.280899, 13.931049 )
+ga_view_zoom_set( 146.361618 )
+ga_view_center_set( -59.072556, 25.254856 )
+ga_view_zoom_set( 130.099213 )
+ga_view_center_set( -52.665146, 35.320469 )
+ga_view_zoom_set( 115.643745 )
+ga_view_center_set( -46.969650, 44.267689 )
+ga_view_zoom_set( 102.794441 )
+ga_view_center_set( -41.907013, 52.220768 )
+ga_view_zoom_set( 91.372833 )
+ga_view_center_set( -34.311279, 63.600330 )
+ga_view_zoom_set( 73.098267 )
+ga_view_center_set( -31.035080, 68.234375 )
+ga_view_zoom_set( 64.976234 )
+ga_view_center_set( -28.145020, 71.866310 )
+ga_view_zoom_set( 57.756653 )
+ga_view_center_set( -25.064285, 73.933258 )
+ga_view_zoom_set( 51.339249 )
+ga_view_center_set( -22.220840, 75.525581 )
+ga_view_zoom_set( 45.634888 )
+ga_view_center_set( -25.396744, 78.797714 )
+ga_view_zoom_set( 51.339249 )
+ga_view_center_set( -32.542465, 86.160019 )
+ga_view_zoom_set( 64.174057 )
+ga_view_center_set( -37.008591, 90.761459 )
+ga_view_zoom_set( 72.195816 )
+ga_view_center_set( -42.032944, 95.938080 )
+ga_view_zoom_set( 81.220291 )
+ga_view_center_set( -53.337738, 107.585464 )
+ga_view_zoom_set( 101.525360 )
+ga_view_center_set( -60.403290, 114.865082 )
+ga_view_zoom_set( 114.216034 )
+ga_view_center_set( -45.555202, -15.341198 )
+ga_view_center_set( -57.007412, -14.027355 )
+ga_view_zoom_set( 128.493042 )
+ga_view_center_set( -69.891235, -12.549290 )
+ga_view_zoom_set( 144.554672 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 6 : Freq. = 0.86786", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 6 : Freq. = 0.86786", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 6 : Freq. = 0.86786", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 6 : Freq. = 0.86786", "Constraint Forces", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 6 : Freq. = 0.86786", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 6 : Freq. = 0.86786", "Constraint Forces", "Rotational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Constraint Forces", "Rotational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Constraint Forces", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -65.087524, 0.950375 )
+ga_view_zoom_set( 128.493042 )
+ga_view_center_set( -83.076538, 51.062664 )
+ga_view_center_set( -72.806763, 61.836102 )
+ga_view_zoom_set( 114.216034 )
+ga_view_center_set( -63.678009, 71.412506 )
+ga_view_zoom_set( 101.525360 )
+ga_view_center_set( -55.563568, 79.924850 )
+ga_view_zoom_set( 90.244766 )
+ga_view_center_set( -48.689117, 86.937744 )
+ga_view_zoom_set( 80.217567 )
+ga_view_center_set( -38.083664, 97.567810 )
+ga_view_zoom_set( 64.174057 )
+ga_view_center_set( -33.370132, 102.292282 )
+ga_view_zoom_set( 57.043606 )
+ga_view_center_set( -29.180328, 106.472382 )
+ga_view_zoom_set( 50.705429 )
+ga_view_center_set( -20.166176, 115.380478 )
+ga_view_zoom_set( 36.876675 )
+ga_view_center_set( -17.507896, 117.969635 )
+ga_view_zoom_set( 32.779266 )
+ga_view_center_set( -13.254623, 122.112305 )
+ga_view_zoom_set( 26.223413 )
+ga_view_center_set( -11.364296, 123.953476 )
+ga_view_zoom_set( 23.309700 )
+ga_view_center_set( -13.093758, 123.747902 )
+ga_view_zoom_set( 26.223412 )
+ga_view_center_set( -16.985046, 123.285378 )
+ga_view_zoom_set( 32.779266 )
+ga_view_center_set( -19.417091, 122.996292 )
+ga_view_zoom_set( 36.876675 )
+ga_view_center_set( -22.153145, 122.671074 )
+ga_view_zoom_set( 41.486259 )
+ga_view_center_set( -25.310745, 122.432465 )
+ga_view_zoom_set( 46.672043 )
+ga_view_center_set( -32.522720, 121.931389 )
+ga_view_zoom_set( 58.340054 )
+ga_view_center_set( -37.164429, 121.640579 )
+ga_view_zoom_set( 65.632561 )
+ga_view_center_set( -42.411499, 121.363754 )
+ga_view_zoom_set( 73.836632 )
+ga_view_center_set( -48.314468, 121.052330 )
+ga_view_zoom_set( 83.066208 )
+ga_view_center_set( -54.955292, 120.733818 )
+ga_view_zoom_set( 93.449486 )
+ga_view_center_set( -70.183838, 120.160515 )
+ga_view_zoom_set( 116.811859 )
+ga_view_center_set( -55.026947, 119.443878 )
+ga_view_zoom_set( 93.449486 )
+ga_view_center_set( -42.901474, 118.870567 )
+ga_view_zoom_set( 74.759590 )
+ga_view_center_set( -37.512344, 118.615768 )
+ga_view_zoom_set( 66.452972 )
+ga_view_center_set( -32.722015, 118.479874 )
+ga_view_zoom_set( 59.069309 )
+ga_view_center_set( -25.057510, 118.262444 )
+ga_view_zoom_set( 47.255447 )
+ga_view_center_set( -21.651070, 118.165810 )
+ga_view_zoom_set( 42.004841 )
+ga_view_center_set( -18.623108, 118.079918 )
+ga_view_zoom_set( 37.337635 )
+ga_view_center_set( -12.079140, 117.892494 )
+ga_view_zoom_set( 27.154644 )
+ga_view_center_set( -10.158699, 117.846214 )
+ga_view_zoom_set( 24.137461 )
+ga_view_center_set( -7.500610, 118.171997 )
+ga_view_zoom_set( 19.309969 )
+ga_view_center_set( -6.319237, 118.316788 )
+ga_view_zoom_set( 17.164417 )
+ga_view_center_set( -5.269131, 118.445503 )
+ga_view_zoom_set( 15.257259 )
+ga_view_center_set( -6.202232, 118.369461 )
+ga_view_zoom_set( 17.164417 )
+ga_view_center_set( -8.301716, 118.198341 )
+ga_view_zoom_set( 21.455521 )
+ga_view_center_set( -10.926067, 117.984451 )
+ga_view_zoom_set( 26.819401 )
+ga_view_center_set( -12.689678, 118.447220 )
+ga_view_zoom_set( 30.171825 )
+ga_view_center_set( -18.711315, 120.043732 )
+ga_view_zoom_set( 41.486259 )
+ga_view_center_set( -21.487148, 120.902725 )
+ga_view_zoom_set( 46.672043 )
+ga_view_center_set( -24.609951, 121.869095 )
+ga_view_zoom_set( 52.506050 )
+ga_view_center_set( -28.143246, 122.956253 )
+ga_view_zoom_set( 59.069305 )
+ga_view_center_set( -32.118191, 124.179321 )
+ga_view_zoom_set( 66.452972 )
+ga_view_center_set( -36.793850, 125.988434 )
+ga_view_zoom_set( 74.759598 )
+ga_view_center_set( -42.053982, 128.023682 )
+ga_view_zoom_set( 84.104546 )
+ga_view_center_set( -53.889248, 132.602997 )
+ga_view_zoom_set( 105.130684 )
+ga_view_center_set( -61.286251, 135.465073 )
+ga_view_zoom_set( 118.272018 )
+ga_view_center_set( -57.738087, 5.365837 )
+ga_view_center_set( -84.879868, 2.780891 )
+ga_view_zoom_set( 162.624023 )
+ga_view_center_set( -97.756363, 2.406746 )
+ga_view_zoom_set( 182.952026 )
+ga_view_center_set( -112.242386, 1.985832 )
+ga_view_zoom_set( 205.821030 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Rotational", "(NON-LAYERED)",  @
+"", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -57.484665, 5.628242 )
+ga_view_zoom_set( 126.659096 )
+ga_view_center_set( -39.288742, 17.931526 )
+ga_view_zoom_set( 84.439400 )
+ga_view_center_set( -31.302399, 24.982552 )
+ga_view_zoom_set( 75.057243 )
+ga_view_center_set( -13.877655, 40.366554 )
+ga_view_zoom_set( 54.587086 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 7 : Freq. = 0.97829", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -22.825500, 43.024746 )
+ga_view_zoom_set( 61.410473 )
+ga_view_center_set( -53.024490, 51.996136 )
+ga_view_zoom_set( 84.439400 )
+ga_view_center_set( -66.865677, 56.108021 )
+ga_view_zoom_set( 94.994324 )
+ga_view_center_set( -82.327744, 60.879593 )
+ga_view_zoom_set( 106.868614 )
+ga_view_center_set( -117.117416, 71.615623 )
+ga_view_zoom_set( 133.585770 )
+ga_view_center_set( -138.860947, 78.325653 )
+ga_view_zoom_set( 150.283997 )
+ga_view_center_set( -125.335388, 3.183651 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 8 : Freq. = 1.1748", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 8 : Freq. = 1.1748", "Eigenvectors", "Translational", "(NON-LAYERED)" @
+, "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( 3.185441, 36.544781, 33.067856 )
+ga_view_aa_set( 10.432194, -4.628920, 13.271987 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC",  @
+"A1:Mode 10 : Freq. = 1.3778", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC",  @
+"A1:Mode 10 : Freq. = 1.3778", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( -19.161373, 21.884296, 142.348541 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( -55.404423, 5.994096, 121.271469 )
+ga_view_center_set( -177.934784, -61.438473 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Eigenvectors", "Rotational", "(NON-LAYERED)",  @
+"", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_aa_set( 19.399416, 39.528522, 130.416077 )
+ga_view_center_set( -154.859543, -64.050781 )
+ga_view_zoom_set( 133.585770 )
+ga_view_center_set( -119.086426, -67.246986 )
+ga_view_zoom_set( 106.868614 )
+ga_view_center_set( -103.551559, -68.303291 )
+ga_view_zoom_set( 94.994324 )
+ga_view_center_set( -91.070213, -67.331970 )
+ga_view_zoom_set( 84.439400 )
+ga_view_center_set( -71.100037, -65.777870 )
+ga_view_zoom_set( 67.551521 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Constraint Forces", "Translational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -74.480194, -67.720482 )
+ga_view_zoom_set( 75.995461 )
+ga_view_center_set( -85.888275, -74.276855 )
+ga_view_zoom_set( 104.493759 )
+ga_view_center_set( -92.799782, -76.720909 )
+ga_view_zoom_set( 117.555481 )
+ga_view_center_set( -123.901505, -87.719193 )
+ga_view_zoom_set( 176.333221 )
+ga_view_aa_set( -10.019413, -9.658797, 136.016769 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Eigenvectors", "Translational",  @
+"(NON-LAYERED)", "MAG", "Default", "DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC2:BC",  @
+"A2:Mode 1 : Factor = 1.1906", "Constraint Forces", "Rotational",  @
+"(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+res_data_load_dbresult( 0, "Nodal", "Scalar", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "MAG", "Default",  @
+"DeriveAverage", "All", "ShapeFunc" )
+res_data_title( 0, "Nodal", "Scalar", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL, @@@$LN "] )
+res_display_fringe_create( "", "FreeFaces", 0, [""], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:ElemFill",  @
+"Shade:None", "ElemEdge:ElemEdge,Black,Solid,1", "Shrink:0", "TitleDisplay:ON" @
+, "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None", "ScaleFactor:1.",  @
+"LabelStyle:Exponential, 12, White, 3"], TRUE )
+res_display_fringe_post( "", 0, "Nodal", TRUE, TRUE )
+res_data_load_dbresult( 0, "Nodal", "Vector", "SC1:BC", "A2:Static Subcase",  @
+"Displacements", "Translational", "(NON-LAYERED)", "", "Global", "", "", "" )
+res_data_title( 0, "Nodal", "Vector", 1, [ @
+"$POFF@@@$PT: @@@$LCN, @@@$SCN, @@@$PRN, @@@$SRN, @@@$DRVL"] )
+res_display_deformation_create( "", "Elements", 0, [""], 9, [ @
+"DeformedStyle:White,Solid,1,Wireframe", "DeformedScale:Model=0.1",  @
+"UndeformedStyle:ON,Black,Solid,1,Wireframe", "TitleDisplay:ON",  @
+"MinMaxDisplay:ON", "ScaleFactor:1.", "LabelStyle:Exponential, 12, White, 3",  @
+"DeformDisplay:Resultant", "DeformComps:OFF,OFF,OFF"] )
+res_display_deformation_post( "", 0 )
+ga_view_center_set( -125.664841, -24.239223 )
+ga_view_aa_set( -68.411652, 9.908585, 161.309250 )
+ga_view_aa_set( 18.404554, -3.301201, -173.434265 )
+ga_view_aa_set( 0., 0., 0. )
+ga_view_center_set( -112.292618, -12.339428 )
+ga_view_zoom_set( 156.740646 )
+ga_view_center_set( -100.459641, -1.815273 )
+ga_view_zoom_set( 139.325012 )
+ga_view_center_set( -139.470627, 2.364477 )
+ga_view_center_set( -153.403122, -15.747772 )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+uil_toolbar.hidden_line(  )
+verify_boundaries_display_mgr.erase(  )
+ga_view_center_set( -3.603607, 7.616058 )
+ga_view_zoom_set( 133.306671 )
+ga_view_center_set( -6.670456, 14.295036 )
+ga_view_zoom_set( 118.494820 )
+ga_view_center_set( -9.356186, 19.545311 )
+ga_view_zoom_set( 105.328728 )
+ga_view_center_set( -11.815308, 24.104523 )
+ga_view_zoom_set( 93.625534 )
+ga_view_center_set( -14.671295, 30.965294 )
+ga_view_zoom_set( 83.222694 )
+ga_view_center_set( -17.209961, 37.063751 )
+ga_view_zoom_set( 73.975731 )
+ga_view_center_set( -13.655823, 28.525909 )
+ga_view_zoom_set( 86.921478 )
+ga_view_center_set( -10.076324, 19.927078 )
+ga_view_zoom_set( 99.959702 )
+ga_view_center_set( -5.959869, 10.038429 )
+ga_view_zoom_set( 114.953651 )
+ga_view_center_set( -2.014969, 0.561813 )
+ga_view_zoom_set( 129.322861 )
+ga_view_center_set( -5.959869, 10.038429 )
+ga_view_zoom_set( 114.953651 )
+ga_view_center_set( -9.466476, 18.462105 )
+ga_view_zoom_set( 102.181023 )
+ga_view_center_set( -12.583450, 25.949799 )
+ga_view_zoom_set( 90.827576 )
+ga_view_center_set( -15.354095, 32.605530 )
+ga_view_zoom_set( 80.735626 )
+ga_view_center_set( -12.583450, 25.949799 )
+ga_view_zoom_set( 90.827576 )
+ga_view_center_set( -9.466476, 18.462105 )
+ga_view_zoom_set( 102.181023 )
+ga_view_center_set( -19.476929, 16.542290 )
+ga_view_zoom_set( 114.953651 )
+ga_view_center_set( -30.738708, 14.382507 )
+ga_view_zoom_set( 129.322861 )
+ga_view_center_set( -43.408173, 11.952744 )
+ga_view_zoom_set( 145.488220 )
+ga_view_center_set( -30.738708, 14.382507 )
+ga_view_zoom_set( 129.322861 )
+ga_view_center_set( -19.476929, 16.542290 )
+ga_view_zoom_set( 114.953651 )
+ga_view_center_set( -7.725555, 18.795982 )
+ga_view_zoom_set( 99.959702 )
+ga_view_center_set( 3.942505, 21.033691 )
+ga_view_zoom_set( 85.072090 )
+ga_view_center_set( -15.560547, 4.485306 )
+ga_view_zoom_set( 172.465500 )
+ga_view_center_set( -30.472748, 8.783707 )
+ga_view_zoom_set( 194.023682 )
+ga_view_center_set( -47.248962, 13.619415 )
+ga_view_zoom_set( 218.276642 )
+ga_view_center_set( -66.122192, 19.059601 )
+ga_view_zoom_set( 245.561218 )
+ga_view_center_set( -40.823975, 11.767456 )
+ga_view_zoom_set( 208.988281 )
+ga_view_center_set( -24.761627, 7.137512 )
+ga_view_zoom_set( 185.767365 )
+ga_view_center_set( 2.953705, -0.851402 )
+ga_view_zoom_set( 145.699890 )
+ga_view_center_set( 14.151855, -4.079239 )
+ga_view_zoom_set( 129.511017 )
+ga_view_center_set( 24.105743, -6.948441 )
+ga_view_zoom_set( 115.120903 )
+ga_view_center_set( 32.953690, -9.498833 )
+ga_view_zoom_set( 102.329689 )
+ga_view_center_set( 42.186279, -12.160118 )
+ga_view_zoom_set( 88.982338 )
+ga_view_center_set( 51.353394, -14.802521 )
+ga_view_zoom_set( 75.729652 )
+ga_view_center_set( 62.651794, -18.059269 )
+ga_view_zoom_set( 59.395805 )
+ga_view_center_set( 68.010727, -19.603981 )
+ga_view_zoom_set( 51.648529 )
+ga_view_center_set( 71.980309, -20.748203 )
+ga_view_zoom_set( 45.909805 )
+ga_view_center_set( 75.508827, -21.765289 )
+ga_view_zoom_set( 40.808716 )
+ga_view_center_set( 78.645279, -22.669367 )
+ga_view_zoom_set( 36.274414 )
+ga_view_center_set( 81.420105, -23.406538 )
+ga_view_zoom_set( 40.808716 )
+ga_view_center_set( 84.541779, -24.235857 )
+ga_view_zoom_set( 45.909805 )
+ga_view_center_set( 88.053665, -25.168844 )
+ga_view_zoom_set( 51.648529 )
+ga_view_center_set( 83.346237, -23.918249 )
+ga_view_zoom_set( 43.956196 )
+ga_view_center_set( 80.357399, -23.124220 )
+ga_view_zoom_set( 39.072174 )
+ga_view_center_set( 75.200180, -21.754133 )
+ga_view_zoom_set( 30.644842 )
+ga_view_center_set( 72.407104, -21.012112 )
+ga_view_zoom_set( 26.080717 )
+ga_view_center_set( 69.215012, -20.164087 )
+ga_view_zoom_set( 20.864574 )
+ga_view_center_set( 67.796310, -19.787191 )
+ga_view_zoom_set( 18.546288 )
+ga_view_center_set( 66.535233, -19.452169 )
+ga_view_zoom_set( 16.485588 )
+ga_view_center_set( 66.808968, -20.237095 )
+ga_view_zoom_set( 14.335295 )
+ga_view_center_set( 67.047005, -20.919636 )
+ga_view_zoom_set( 12.465474 )
+ga_view_center_set( 67.389267, -21.901068 )
+ga_view_zoom_set( 9.776843 )
+ga_view_center_set( 67.202576, -21.365740 )
+ga_view_zoom_set( 11.243369 )
+ga_view_center_set( 67.023666, -20.852716 )
+ga_view_zoom_set( 12.648790 )
+ga_view_center_set( 66.540604, -19.467558 )
+ga_view_zoom_set( 16.443426 )
+ga_view_center_set( 66.278946, -18.717264 )
+ga_view_zoom_set( 18.498854 )
+ga_view_center_set( 65.984589, -17.873186 )
+ga_view_zoom_set( 20.811211 )
+ga_view_center_set( 65.653427, -16.923594 )
+ga_view_zoom_set( 23.412613 )
+ga_view_center_set( 65.280869, -15.855301 )
+ga_view_zoom_set( 26.339190 )
+ga_view_center_set( 67.044907, -14.032917 )
+ga_view_zoom_set( 23.412613 )
+ga_view_center_set( 68.612923, -12.413029 )
+ga_view_zoom_set( 20.811211 )
+ga_view_center_set( 70.006721, -10.973125 )
+ga_view_zoom_set( 18.498854 )
+ga_view_center_set( 71.461113, -9.470617 )
+ga_view_zoom_set( 16.085960 )
+ga_view_center_set( 72.538452, -8.357647 )
+ga_view_zoom_set( 14.298632 )
+ga_view_center_set( 73.496078, -7.368341 )
+ga_view_zoom_set( 12.709895 )
+ga_view_center_set( 74.495346, -6.336021 )
+ga_view_zoom_set( 11.052083 )
+ga_view_center_set( 75.605637, -5.188999 )
+ga_view_zoom_set( 9.210069 )
+ga_view_center_set( 75.353485, -5.939083 )
+ga_view_zoom_set( 10.591578 )
+ga_view_center_set( 76.009148, -5.135834 )
+ga_view_zoom_set( 9.014110 )
+ga_view_center_set( 76.873764, -4.076601 )
+ga_view_zoom_set( 6.933931 )
+ga_view_center_set( 78.009117, -2.685690 )
+ga_view_zoom_set( 4.202382 )
+ga_view_center_set( 78.551193, -2.021595 )
+ga_view_zoom_set( 2.898195 )
+ga_view_center_set( 78.250038, -2.390536 )
+ga_view_zoom_set( 3.622743 )
+ga_view_center_set( 78.024178, -2.667243 )
+ga_view_zoom_set( 4.166154 )
+ga_view_center_set( 77.115067, -3.780987 )
+ga_view_zoom_set( 6.353386 )
+ga_view_center_set( 76.322838, -4.751534 )
+ga_view_zoom_set( 8.259401 )
+ga_view_center_set( 75.636246, -5.592675 )
+ga_view_zoom_set( 9.911282 )
+ga_view_center_set( 75.121300, -6.223534 )
+ga_view_zoom_set( 11.150192 )
+ga_view_center_set( 73.267494, -8.494616 )
+ga_view_zoom_set( 15.610271 )
+ga_view_center_set( 69.212303, -13.462606 )
+ga_view_zoom_set( 25.366690 )
+ga_view_center_set( 64.731293, -18.952242 )
+ga_view_zoom_set( 36.147533 )
+ga_view_center_set( 62.853233, -21.253042 )
+ga_view_zoom_set( 40.665974 )
+ga_view_center_set( 64.731293, -18.952242 )
+ga_view_zoom_set( 36.147533 )
+ga_view_center_set( 66.400688, -16.907091 )
+ga_view_zoom_set( 32.131142 )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+uil_toolbar.hidden_line(  )
+ga_view_aa_set( -90., 0., 0. )
+verify_boundaries_display_mgr.erase(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+ga_view_center_set( -3.001709, -18.769241 )
+ga_view_zoom_set( 172.465500 )
+ga_view_center_set( -5.878357, -36.756439 )
+ga_view_zoom_set( 194.023682 )
+ga_view_center_set( -14.292511, -89.368988 )
+ga_view_zoom_set( 257.081390 )
+ga_view_center_set( -26.298798, -164.443054 )
+ga_view_zoom_set( 347.059875 )
+ga_view_center_set( -32.087616, -200.639526 )
+ga_view_zoom_set( 390.442352 )
+ga_view_center_set( -38.599945, -241.360474 )
+ga_view_zoom_set( 439.247650 )
+ga_view_center_set( -47.391571, -296.333923 )
+ga_view_zoom_set( 505.134796 )
+ga_view_center_set( -55.816986, -349.016724 )
+ga_view_zoom_set( 568.276672 )
+ga_view_center_set( -65.295380, -408.284851 )
+ga_view_zoom_set( 639.311279 )
+ga_view_center_set( -75.958832, -474.961731 )
+ga_view_zoom_set( 719.225220 )
+ga_view_center_set( -63.441132, -396.689148 )
+ga_view_zoom_set( 625.413269 )
+ga_view_center_set( -52.556000, -328.626038 )
+ga_view_zoom_set( 543.837646 )
+ga_view_center_set( -36.904144, -230.757507 )
+ga_view_zoom_set( 426.539337 )
+ga_view_center_set( -24.628326, -153.997925 )
+ga_view_zoom_set( 334.540649 )
+ga_view_center_set( -10.774628, -67.372589 )
+ga_view_zoom_set( 230.717682 )
+ga_view_center_set( -4.617432, -28.872482 )
+ga_view_zoom_set( 184.574142 )
+ga_view_center_set( 3.861328, 24.144104 )
+ga_view_zoom_set( 121.032219 )
+ga_view_center_set( 11.162018, 69.794388 )
+ga_view_zoom_set( 66.319023 )
+ga_view_center_set( 12.145279, 75.942574 )
+ga_view_zoom_set( 58.950241 )
+ga_view_center_set( 13.590080, 84.976646 )
+ga_view_zoom_set( 48.122646 )
+uil_toolbar.shaded_smooth(  )
+uil_toolbar.hidden_line(  )
+uil_toolbar.wireframe(  )
+uil_toolbar.hidden_line(  )
+ga_view_center_set( 11.231430, 84.938133 )
+ga_view_zoom_set( 41.845779 )
+ga_view_center_set( 9.180443, 84.904648 )
+ga_view_zoom_set( 36.387634 )
+ga_view_center_set( 6.231308, 84.856499 )
+ga_view_zoom_set( 28.539322 )
+ga_view_center_set( 7.571831, 84.878387 )
+ga_view_zoom_set( 32.106735 )
+ga_view_center_set( 9.079910, 84.903008 )
+ga_view_zoom_set( 36.120079 )
+ga_view_center_set( 6.242260, 84.373642 )
+ga_view_zoom_set( 32.106735 )
+ga_view_center_set( 3.294067, 85.028786 )
+ga_view_zoom_set( 27.918901 )
+ga_view_center_set( 0.730438, 85.598488 )
+ga_view_zoom_set( 24.277306 )
+ga_view_center_set( -2.408714, 86.296074 )
+ga_view_zoom_set( 19.818209 )
+ga_view_center_set( -3.958912, 86.640564 )
+ga_view_zoom_set( 17.616186 )
+ga_view_center_set( -1.478592, 86.089378 )
+ga_view_zoom_set( 21.139423 )
+ga_view_center_set( 4.846210, 84.683861 )
+ga_view_zoom_set( 30.123678 )
+ga_view_center_set( 15.979736, 82.209740 )
+ga_view_zoom_set( 45.938614 )
+ga_view_center_set( 21.639267, 80.952065 )
+ga_view_zoom_set( 53.977871 )
+ga_view_center_set( 31.139206, 78.840965 )
+ga_view_zoom_set( 67.472336 )
+ga_view_center_set( 38.264160, 77.257645 )
+ga_view_zoom_set( 77.593185 )
+ga_view_center_set( 45.092239, 75.740295 )
+ga_view_zoom_set( 87.292336 )
+ga_view_center_set( 50.531281, 83.773331 )
+ga_view_zoom_set( 98.203880 )
+ga_view_center_set( 56.650177, 92.810501 )
+ga_view_zoom_set( 110.479362 )
+ga_view_center_set( 50.531281, 83.773331 )
+ga_view_zoom_set( 98.203880 )
+ga_view_center_set( 45.092239, 75.740295 )
+ga_view_zoom_set( 87.292336 )
+ga_view_center_set( 40.257538, 68.599815 )
+ga_view_zoom_set( 77.593185 )
+ga_view_center_set( 35.960014, 62.252724 )
+ga_view_zoom_set( 68.971718 )
+ga_view_center_set( 31.475670, 55.629669 )
+ga_view_zoom_set( 59.975407 )
+ga_view_center_set( 28.153923, 50.723709 )
+ga_view_zoom_set( 53.311474 )
+ga_view_center_set( 25.201263, 46.362854 )
+ga_view_zoom_set( 47.387978 )
+ga_view_center_set( 20.477005, 39.385483 )
+ga_view_zoom_set( 37.910381 )
+ga_view_center_set( 18.377331, 36.284428 )
+ga_view_zoom_set( 33.698116 )
+ga_view_center_set( 16.510952, 33.527935 )
+ga_view_zoom_set( 29.953880 )
+ga_view_center_set( 14.851955, 31.077719 )
+ga_view_zoom_set( 26.625671 )
+ga_view_center_set( 13.377285, 28.899750 )
+ga_view_zoom_set( 23.667263 )
+ga_view_center_set( 12.066471, 26.963778 )
+ga_view_zoom_set( 21.037567 )
+ga_view_center_set( 10.901306, 25.242912 )
+ga_view_zoom_set( 18.700060 )
+ga_view_center_set( 7.592232, 25.708981 )
+ga_view_zoom_set( 21.037567 )
+uil_toolbar.shaded_smooth(  )
+verify_boundaries_display_mgr.erase(  )
+ga_view_center_set( 7.821754, 23.477131 )
+ga_view_zoom_set( 15.877409 )
+ga_view_center_set( 8.004839, 21.696741 )
+ga_view_zoom_set( 11.761044 )
+ga_view_center_set( 8.252630, 19.287189 )
+ga_view_zoom_set( 6.190022 )
+ga_view_center_set( 8.283221, 18.989714 )
+ga_view_zoom_set( 5.502242 )
+ga_view_center_set( 8.339699, 18.440529 )
+ga_view_zoom_set( 4.232494 )
+ga_view_center_set( 8.316168, 18.669355 )
+ga_view_zoom_set( 4.761556 )
+ga_view_center_set( 8.284399, 18.978271 )
+ga_view_zoom_set( 5.475789 )
+ga_view_center_set( 8.119999, 20.576916 )
+ga_view_zoom_set( 9.171947 )
+ga_view_center_set( 7.487671, 26.725780 )
+ga_view_zoom_set( 23.388466 )
+ga_view_center_set( 7.279617, 28.748955 )
+ga_view_zoom_set( 28.066160 )
+ga_view_center_set( 7.061150, 30.873287 )
+ga_view_zoom_set( 32.977737 )
+ga_view_center_set( 6.877808, 32.656208 )
+ga_view_zoom_set( 37.099953 )
+ga_view_center_set( 6.341499, 37.871254 )
+ga_view_zoom_set( 49.157440 )
+ga_view_center_set( 6.068207, 40.528923 )
+ga_view_zoom_set( 55.302120 )
+ga_view_center_set( 5.760712, 43.518799 )
+ga_view_zoom_set( 62.214886 )
+ga_view_center_set( 5.414825, 46.882412 )
+ga_view_zoom_set( 69.991745 )
+ga_view_center_set( 4.947876, 51.423286 )
+ga_view_zoom_set( 80.490501 )
+ga_view_center_set( 4.321335, 57.515621 )
+ga_view_zoom_set( 94.576332 )
+ga_view_center_set( 3.690353, 63.651482 )
+ga_view_zoom_set( 108.762779 )
+ga_view_center_set( 2.118118, 78.939995 )
+ga_view_zoom_set( 144.110687 )
+ga_view_center_set( 0.996445, 89.847748 )
+ga_view_zoom_set( 169.330048 )
+ga_view_center_set( -1.451309, 113.650047 )
+ga_view_zoom_set( 224.362320 )
+ga_view_center_set( -2.698685, 125.780083 )
+ga_view_zoom_set( 252.407608 )
+ga_view_center_set( -4.382706, 142.155609 )
+ga_view_zoom_set( 290.268738 )
+ga_view_center_set( -6.319351, 160.987457 )
+ga_view_zoom_set( 333.809052 )
+ga_view_center_set( -8.175247, 179.034653 )
+ga_view_zoom_set( 375.535187 )
+ga_view_center_set( -6.716873, 138.716461 )
+ga_view_zoom_set( 319.604431 )
+ga_view_center_set( -3.434128, 47.956879 )
+ga_view_zoom_set( 193.699646 )
+ga_view_center_set( -0.628357, -29.615402 )
+ga_view_zoom_set( 86.088730 )
+ga_view_center_set( -0.144211, -43.000427 )
+ga_view_zoom_set( 67.520576 )
+ga_view_center_set( 0.207893, -52.734985 )
+ga_view_zoom_set( 54.016460 )
+ga_view_center_set( 0.532913, -61.720734 )
+ga_view_zoom_set( 41.551125 )
+ga_view_center_set( 0.813789, -69.486198 )
+ga_view_zoom_set( 30.778610 )
+ga_view_center_set( 0.902958, -71.951424 )
+ga_view_zoom_set( 27.358765 )
+ga_view_center_set( 1.056820, -76.205147 )
+ga_view_zoom_set( 21.457855 )
+ga_view_center_set( 7.292156, -75.931732 )
+ga_view_zoom_set( 16.506042 )
+ga_view_center_set( 11.775076, -75.735161 )
+ga_view_zoom_set( 12.945916 )
+ga_view_center_set( 17.726429, -75.474205 )
+ga_view_zoom_set( 8.219629 )
+ga_view_center_set( 19.076452, -75.415001 )
+ga_view_zoom_set( 7.147504 )
+ga_view_center_set( 21.017662, -75.329880 )
+ga_view_zoom_set( 5.605886 )
+ga_view_center_set( 18.194084, -75.453690 )
+ga_view_zoom_set( 7.848240 )
+ga_view_center_set( 12.758698, -75.692032 )
+ga_view_zoom_set( 12.164772 )
+ga_view_center_set( -2.559214, -76.363701 )
+ga_view_zoom_set( 24.329544 )
+ga_view_center_set( -6.388697, -76.531624 )
+ga_view_zoom_set( 27.370737 )
+ga_view_center_set( -10.696856, -76.720535 )
+ga_view_zoom_set( 30.792080 )
+ga_view_center_set( -20.390223, -77.145592 )
+ga_view_zoom_set( 38.490101 )
+ga_view_center_set( -26.448580, -77.411240 )
+ga_view_zoom_set( 43.301365 )
+ga_view_center_set( -41.443016, -78.068718 )
+ga_view_zoom_set( 55.209240 )
+ga_view_center_set( -55.346916, -78.678391 )
+ga_view_zoom_set( 66.251091 )
+ga_view_center_set( -92.887520, -80.324501 )
+ga_view_zoom_set( 96.064087 )
+ga_view_center_set( -108.008003, -80.987503 )
+ga_view_zoom_set( 108.072098 )
+ga_view_center_set( -125.018623, -81.733406 )
+ga_view_zoom_set( 121.581108 )
+uil_viewport_post_groups.posted_groups( "default_viewport", 1, ["CT-Bot"] )
+uil_viewport_post_groups.posted_groups( "default_viewport", 1, ["CCT-Bot"] )
+ga_view_center_set( 54.510750, -59.827038 )
+ga_view_zoom_set( 1.218328 )
+ga_view_center_set( 54.740276, -59.990227 )
+ga_view_zoom_set( 1.015273 )
+ga_view_center_set( 55.096439, -60.243454 )
+ga_view_zoom_set( 0.700188 )
+ga_view_center_set( 55.214317, -60.327267 )
+ga_view_zoom_set( 0.595905 )
+ga_view_center_set( 55.359600, -60.430561 )
+ga_view_zoom_set( 0.467377 )
+ga_view_center_set( 55.293564, -60.383610 )
+ga_view_zoom_set( 0.525799 )
+ga_view_center_set( 55.159836, -60.288528 )
+ga_view_zoom_set( 0.644103 )
+ga_view_center_set( 55.068829, -60.223824 )
+ga_view_zoom_set( 0.724616 )
+ga_view_center_set( 54.843578, -60.063675 )
+ga_view_zoom_set( 0.923886 )
+ga_view_center_set( 55.035393, -60.200054 )
+ga_view_zoom_set( 0.754192 )
+ga_view_center_set( 55.267899, -60.365360 )
+ga_view_zoom_set( 0.548504 )
+ga_view_center_set( 55.557236, -60.571079 )
+ga_view_zoom_set( 0.292535 )
+ga_view_center_set( 55.623371, -60.618099 )
+ga_view_zoom_set( 0.234028 )
+ga_view_center_set( 55.652767, -60.638996 )
+ga_view_zoom_set( 0.208025 )
+ga_view_center_set( 55.643955, -60.629108 )
+ga_view_zoom_set( 0.234028 )
+ga_view_center_set( 55.634037, -60.617981 )
+ga_view_zoom_set( 0.263282 )
+ga_view_center_set( 55.607265, -60.587936 )
+ga_view_zoom_set( 0.342266 )
+ga_view_center_set( 55.592762, -60.571667 )
+ga_view_zoom_set( 0.385050 )
+ga_view_center_set( 55.573185, -60.549694 )
+ga_view_zoom_set( 0.442807 )
+ga_view_center_set( 55.543167, -60.516010 )
+ga_view_zoom_set( 0.531368 )
+ga_view_center_set( 55.453110, -60.414948 )
+ga_view_zoom_set( 0.797053 )
+ga_view_center_set( 55.277500, -60.217888 )
+ga_view_zoom_set( 1.315137 )
+ga_view_center_set( 55.221775, -60.155357 )
+ga_view_zoom_set( 1.479529 )
+ga_view_center_set( 55.146553, -60.070946 )
+ga_view_zoom_set( 1.701458 )
+ga_view_center_set( 55.074463, -59.990047 )
+ga_view_zoom_set( 1.914141 )
+ga_view_center_set( 54.896042, -59.789825 )
+ga_view_zoom_set( 2.440529 )
+ga_view_center_set( 54.420380, -59.256054 )
+ga_view_zoom_set( 3.843833 )
+ga_view_center_set( 54.257519, -59.073292 )
+ga_view_zoom_set( 4.324313 )
+ga_view_center_set( 53.964367, -58.744328 )
+ga_view_zoom_set( 5.189176 )
+ga_view_center_set( 53.700531, -58.448261 )
+ga_view_zoom_set( 5.967552 )
+ga_view_center_set( 53.093708, -57.767300 )
+ga_view_zoom_set( 7.757817 )
+ga_view_center_set( 52.699268, -57.324673 )
+ga_view_zoom_set( 8.921489 )
+ga_view_center_set( 52.018867, -56.561150 )
+ga_view_zoom_set( 10.928823 )
+ga_view_center_set( 51.277985, -55.729755 )
+ga_view_zoom_set( 13.114589 )
+ga_view_center_set( 50.166660, -54.482658 )
+ga_view_zoom_set( 16.393236 )
+ga_view_center_set( 49.472092, -53.703228 )
+ga_view_zoom_set( 18.442390 )
+ga_view_center_set( 48.690689, -52.826370 )
+ga_view_zoom_set( 20.747688 )
+ga_view_center_set( 49.607983, -53.855728 )
+ga_view_zoom_set( 18.041468 )
+ga_view_center_set( 50.405628, -54.750824 )
+ga_view_zoom_set( 15.688233 )
+ga_view_center_set( 51.291897, -55.745377 )
+ga_view_zoom_set( 13.073527 )
+ga_view_center_set( 50.405628, -54.750824 )
+ga_view_zoom_set( 15.688233 )
+ga_view_center_set( 47.879749, -51.916351 )
+ga_view_zoom_set( 23.140144 )
+ga_view_center_set( 45.526703, -49.275822 )
+ga_view_zoom_set( 30.082186 )
+ga_view_center_set( 44.252129, -47.845528 )
+ga_view_zoom_set( 33.842461 )
+ga_view_center_set( 42.818237, -46.236458 )
+ga_view_zoom_set( 38.072769 )
+uil_viewport_post_groups.posted_groups( "default_viewport", 1, ["CC-Heli-Top"] )
+ga_view_center_set( 6.173523, 4.134850 )
+ga_view_zoom_set( 149.772781 )
+ga_view_center_set( 11.661102, 7.810249 )
+ga_view_zoom_set( 133.131363 )
+ga_view_center_set( 16.538971, 11.077271 )
+ga_view_zoom_set( 118.338989 )
+ga_view_center_set( 11.661102, 7.810242 )
+ga_view_zoom_set( 133.131363 )
+ga_view_center_set( 6.173523, 4.134842 )
+ga_view_zoom_set( 149.772781 )
+ga_view_center_set( 0.000000, 0.000000 )
+ga_view_zoom_set( 168.494385 )
+ga_view_center_set( -0.807587, -2.325836 )
+ga_view_zoom_set( 189.556183 )
+ga_view_center_set( -1.570770, -4.506317 )
+ga_view_zoom_set( 213.250702 )
+ga_view_center_set( -2.429291, -6.959351 )
+ga_view_zoom_set( 239.907043 )
+ga_view_center_set( -3.395172, -9.719025 )
+ga_view_zoom_set( 269.895416 )
+ga_view_center_set( -2.429291, -6.959351 )
+ga_view_zoom_set( 239.907043 )
+ga_view_center_set( -1.570770, -4.506317 )
+ga_view_zoom_set( 213.250702 )
+ga_view_center_set( -0.197083, -0.581467 )
+ga_view_zoom_set( 170.600555 )
+ga_view_center_set( -7.021105, -44.937614 )
+ga_view_center_set( -11.044054, -48.600807 )
+ga_view_zoom_set( 191.925629 )
+ga_view_center_set( -15.569963, -52.721901 )
+ga_view_zoom_set( 215.916336 )
+ga_view_center_set( -20.661516, -57.358162 )
+ga_view_zoom_set( 242.905884 )
+ga_view_center_set( -17.639666, -51.148872 )
+ga_view_zoom_set( 215.916336 )
+ga_view_center_set( -15.027117, -45.629555 )
+ga_view_zoom_set( 191.925629 )
+ga_view_center_set( -12.443254, -40.265602 )
+ga_view_zoom_set( 170.600555 )
+uil_viewport_post_groups.posted_groups( "default_viewport", 1, [ @
+"default_group"] )
+ga_view_center_set( -16.191254, 0.637726 )
+ga_view_zoom_set( 207.900009 )
+ga_view_center_set( -34.406372, 1.355179 )
+ga_view_zoom_set( 233.887512 )
+uil_viewport_post_groups.posted_groups( "default_viewport", 16, [ @
+"CC-Heli-Int_Rot", "CC-Heli-Top", "CC-Heli-Top_Rot", "CCT-Bot", "CCT-Bot_Rot", @
+ "CCT-Int", "CCT-Int_Rot", "CT-Bot", "CT-Bot_Rot", "CT_0-90", "CT_0-90_Rot",  @
+"C_0", "C_0_Rot", "T_0", "T_0_Rot", "default_group"] )
+ga_view_center_set( -16.973969, 0.837418 )
+ga_view_zoom_set( 189.000000 )
+ga_view_center_set( -36.721863, 1.634583 )
+ga_view_zoom_set( 212.625000 )
+ga_view_center_set( -58.938293, 2.531372 )
+ga_view_zoom_set( 239.203125 )
+ga_view_center_set( -78.074539, -97.933945 )
+ga_view_aa_set( -37.087986, 1.380628, 5.041157 )
+ga_view_center_set( -75.682503, -7.036747 )
+ga_view_center_set( -63.494034, -1.655888 )
+ga_view_zoom_set( 212.625000 )
+ga_view_center_set( -53.167194, 3.779278 )
+ga_view_zoom_set( 189.000000 )
+ga_view_center_set( -44.567467, 9.319149 )
+ga_view_zoom_set( 168.000000 )
+ga_view_center_set( -28.756006, 30.682232 )
+ga_view_zoom_set( 122.181816 )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+verify_boundaries_display_mgr.initialize(  )

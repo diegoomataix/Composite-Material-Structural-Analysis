@@ -1,0 +1,487 @@
+1
+ 
+ 
+ 
+ 
+                      Warning: This computer program is protected by copyright law and international treaties.       
+                  Unauthorized use, reproduction or distribution of this computer program, or any portion of it, may 
+                                          result in severe civil and criminal penalties.                             
+                         Copyright (C) 2020 MSC Software Corporation and its licensors. All rights reserved.         
+ 
+ 
+                                              * * * * * * * * * * * * * * * * * * * *
+                                              * * * * * * * * * * * * * * * * * * * *
+                                              * *                                 * *
+                                              * *           MSC Software          * *
+                                              * *               CORP              * *
+                                              * *                                 * *
+                                              * *      M S C   N a s t r a n      * *
+                                              * *                                 * *
+                                              * *  S T U D E N T   E D I T I O N  * *
+                                              * *                                 * *
+                                              * *     Version 2020SP1-CL749017    * *
+                                              * *                                 * *
+                                              * *                                 * *
+                                              * *                                 * *
+                                              * *          AUG  4, 2020           * *
+                                              * *                                 * *
+                                              * *              Intel              * *
+                                              * *    MODEL Xeon/3000 (klkgng)     * *
+                                              * *    Windows 10 Home 6.2 9200     * *
+                                              * * Compiled for 8664 (SINGLE Mode) * *
+                                              * *                                 * *
+                                              * * * * * * * * * * * * * * * * * * * *
+                                              * * * * * * * * * * * * * * * * * * * *
+
+ 
+ 
+                                                 This Student Edition version is  
+                                                    valid until APR 30, 2022.     
+ 
+ 
+                  This program is being distributed as part of the MSC Software Student Edition. Use of this program 
+                     or its results at a commercial installation, for commercial purposes, or for production work    
+                                             I S   S T R I C T L Y  P R O H I B I T E D.                             
+                  ==================================== FOR EDUCATIONAL USE ONLY =====================================
+ 
+ 
+1News file - July 31, 2020)
+  
+               Welcome to MSC Nastran 2020 Service Pack 1 (2020 SP1)
+  
+  
+   MSC Nastran brings powerful new features and enhancements for engineering
+   solutions.
+  
+     MSC Nastran 2020 SP1 corrects four defects, evident in version 2020,
+     that concern the import of Nastran Embedded Fatigue and acoustic pressure
+     results into Patran, corrects a licensing defect concerning the
+     TABLRPC entry, and shell elements SFRP failure indicator output in
+     the Digimat-to-SOL 400 MATDIGI interface.
+  
+     MSC Nastran 2020 SP1 Features and Enhancements
+  
+     Dynamics
+     - Data recovery of Poroelastic material (PEM) trim parts interior grids.
+     - New PLTSURF entry introduced for easier PEM parts coupling surface
+       defintions.
+     - Restart support for models with invariant PEM components.
+     - Temperature dependency added for frequency dependent materials.
+     - SOL 108 (direct frequency response) support added for models with PEM
+       parts.
+  
+     Rotordynamics
+     - New 2D Bush (CBUSH2DA) and Squeeze File Damper (NLRSFDA) user-defined
+       subroutines enabled to include inertia & acceleration terms respectively.
+     - Integration of user-defined squeeze file damper libraries.
+     - Cross-coupling inertia terms specification for 2D Bush (CBUSH2D) element.
+     - Frequency dependent 2D Bush (PBSH2DT) property with tabular input.
+  
+     Composites
+     - Layered Solid and Solid-Shell elements available in linear solutions.
+  
+     Fatigue
+     - Control of the number of angles to be analyzed when using critical plane
+       analysis.
+     - New stress/strain output requests via FATIGUE case control.
+     - More control over the amound of results data returned at critical
+       locations.
+     - Significant performance improvement of SOL 112 duty cycle jobs.
+     - Direct access to dynamic load data in multi-channel time histroy files via
+       new TABLRPC entry.
+  
+     Topology Optimization
+     - Anisotropic materials support added.
+     - Over-hang constraints for additive manufacturing.
+     - New DRESP2 response types: Magnigtude of Displacement and
+       maximization of stiffness and frequency.
+1 
+     Nonlinear
+     - Nonlinear Buckling available in SOL 400
+     - Allow represtentation of imperfect structural geometry through
+       use modification of grid coordinates based on displacements or
+       modes from a previous run.
+     - MATVE limitation of five scale factor/time constraint data pairs
+       removed.
+  
+     HPC
+     - CASI (Iterative) Solver support available for inertia relief analysis.
+     - Faster Global Transformation Matrix for ACMS to speed up Nastran
+       interface to MSC Adams and AVL EXCITE.
+     - Improved GPU acceleration for FASTFR (Fast Frequency Response) and
+       MPYAD for large models.
+  
+     Nastran HDF5
+     - Support NLLOAD outputs in HDF5
+     - Add KHH/MHH/BHH matrix output control
+     - Support nonlinear buckling and imperfection outputs
+     - Support layered solid and solid shell composite elements
+  
+  
+     Documentation
+     The complete documentation set is provided in a separate installer and
+     when installed is available at: MSC_DOC_DIR/doc/pdf_nastran directory.
+     Where MSC_DOC_DIR is the directory where documentation was installed
+     This help set has cross references between documents, links to how-to
+     videos, and example files.
+  
+     Individual MSC Nastran documents are available for download from the
+       Simcompanion Website at:
+       http://simcompanion.mscsoftware.com/
+  
+     These documents were updated for the MSC Nastran 2020 SP1 Release
+  
+         1.  Installation and Operations Guide
+         2.  Quick Reference Guide
+         3.  Release Guide
+         4.  Linear Statics Analysis User's Guide
+         5.  Dynamic Analysis User's Guide
+         6.  Superelements User's Guide
+         7.  Rotordynamics User's Guide
+         8.  Demonstration Problems Manual
+         9.  Nastran Embedded Fatigue User's Guide
+        10.  Design Sensitivity and Optimization
+        11.   Nonlinear User's Guide SOL 400
+        12.  DMAP Programmer's Guide
+        13.  High Performance Computing User's Guide
+        14.  DEMATD Guide
+1       15.  Explicit Nonlinear (SOL 700) User's Guide
+  
+   Please refer to  MSC_DOC_DIR/doc/pdf_nastran/nastran_library.pdf
+   for the complete document set:
+  
+  
+   Feature Deprecation List
+   To streamline the MSC Nastran program and simplify ongoing maintenance
+   activiy, some obsolete capabilities have been identified and tagged for
+   removal from a future release of the program in late 2020. Please review
+   the list of features marked for deprecation below to ensure that there
+   will be no disruption to your use of MSC Nastran. If you see a feature
+   that you currently use and do not wish to lose, contact MSC Technical
+   Support to report it.
+  
+     Features tagged for removal:
+     - P-elements
+     - SOL 600 nonlinear solution sequence
+     - Unstructured one- and two-digit solution sequences (e.g. SOL 3, SOL 24)
+     - SOL 190 (DBTRANS)
+     - TAUCS solver
+     - MSGMESH
+     - Obsolete DMAP modules
+     - SSSALTERS
+  
+     Refer to the MSC Nastran 2020 Release Guide for more details.
+  
+  
+   Additional information about the release can be found at the MSC Nastran
+   Product Support page: http://simcompanion.mscsoftware.com
+  
+   The support page provides links to these valuable information:
+      * A searchable Knowledge Base containing examples and answers to thousands
+        of frequently asked questions written by MSC Software subject-matter
+        experts.
+      * Peer-to-peer Discussion Forums enabling you to post questions for your
+        MSC Software products and receive answers from other users worldwide.
+      * A list of known issues with the product and any workarounds.
+      * Instructions on how to contact technical support
+      * A mechanism for sending us product feedback or enhancement requests.
+      * Hardware and software requirements.
+      * Examples and Tutorials
+      * and much more.
+  
+   For information on training, please visit our Training web site
+  
+      http://www.mscsoftware.com/Contents/Services/Training/
+  
+1                                                       **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     1
+                                                                                                                                    
+0        N A S T R A N    F I L E    A N D    S Y S T E M    P A R A M E T E R    E C H O                                           
+0                                                                                                                                   
+                                                                                                                                    
+                                                                                                                                    
+     NASTRAN BUFFSIZE=8193 $(C:/PROGRAM FILES/MSC.SOFTWARE/NAPA_SE/2020/NASTRAN/CONF/
+     $ MSC.NASTRAN INPUT FILE CREATED ON NOVEMBER  29, 2021 AT 13:44:37 BY           
+     $ PATRAN 2020  (STUDENT EDITION)                                                
+     $ DIRECT TEXT INPUT FOR NASTRAN SYSTEM CELL SECTION                             
+     $ DIRECT TEXT INPUT FOR FILE MANAGEMENT SECTION                                 
+     $ DIRECT TEXT INPUT FOR EXECUTIVE CONTROL                                       
+     $ LINEAR STATIC ANALYSIS, DATABASE                                              
+1                                                       **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     2
+                                                                                                                                    
+0        N A S T R A N    E X E C U T I V E    C O N T R O L    E C H O                                                             
+0                                                                                                                                   
+                                                                                                                                    
+                                                                                                                                    
+     SOL 101                                                                                 
+     CEND                                                                                    
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     3
+      LINEAR-STATIC                                                                                                                 
+0     LINEAR-STATIC                                                                                                                 
+0                                        C A S E    C O N T R O L    E C H O                                                        
+                 COMMAND                                                                                                            
+                 COUNT                                                                                                              
+                  1      $ DIRECT TEXT INPUT FOR GLOBAL CASE CONTROL DATA                                        
+                  2      TITLE = MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15                                
+                  3      SUBTITLE = LINEAR-STATIC                                                                
+                  4      LABEL = LINEAR-STATIC                                                                   
+                  5      ECHO = NONE                                                                             
+                  6      SUBCASE 1                                                                               
+                  7      $ SUBCASE NAME : BC                                                                     
+                  8         SUBTITLE=BC                                                                          
+                  9         SPC = 2                                                                              
+                 10         LOAD = 2                                                                             
+                 11         DISPLACEMENT(PLOT,SORT1,REAL)=ALL                                                    
+                 12         SPCFORCES(PLOT,SORT1,REAL)=ALL                                                       
+                 13         STRESS(PLOT,SORT1,REAL,VONMISES,BILIN)=ALL                                           
+                 14      BEGIN BULK                                                                              
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     4
+      LINEAR-STATIC                                                                                                                 
+0     LINEAR-STATIC                                                                                                                 
+                                        M O D E L   S U M M A R Y          BULK = 0
+                                   ENTRY NAME        NUMBER OF ENTRIES
+                                   ----------        -----------------
+                                       CQUAD4                     1632
+                                       CTRIA3                      360
+                                        FORCE                        1
+                                         GRID                     3337
+                                         LOAD                        1
+                                         MAT8                        2
+                                        PARAM                        2
+                                        PCOMP                        9
+                                         RBE2                        1
+                                         SPC1                        3
+                                       SPCADD                        1
+
+ ^^^     
+ ^^^ >>> IFP OPERATIONS COMPLETE <<< 
+ ^^^     
+ *** USER INFORMATION MESSAGE 7555 (GMTSTS)
+     FINITE ELEMENT GEOMETRY CHECK RESULTS EXCEED TOLERANCE LEVELS FOR THE FOLLOWING ELEMENTS.  METRIC VALUES THAT EXCEED
+     TEST TOLERANCE LIMITS ARE IDENTIFIED BY ONE OF THE FOLLOWING FLAGS PLACED TO THE RIGHT OF THE METRIC VALUE.
+        "++++" FOR TEST RESULTS EXCEEDING TOLERANCES.  INFORMATIONAL ONLY.  PROBLEM SOLUTION CONTINUES.  (DEFAULT FLAG)
+        "IGNR" FOR TEST RESULTS EXCEEDING TOLERANCES.  INFORMATIONAL ONLY.  PROBLEM SOLUTION CONTINUES.
+        "WARN" FOR TEST RESULTS EXCEEDING TOLERANCES.  INFORMATIONAL ONLY.  PROBLEM SOLUTION CONTINUES.
+        "FAIL" FOR TEST RESULTS EXCEEDING TOLERANCES.  SEVERE ERROR.        PROBLEM SOLUTION TERMINATES.
+     USER ACTION: USE THE GEOMCHECK (EXECUTIVE CONTROL STATEMENT) KEYWORD=VALUE TO CHANGE TOLERANCE VALUES IF DESIRED.
+     A MAXIMUM OF        100 SKEW ANGLE (SA)       TOLERANCE LIMIT VIOLATIONS WILL BE IDENTIFIED BY THE FLAG "++++"
+                             PLACED AFTER THE VALUE METRIC FOR THE TEST.
+     A MAXIMUM OF        100 MIN INT. ANGLE (IA)   TOLERANCE LIMIT VIOLATIONS WILL BE IDENTIFIED BY THE FLAG "++++"
+                             PLACED AFTER THE VALUE METRIC FOR THE TEST.
+     A MAXIMUM OF        100 MAX INT. ANGLE (IA)   TOLERANCE LIMIT VIOLATIONS WILL BE IDENTIFIED BY THE FLAG "++++"
+                             PLACED AFTER THE VALUE METRIC FOR THE TEST.
+     A MAXIMUM OF        100 WARPING FACTOR (WF)   TOLERANCE LIMIT VIOLATIONS WILL BE IDENTIFIED BY THE FLAG "++++"
+                             PLACED AFTER THE VALUE METRIC FOR THE TEST.
+     A MAXIMUM OF        100 TAPER RATIO (TR)      TOLERANCE LIMIT VIOLATIONS WILL BE IDENTIFIED BY THE FLAG "++++"
+                             PLACED AFTER THE VALUE METRIC FOR THE TEST.
+     USER INFORMATION: THE MAXIMUM MESSAGE COUNT FOR ANY ONE ELEMENT ERROR TEST COULD BE EXCEEDED BY THE 
+     CUMULATIVE EFFECT OF ALL THE MESSAGES GENERATED FOR ALL OF THE DIFFERENT TESTS PERFORMED.
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     5
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+     TOLERANCE LIMITS ARE:  SA =  30.00, IA(MIN) =  30.00, IA(MAX) = 150.00, WF =   0.05, TR =   0.50 (FLAG = LIMIT VIOLATED)
+ ELEMENT TYPE    ID          SKEW ANGLE      MIN INT. ANGLE    MAX INT. ANGLE    WARPING FACTOR      TAPER RATIO  
+    QUAD4          73        30.30             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4          78        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4          83        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4          84        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4          86        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4          87        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         287        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4         292        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4         297        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         298        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         300        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         301        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         501        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4         506        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4         511        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         512        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         514        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         515        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         715        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4         720        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4         725        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         726        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         728        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         729        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         929        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4         934        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4         939        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         940        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4         942        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4         943        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1143        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        1148        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4        1153        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1154        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1156        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1157        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1357        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        1362        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4        1367        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1368        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1370        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1371        32.69             30.92            150.31 ++++         0.00              0.08     
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     6
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+     TOLERANCE LIMITS ARE:  SA =  30.00, IA(MIN) =  30.00, IA(MAX) = 150.00, WF =   0.05, TR =   0.50 (FLAG = LIMIT VIOLATED)
+ ELEMENT TYPE    ID          SKEW ANGLE      MIN INT. ANGLE    MAX INT. ANGLE    WARPING FACTOR      TAPER RATIO  
+    QUAD4        1571        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        1576        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4        1581        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1582        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1584        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1585        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1785        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        1790        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4        1795        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1796        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1798        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        1799        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        1999        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        2004        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4        2009        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        2010        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        2012        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        2013        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        2213        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        2218        30.29             29.99 ++++       151.66 ++++         0.00              0.07     
+    QUAD4        2223        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        2224        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        2226        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        2227        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        2427        30.30             30.00 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        2432        30.30             29.99 ++++       151.65 ++++         0.00              0.07     
+    QUAD4        2437        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        2438        32.69             30.92            150.31 ++++         0.00              0.08     
+    QUAD4        2440        30.16             28.64 ++++       152.64 ++++         0.00              0.09     
+    QUAD4        2441        32.69             30.92            150.31 ++++         0.00              0.08     
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     7
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+
+
+                            E L E M E N T   G E O M E T R Y   T E S T   R E S U L T S   S U M M A R Y
+                                        TOTAL NUMBER OF TIMES TOLERANCES WERE EXCEEDED
+  ELEMENT        SKEW       ASPECT/     MINIMUM      MAXIMUM    SURFACE/FACE    OFFSET     EDGE POINT   EDGE POINT    JACOBIAN  
+    TYPE       ANGLE      TAPER RATIO INTER. ANGLE INTER. ANGLE  WARP FACTOR    RATIO     LENGTH RATIO ANGLE LIMIT  DETERMINANT 
+   QUAD4           0            0           48           72            0          N/A          N/A          N/A          N/A        
+   TRIA3           0          N/A          N/A            0          N/A          N/A          N/A          N/A          N/A        
+
+         N/A IN THE ABOVE TABLE INDICATES TESTS THAT ARE NOT APPLICABLE TO THE ELEMENT TYPE AND WERE NOT PERFORMED.
+         FOR ALL ELEMENTS WHERE GEOMETRY TEST RESULTS HAVE EXCEEDED TOLERANCES,
+
+         QUAD4    ELEMENT ID     1581 PRODUCED SMALLEST INTERIOR ANGLE   OF      28.64 (TOLERANCE =       30.00).
+         QUAD4    ELEMENT ID     1581 PRODUCED LARGEST  INTERIOR ANGLE   OF     152.64 (TOLERANCE =      150.00).
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     8
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+ *** USER INFORMATION MESSAGE 7310 (VECPRN)
+     ORIGIN OF SUPERELEMENT OR MODULE BASIC COORDINATE SYSTEM WILL BE USED AS REFERENCE LOCATION.
+     RESULTANTS ABOUT ORIGIN OF SUPERELEMENT OR MODULE BASIC COORDINATE SYSTEM IN SUPERELEMENT OR MODULE
+     BASIC SYSTEM COORDINATES.
+0                                                  OLOAD    RESULTANT       
+  SUBCASE/    LOAD
+  DAREA ID    TYPE       T1            T2            T3            R1            R2            R3
+0        1     FX    0.000000E+00     ----          ----          ----       0.000000E+00  0.000000E+00                             
+               FY       ----       0.000000E+00     ----       0.000000E+00     ----       0.000000E+00                             
+               FZ       ----          ----      -1.500000E+01 -9.536743E-06 -4.005432E-05     ----                                  
+               MX       ----          ----          ----       0.000000E+00     ----          ----                                  
+               MY       ----          ----          ----          ----       0.000000E+00     ----                                  
+               MZ       ----          ----          ----          ----          ----       0.000000E+00                             
+             TOTALS  0.000000E+00  0.000000E+00 -1.500000E+01 -9.536743E-06 -4.005432E-05  0.000000E+00
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE     9
+      LINEAR-STATIC                                                                                                                 
+0     LINEAR-STATIC                                                                                          SUBCASE 1              
+0                                         G R I D   P O I N T   S I N G U L A R I T Y   T A B L E
+0                             POINT    TYPE   FAILED      STIFFNESS       OLD USET           NEW USET
+                               ID            DIRECTION      RATIO     EXCLUSIVE  UNION   EXCLUSIVE  UNION
+                             7000        G      1         0.00E+00          B        F         SB       S    *
+                             7000        G      2         0.00E+00          B        F         SB       S    *
+                             7000        G      6         0.00E+00          B        F         SB       S    *
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE    10
+      LINEAR-STATIC                                                                                                                 
+0     LINEAR-STATIC                                                                                          SUBCASE 1              
+  
+ *** SYSTEM INFORMATION MESSAGE 4159 (DFMSA)
+     THE DECOMPOSITION OF KLL      YIELDS A MAXIMUM MATRIX-TO-FACTOR-DIAGONAL RATIO OF    3.197685E+02
+ *** USER INFORMATION MESSAGE 5293 (SSG3A)
+    FOR DATA BLOCK KLL     
+    LOAD SEQ. NO.             EPSILON              EXTERNAL WORK      EPSILONS LARGER THAN 0.001 ARE FLAGGED WITH ASTERISKS
+                1         -2.5549034E-14          2.0160278E+00
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE    11
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+ *** USER INFORMATION MESSAGE 7310 (VECPRN)
+     ORIGIN OF SUPERELEMENT OR MODULE BASIC COORDINATE SYSTEM WILL BE USED AS REFERENCE LOCATION.
+     RESULTANTS ABOUT ORIGIN OF SUPERELEMENT OR MODULE BASIC COORDINATE SYSTEM IN SUPERELEMENT OR MODULE
+     BASIC SYSTEM COORDINATES.
+0                                                  SPCFORCE RESULTANT       
+  SUBCASE/    LOAD
+  DAREA ID    TYPE       T1            T2            T3            R1            R2            R3
+0        1     FX   -5.784435E-14     ----          ----          ----      -4.110323E-01 -8.346156E-05                             
+               FY       ----       3.978762E-14     ----      -3.331049E+01     ----       8.346157E-05                             
+               FZ       ----          ----       1.500000E+01  3.331049E+01  4.110723E-01     ----                                  
+               MX       ----          ----          ----       0.000000E+00     ----          ----                                  
+               MY       ----          ----          ----          ----       0.000000E+00     ----                                  
+               MZ       ----          ----          ----          ----          ----       0.000000E+00                             
+             TOTALS -5.784435E-14  3.978762E-14  1.500000E+01  9.536714E-06  4.005433E-05  1.383510E-11
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE    12
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+0                                                  MAXIMUM  SPCFORCES       
+  SUBCASE/
+  DAREA ID        T1             T2             T3             R1             R2             R3
+0        1   9.4503114E-03  1.1896602E-01  5.6535353E-01  0.0000000E+00  0.0000000E+00  0.0000000E+00
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE    13
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+0                                                  MAXIMUM  DISPLACEMENTS   
+  SUBCASE/
+  DAREA ID        T1             T2             T3             R1             R2             R3
+0        1   3.5266005E-01  4.1719675E-01  2.7450815E-01  1.1515206E-02  1.1140824E-02  8.8823674E-03
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE    14
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+0                                                  MAXIMUM  APPLIED LOADS   
+  SUBCASE/
+  DAREA ID        T1             T2             T3             R1             R2             R3
+0        1   0.0000000E+00  0.0000000E+00  1.5000000E+01  0.0000000E+00  0.0000000E+00  0.0000000E+00
+1    MSC.NASTRAN JOB CREATED ON 29-NOV-21 AT 13:21:15   **STUDENT EDITION* NOVEMBER  29, 2021  MSC Nastran  8/ 4/20   PAGE    15
+      LINEAR-STATIC                                                                                                                 
+0                                                                                                                                   
+ * * * *  D B D I C T   P R I N T  * * * *      SUBDMAP = PRTSUM  ,  DMAP STATEMENT NO.     71
+
+
+
+0                                   * * * *  A N A L Y S I S  S U M M A R Y  T A B L E  * * * *
+0 SEID  PEID PROJ VERS APRCH      SEMG SEMR SEKR SELG SELR MODES DYNRED SOLLIN PVALID SOLNL LOOPID DESIGN CYCLE SENSITIVITY
+ --------------------------------------------------------------------------------------------------------------------------
+     0     0    1    1 '        '    T    T    T    T    T     F      F      T      0     F     -1            0           F
+0SEID = SUPERELEMENT ID.
+ PEID = PRIMARY SUPERELEMENT ID OF IMAGE SUPERELEMENT.
+ PROJ = PROJECT ID NUMBER.
+ VERS = VERSION ID.
+ APRCH = BLANK FOR STRUCTURAL ANALYSIS.  HEAT FOR HEAT TRANSFER ANALYSIS.
+ SEMG = STIFFNESS AND MASS MATRIX GENERATION STEP.
+ SEMR = MASS MATRIX REDUCTION STEP (INCLUDES EIGENVALUE SOLUTION FOR MODES).
+ SEKR = STIFFNESS MATRIX REDUCTION STEP.
+ SELG = LOAD MATRIX GENERATION STEP.
+ SELR = LOAD MATRIX REDUCTION STEP. 
+ MODES = T (TRUE) IF NORMAL MODES OR BUCKLING MODES CALCULATED.
+ DYNRED = T (TRUE) MEANS GENERALIZED DYNAMIC AND/OR COMPONENT MODE REDUCTION PERFORMED.
+ SOLLIN = T (TRUE) IF LINEAR SOLUTION EXISTS IN DATABASE.
+ PVALID = P-DISTRIBUTION ID OF P-VALUE FOR P-ELEMENTS
+ LOOPID = THE LAST LOOPID VALUE USED IN THE NONLINEAR ANALYSIS.  USEFUL FOR RESTARTS.
+ SOLNL = T (TRUE) IF NONLINEAR SOLUTION EXISTS IN DATABASE.
+ DESIGN CYCLE = THE LAST DESIGN CYCLE (ONLY VALID IN OPTIMIZATION).
+ SENSITIVITY = SENSITIVITY MATRIX GENERATION FLAG.
+ 
+ No PARAM values were set in the Control File.
+ 
+1                                        * * * END OF JOB * * *
+ 
+ 
+ No Symbolic Replacement variables or values were specified.
+

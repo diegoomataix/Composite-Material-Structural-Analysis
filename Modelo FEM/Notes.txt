@@ -17,3 +17,5 @@ Notes:
 *********** Results ***********
 - Tiene sentido?
 - Reduzco laminado?
+- cosas con *** en .f06
+- Failure indices?
