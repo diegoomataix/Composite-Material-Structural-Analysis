@@ -14733,3 +14733,802 @@ ga_view_center_set( -183.943832, 15.142891 )
 ga_view_zoom_set( 230.898270 )
 ga_view_center_set( -140.292587, 4.888985 )
 ga_view_zoom_set( 205.242905 )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+ga_view_center_set( -96.000748, 12.466194 )
+ga_view_zoom_set( 182.438141 )
+uil_toolbar.shaded_smooth(  )
+uil_toolbar.wireframe(  )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+ga_view_center_set( -2.234297, -9.937469 )
+ga_view_zoom_set( 180.408096 )
+ga_view_center_set( -4.679647, -7.653000 )
+ga_view_zoom_set( 160.362747 )
+ga_view_center_set( -6.910488, -5.507950 )
+ga_view_zoom_set( 142.544662 )
+ga_view_center_set( -8.944307, -3.397858 )
+ga_view_zoom_set( 126.706367 )
+ga_view_center_set( -10.887735, 5.076355 )
+ga_view_zoom_set( 112.627884 )
+ga_view_center_set( -12.615221, 12.608994 )
+ga_view_zoom_set( 100.113678 )
+ga_view_center_set( -16.384302, 29.043816 )
+ga_view_zoom_set( 72.809944 )
+ga_view_center_set( -17.501057, 33.913391 )
+ga_view_zoom_set( 64.719948 )
+ga_view_center_set( -16.069752, 35.864124 )
+ga_view_zoom_set( 57.528843 )
+ga_view_center_set( -18.216694, 34.629051 )
+ga_view_zoom_set( 64.719948 )
+ga_view_center_set( -20.632023, 33.239594 )
+ga_view_zoom_set( 72.809944 )
+ga_view_center_set( -26.066441, 30.113327 )
+ga_view_zoom_set( 91.012428 )
+ga_view_center_set( -29.462986, 28.159409 )
+ga_view_zoom_set( 102.388985 )
+ga_view_center_set( -32.955391, 25.796936 )
+ga_view_zoom_set( 115.187607 )
+ga_view_center_set( -36.884350, 23.139130 )
+ga_view_zoom_set( 129.586060 )
+ga_view_center_set( -41.304398, 20.149109 )
+ga_view_zoom_set( 145.784317 )
+ga_view_center_set( -51.249619, 13.421509 )
+ga_view_zoom_set( 182.230392 )
+ga_view_center_set( -41.655384, 34.306351 )
+ga_view_zoom_set( 145.784317 )
+ga_view_center_set( -37.443317, 43.640503 )
+ga_view_zoom_set( 129.586060 )
+ga_view_center_set( -34.022820, 52.723328 )
+ga_view_zoom_set( 115.187607 )
+ga_view_center_set( -28.550041, 67.255829 )
+ga_view_zoom_set( 92.150085 )
+ga_view_center_set( -26.117683, 73.714714 )
+ga_view_zoom_set( 81.911186 )
+ga_view_center_set( -23.955605, 79.455963 )
+ga_view_zoom_set( 72.809944 )
+ga_view_center_set( -22.033716, 83.676292 )
+ga_view_zoom_set( 64.719948 )
+ga_view_center_set( -20.348478, 87.312263 )
+ga_view_zoom_set( 57.528843 )
+ga_view_center_set( -18.871019, 90.482674 )
+ga_view_zoom_set( 51.136749 )
+ga_view_center_set( -17.557713, 93.264336 )
+ga_view_zoom_set( 45.454887 )
+ga_view_center_set( -15.984984, 95.007309 )
+ga_view_zoom_set( 40.404343 )
+ga_view_center_set( -14.587021, 96.542206 )
+ga_view_zoom_set( 35.914970 )
+ga_view_center_set( -13.344383, 97.880943 )
+ga_view_zoom_set( 31.924417 )
+ga_view_center_set( -12.182865, 98.592674 )
+ga_view_zoom_set( 28.377260 )
+ga_view_center_set( -11.160540, 99.205070 )
+ga_view_zoom_set( 25.224232 )
+ga_view_center_set( -9.524813, 100.152527 )
+ga_view_zoom_set( 20.179386 )
+ga_view_center_set( -8.805019, 100.544838 )
+ga_view_zoom_set( 17.937233 )
+ga_view_aa_set( -67.631958, 2.366303, 122.218208 )
+ga_view_center_set( -9.503220, 101.390617 )
+ga_view_zoom_set( 20.179386 )
+ga_view_center_set( -10.288692, 102.342102 )
+ga_view_zoom_set( 22.701809 )
+ga_view_center_set( -12.056011, 104.482941 )
+ga_view_zoom_set( 28.377262 )
+ga_view_center_set( -14.265144, 107.158981 )
+ga_view_zoom_set( 35.471577 )
+ga_view_center_set( -15.645866, 108.788803 )
+ga_view_zoom_set( 39.905525 )
+ga_view_center_set( -17.199162, 110.622360 )
+ga_view_zoom_set( 44.893715 )
+ga_view_center_set( -18.964647, 112.685112 )
+ga_view_zoom_set( 50.505428 )
+ga_view_center_set( -20.950823, 115.005699 )
+ga_view_zoom_set( 56.818607 )
+ga_view_center_set( -23.960466, 117.433945 )
+ga_view_zoom_set( 63.920933 )
+ga_view_center_set( -27.346331, 120.165718 )
+ga_view_zoom_set( 71.911049 )
+ga_view_center_set( -31.155428, 123.238960 )
+ga_view_zoom_set( 80.899933 )
+ga_view_center_set( -35.440662, 126.696365 )
+ga_view_zoom_set( 91.012421 )
+ga_view_center_set( -19.968555, 83.010399 )
+verify_boundaries_display_mgr.erase(  )
+INTEGER fem_verify_duplicates_num_dupl
+STRING fem_verify_duplicates_keep_ids[VIRTUAL]
+STRING fem_verify_duplicates_toss_ids[VIRTUAL]
+fem_verify_element_duplicates( TRUE, TRUE, fem_verify_duplicates_num_dupl,  @
+fem_verify_duplicates_keep_ids, fem_verify_duplicates_toss_ids )
+$# 576 duplicate element pairs detected in the model.
+$# elements to be deleted: 215:218,327:343,375:388,402:414,429:432,541:557,
+$# 589:602,616:628,643:646,755:771,803:816,830:842,857:860,969:985,1017:1030,
+$# 1044:1056,1071:1074,1183:1199,1231:1244,1258:1270,1285:1288,1397:1413,
+$# 1445:1458,1472:1484,1499:1502,1611:1627,1659:1672,1686:1698,1713:1716,
+$# 1825:1841,1873:1886,1900:1912,1927:1930,2039:2055,2087:2100,2114:2126,
+$# 2141:2144,2253:2269,2301:2314,2328:2340,2355:2358,2370:2373,2467:2554
+$# elements to be retained: 1:4,16:19,113:200,230:233,344:374,389:401,444:447,
+$# 558:588,603:615,658:661,772:802,817:829,872:875,986:1016,1031:1043,
+$# 1086:1089,1200:1230,1245:1257,1300:1303,1414:1444,1459:1471,1514:1517,
+$# 1628:1658,1673:1685,1728:1731,1842:1872,1887:1899,1942:1945,2056:2086,
+$# 2101:2113,2156:2159,2270:2300,2315:2327
+$# 576 duplicate elements deleted.
+ga_view_center_set( -41.333805, 84.343452 )
+ga_view_zoom_set( 102.388977 )
+ga_view_center_set( -65.082138, 85.884224 )
+ga_view_zoom_set( 115.187599 )
+ga_view_center_set( -91.799057, 87.617592 )
+ga_view_zoom_set( 129.586044 )
+ga_view_center_set( -65.174637, 86.623795 )
+ga_view_zoom_set( 115.187592 )
+ga_view_center_set( -41.508499, 85.740425 )
+ga_view_zoom_set( 102.388969 )
+ga_view_center_set( -20.471939, 84.991753 )
+ga_view_zoom_set( 91.012421 )
+ga_view_center_set( -1.772781, 84.326256 )
+ga_view_zoom_set( 80.899933 )
+gm_hilight_clear(  )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+ga_view_center_set( -1.888214, 87.428360 )
+ga_view_zoom_set( 71.911049 )
+ga_view_center_set( -2.119074, 90.237106 )
+ga_view_zoom_set( 63.920933 )
+ga_view_center_set( -2.438286, 92.802139 )
+ga_view_zoom_set( 56.818607 )
+ga_view_center_set( -2.985487, 95.487534 )
+ga_view_zoom_set( 50.505428 )
+ga_view_center_set( -3.471897, 97.874542 )
+ga_view_zoom_set( 44.893715 )
+ga_view_center_set( -3.904264, 99.996323 )
+ga_view_zoom_set( 39.905525 )
+ga_view_center_set( -4.288576, 101.853897 )
+ga_view_zoom_set( 35.471577 )
+ga_view_center_set( -4.630197, 103.505081 )
+ga_view_zoom_set( 31.530291 )
+ga_view_center_set( -5.136301, 106.126709 )
+ga_view_zoom_set( 25.224232 )
+ga_view_center_set( -5.065437, 104.815918 )
+ga_view_zoom_set( 28.377260 )
+ga_view_center_set( -4.997119, 103.341270 )
+ga_view_zoom_set( 31.924417 )
+ga_view_center_set( -4.920248, 101.682289 )
+ga_view_zoom_set( 35.914970 )
+ga_view_center_set( -4.747300, 97.949562 )
+ga_view_zoom_set( 44.893715 )
+ga_view_center_set( -4.639198, 95.616615 )
+ga_view_zoom_set( 50.505428 )
+ga_view_center_set( -6.503778, 91.421349 )
+ga_view_zoom_set( 63.131786 )
+ga_view_center_set( -7.871801, 88.824638 )
+ga_view_zoom_set( 71.023262 )
+ga_view_center_set( -14.084919, 82.982033 )
+ga_view_zoom_set( 88.779076 )
+verify_boundaries_display_mgr.erase(  )
+fem_verify_element_duplicates( FALSE, TRUE, fem_verify_duplicates_num_dupl,  @
+fem_verify_duplicates_keep_ids, fem_verify_duplicates_toss_ids )
+$# There are NO duplicate elements in the model.
+ga_view_center_set( -28.584553, 84.175499 )
+ga_view_zoom_set( 99.876457 )
+ga_view_center_set( -44.816486, 85.638382 )
+ga_view_zoom_set( 112.361015 )
+ga_view_center_set( -63.032337, 87.329201 )
+ga_view_zoom_set( 126.406143 )
+ga_view_center_set( -83.525131, 89.231384 )
+ga_view_zoom_set( 142.206909 )
+ga_view_center_set( -118.506210, 89.773499 )
+ga_view_zoom_set( 159.982773 )
+ga_view_center_set( -155.934006, 91.603165 )
+ga_view_zoom_set( 179.980621 )
+ga_view_center_set( -197.245758, 94.167114 )
+ga_view_zoom_set( 202.478195 )
+ga_view_center_set( -122.328888, 1.027136 )
+fem_verify_reset_graphics( "SHADED", "default_group", 0, "default_viewport" )
+STRING fem_verify_el_ids_group_label[32]
+REAL fem_verify_el_ids_min_value
+INTEGER fem_verify_el_ids_min_el_id
+REAL fem_verify_el_ids_max_value
+INTEGER fem_verify_el_ids_max_el_id
+INTEGER fem_verify_el_ids_table_id
+fem_verify_el_ids( fem_verify_el_ids_group_label, fem_verify_el_ids_min_value, @
+ fem_verify_el_ids_min_el_id, fem_verify_el_ids_max_value,  @
+fem_verify_el_ids_max_el_id, fem_verify_el_ids_table_id )
+res_data_load_elem_scalar( 0, fem_verify_el_ids_table_id )
+res_data_title( 0, "ENodal", "Scalar", 1, ["Verify Element Ids"] )
+res_display_fringe_create( "", "FreeFaces", 1, ["GR:default_group"], 12, [ @
+"Range:Fri_default_Fringe", "RangeOverwrite:ON", "FringeStyle:Discrete/Smooth" @
+, "Shade:None", "ElemEdge:FreeEdge,Blue,Solid,1", "Shrink:0",  @
+"TitleDisplay:ON", "MinMaxDisplay:ON", "ValueDisplay:OFF", "Filter:None",  @
+"ScaleFactor:1.0", "LabelStyle:Integer,12,White,3"], TRUE )
+ga_range_calculate_auto( 15, 0, 0, 0, 214., 1., 0., 0., [0., 0., 0., 0., 0.,  @
+0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], [0., 0., 0., 0., 0., 0., 0., 0., 0.,  @
+0., 0., 0., 0., 0., 0.], [0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,  @
+0., 0.] )
+ga_db_range_set_label_style_m( 1, 7, 2, 12, 3, 0, "Fri_default_Fringe" )
+$# Error reported in application Group Applications by application Database
+$#     Range not found
+$? NO 13000057 
+ga_db_range_set_attributes_m( 1, 1, 1, 0, 0, "Fri_default_Fringe" )
+$# Error reported in application Group Applications by application Database
+$#     Range not found
+$? NO 13000057 
+ga_db_range_set_threshold_m( 1, 0, 0, 0., 0., 0, 0, "", "", 0,  @
+"Fri_default_Fringe" )
+$# Error reported in application Group Applications by application Database
+$#     Range not found
+$? NO 13000057 
+ga_db_range_set_data_method_m( 1, 0, 2, 0, 0, [214., 1.], [0], [""], 15, 0,  @
+"Fri_default_Fringe" )
+$# Error reported in application Group Applications by application Database
+$#     Range not found
+$? NO 13000057 
+ga_db_range_set_subranges_flt_m( 15, [214., 199.8, 185.60001, 171.39999,  @
+157.2, 143., 128.8, 114.6, 100.4, 86.199997, 72., 57.799999, 43.599998, 29.4,  @
+15.2], [199.8, 185.60001, 171.39999, 157.2, 143., 128.8, 114.6, 100.4,  @
+86.199997, 72., 57.799999, 43.599998, 29.4, 15.2, 1.], [206.89999, 192.70001,  @
+178.5, 164.29999, 150.10001, 135.89999, 121.7, 107.5, 93.300003, 79.099998,  @
+64.900002, 50.699997, 36.5, 22.299999, 8.1000004], 0, "Fri_default_Fringe" )
+$# Error reported in application Ranges by application Database
+$#     Range not found
+$? NO 13000057 
+res_display_fringe_post( "", 0, "ENodal", TRUE, TRUE )
+ga_view_center_set( -148.654266, 3.180311 )
+ga_view_zoom_set( 227.787964 )
+ga_view_center_set( -178.270355, 5.602621 )
+ga_view_zoom_set( 256.261475 )
+ga_view_aa_set( -53.893890, -29.100206, 24.631268 )
+ga_view_center_set( -158.252106, 5.922506 )
+ga_view_zoom_set( 227.787979 )
+ga_view_center_set( -126.369110, 6.726873 )
+ga_view_zoom_set( 182.230377 )
+ga_view_center_set( -101.564667, 8.540388 )
+ga_view_zoom_set( 145.784302 )
+ga_view_center_set( -93.608582, 12.154402 )
+ga_view_zoom_set( 129.586044 )
+ga_view_center_set( -80.878754, 17.936872 )
+ga_view_zoom_set( 103.668839 )
+ga_view_center_set( -75.221069, 20.506819 )
+ga_view_zoom_set( 92.150078 )
+ga_view_center_set( -70.191978, 22.791227 )
+ga_view_zoom_set( 81.911179 )
+ga_view_center_set( -79.724167, 25.108503 )
+ga_view_zoom_set( 92.150078 )
+ga_view_center_set( -90.447884, 27.715452 )
+ga_view_zoom_set( 103.668839 )
+ga_view_center_set( -114.576309, 33.581108 )
+ga_view_zoom_set( 129.586044 )
+ga_view_center_set( -129.656540, 37.247147 )
+ga_view_zoom_set( 145.784302 )
+ga_view_center_set( -147.148346, 42.541435 )
+ga_view_zoom_set( 164.007339 )
+ga_view_center_set( -166.826630, 48.497551 )
+ga_view_zoom_set( 184.508255 )
+ga_view_center_set( -188.964752, 55.198158 )
+ga_view_zoom_set( 207.571793 )
+ga_view_center_set( -213.370209, 62.653053 )
+ga_view_zoom_set( 233.518265 )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+ga_view_aa_set( -42.206783, -10.142304, 46.646397 )
+ga_view_center_set( 17.163441, -20.333443 )
+ga_view_zoom_set( 179.102936 )
+ga_view_center_set( 12.180378, -13.593567 )
+ga_view_zoom_set( 159.202606 )
+ga_view_center_set( 7.750999, -7.602516 )
+ga_view_zoom_set( 141.513428 )
+ga_view_center_set( 3.965172, -0.258087 )
+ga_view_zoom_set( 125.789711 )
+ga_view_center_set( 0.644886, 6.270332 )
+ga_view_zoom_set( 111.813080 )
+ga_view_center_set( -1.827866, 11.594749 )
+ga_view_zoom_set( 99.389404 )
+ga_view_center_set( -3.494129, 15.795792 )
+ga_view_zoom_set( 88.346138 )
+ga_view_center_set( -4.471027, 18.868286 )
+ga_view_zoom_set( 78.529900 )
+fem_verify_reset_graphics( "SHADED", "default_group", 0, "default_viewport" )
+verify_boundaries_display_mgr.initialize(  )
+verify_boundaries_display_mgr.plot( "Free_Edges" )
+ga_view_center_set( -2.874383, 21.375290 )
+ga_view_zoom_set( 69.804352 )
+ga_view_center_set( -1.504960, 23.603748 )
+ga_view_zoom_set( 62.048313 )
+ga_view_center_set( -0.309785, 25.606716 )
+ga_view_zoom_set( 55.154057 )
+ga_view_center_set( -0.951650, 24.289822 )
+ga_view_zoom_set( 62.048313 )
+ga_view_center_set( -2.395787, 21.326820 )
+ga_view_zoom_set( 77.560394 )
+ga_view_center_set( -3.298366, 19.474945 )
+ga_view_zoom_set( 87.255447 )
+ga_view_center_set( -4.313798, 17.391586 )
+ga_view_zoom_set( 98.162376 )
+ga_view_center_set( -5.022843, 14.969025 )
+ga_view_zoom_set( 110.432671 )
+ga_view_center_set( -5.820510, 12.243645 )
+ga_view_zoom_set( 124.236755 )
+ga_view_center_set( -6.717879, 9.177605 )
+ga_view_zoom_set( 139.766357 )
+ga_view_center_set( -11.597396, 6.513489 )
+ga_view_zoom_set( 157.237152 )
+uil_toolbar.hidden_line(  )
+ga_view_aa_set( -69.460014, -3.714711, -50.324112 )
+ga_view_center_set( -10.777144, 11.971336 )
+ga_view_zoom_set( 176.891800 )
+ga_view_center_set( -9.854293, 18.111420 )
+ga_view_zoom_set( 199.003281 )
+ga_view_center_set( -8.816150, 25.019028 )
+ga_view_zoom_set( 223.878693 )
+ga_view_center_set( -22.248871, -44.383369 )
+ga_view_aa_set( -58.289631, 2.957823, -36.927399 )
+ga_view_center_set( -19.134436, -29.969246 )
+ga_view_zoom_set( 199.003281 )
+ga_view_center_set( -16.366098, -16.304878 )
+ga_view_zoom_set( 176.891800 )
+ga_view_center_set( -13.779119, -0.372948 )
+ga_view_zoom_set( 157.237152 )
+ga_view_center_set( -11.479588, 13.788734 )
+ga_view_zoom_set( 139.766357 )
+ga_view_center_set( -9.435585, 26.376915 )
+ga_view_zoom_set( 124.236763 )
+verify_boundaries_display_mgr.erase(  )
+INTEGER fem_verify_duplicates_num_dupl
+STRING fem_verify_duplicates_keep_ids[VIRTUAL]
+STRING fem_verify_duplicates_toss_ids[VIRTUAL]
+fem_verify_element_duplicates( FALSE, TRUE, fem_verify_duplicates_num_dupl,  @
+fem_verify_duplicates_keep_ids, fem_verify_duplicates_toss_ids )
+$# There are NO duplicate elements in the model.
+fem_verify_reset_graphics( "SHADED", "default_group", 0, "default_viewport" )
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+$# Acknowledgement requested from application FEM Verify
+$#     At this time, the test for ASPECT and JACOBIAN values are not 
+$# available for the MSC.Nastran preference.  Using the MSC.Patran tests.
+$? NO 11111 
+uil_primary_file.db_save(  )
+ga_view_center_set( -21.450447, 23.211151 )
+ga_view_zoom_set( 139.766357 )
+ga_view_center_set( -34.911118, 20.098343 )
+ga_view_zoom_set( 157.237152 )
+ga_view_center_set( -50.054375, 16.596451 )
+ga_view_zoom_set( 176.891800 )
+ga_view_center_set( -67.090515, 13.082718 )
+ga_view_zoom_set( 199.003281 )
+ga_view_center_set( -86.256096, 9.129791 )
+ga_view_zoom_set( 223.878693 )
+ga_view_center_set( -107.817566, 4.682739 )
+ga_view_zoom_set( 251.863525 )
+ga_view_center_set( -132.074036, -0.320175 )
+ga_view_zoom_set( 283.346466 )
+uil_primary_file.db_save(  )
+ga_view_aa_set( -75.134315, -0.167323, -44.266762 )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+loadcase_create2( "BC", "Static", "", 1., [""], [0], [0.], "", 0., TRUE )
+$# Load Case "BC" created.
+ga_view_center_set( -109.030380, 17.922775 )
+ga_view_zoom_set( 251.863525 )
+ga_view_center_set( -88.547028, 34.138748 )
+ga_view_zoom_set( 223.878693 )
+ga_view_center_set( -69.780708, 50.150024 )
+ga_view_zoom_set( 199.003281 )
+ga_view_center_set( -53.099472, 64.382294 )
+ga_view_zoom_set( 176.891800 )
+ga_view_center_set( -38.271690, 77.033218 )
+ga_view_zoom_set( 157.237152 )
+ga_view_aa_set( -90., 0., 0. )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+$# Flushing the User Data Manager
+$# Journal file stopped recording at 29-Nov-21 13:13:54
+$# Appending to existing journal file C:\Users\diego\Dropbox\Academic\MEng 
+$# Space Systems\3. MUE - Materiales uso Espacial\Coursework\Modelo 
+$# FEM\Model\Cono_FEM.db.jou at 29-Nov-21 13:15:11
+$# Synchronizing the User Data Manager
+$# Error reported from application UserDataManager
+$#     The amount of instance data fails to match the template for ud_region
+$? NO 1000020000 
+set_current_dir( "C:\Users\diego\Dropbox\Academic\MEng Space Systems\3. MU" // @
+"E - Materiales uso Espacial\Coursework\Modelo FEM\Model" )
+$# The current working directory has been changed to the database location 
+$# shown.                                                                     
+$#                                                                            
+$#                                   
+gm_visibility_widget( " Node 1:376 393:505 507:526 528:536 538:567 569:572" // @
+" 604:658 683:705 729:752 769:881 883:902 904:912 914:943 945:948 980:1034" // @
+" 1059:1081 1105:1128 1145:1257 1259:1278 1280:1288 1290:1319 1321:1324 13" // @
+"56:1410 1435:1457 1481:1504 1521:1633 1635:1654 1656:1664 1666:1695 1697:" // @
+"1700 1732:1786 1811:1833 1857:1880 1897:2009 2011:2030 2032:2040 2042:207" // @
+"1 2073:2076 2108:2162 2187:2209 2233:2256 2273:2385 2387:2406 2408:2416 2" // @
+"418:2447 2449:2452 2484:2538 2563:2585 2609:2632 2649:2761 2763:2782 2784" // @
+":2792 2794:2823 2825:2828 2860:2914 2939:2961 2985:3008 3025:3137 3139:31" // @
+"58 3160:3168 3170:3199 3201:3204 3236:3290 3315:3337 3361:3384 3401:3513 " // @
+"3515:3534 3536:3544 3546:3575 3577:3580 3612:3666 3691:3713 3737:3760 377" // @
+"7:3889 3891:3910 3912:3920 3922:3951 3953:3956 3988:4042 4067:4089 4113:4" // @
+"136 4153:4167 4169 4185:4235 4237:4265 4267:4276 4278:4286 4288:4296 4298" // @
+":4309 4311:4314 4316:4327 4329:4332 4489:4512 Element 1:214 219:326 344:3" // @
+"74 389:401 415:428 433:540 558:588 603:615 629:642 647:754 772:802 817:82" // @
+"9 843:856 861:968 986:1016 1031:1043 1057:1070 1075:1182 1200:1230 1245:1" // @
+"257 1271:1284 1289:1396 1414:1444 1459:1471 1485:1498 1503:1610 1628:1658" // @
+" 1673:1685 1699:1712 1717:1824 1842:1872 1887:1899 1913:1926 1931:2038 20" // @
+"56:2086 2101:2113 2127:2140 2145:2252 2270:2300 2315:2327 2341:2354 2359:" // @
+"2369 2374:2466 2555:2568", FALSE )
+gm_visibility_widget( " Node 1:376 393:505 507:526 528:536 538:567 569:572" // @
+" 604:658 683:705 729:752 769:881 883:902 904:912 914:943 945:948 980:1034" // @
+" 1059:1081 1105:1128 1145:1257 1259:1278 1280:1288 1290:1319 1321:1324 13" // @
+"56:1410 1435:1457 1481:1504 1521:1633 1635:1654 1656:1664 1666:1695 1697:" // @
+"1700 1732:1786 1811:1833 1857:1880 1897:2009 2011:2030 2032:2040 2042:207" // @
+"1 2073:2076 2108:2162 2187:2209 2233:2256 2273:2385 2387:2406 2408:2416 2" // @
+"418:2447 2449:2452 2484:2538 2563:2585 2609:2632 2649:2761 2763:2782 2784" // @
+":2792 2794:2823 2825:2828 2860:2914 2939:2961 2985:3008 3025:3137 3139:31" // @
+"58 3160:3168 3170:3199 3201:3204 3236:3290 3315:3337 3361:3384 3401:3513 " // @
+"3515:3534 3536:3544 3546:3575 3577:3580 3612:3666 3691:3713 3737:3760 377" // @
+"7:3889 3891:3910 3912:3920 3922:3951 3953:3956 3988:4042 4067:4089 4113:4" // @
+"136 4153:4167 4169 4185:4235 4237:4265 4267:4276 4278:4286 4288:4296 4298" // @
+":4309 4311:4314 4316:4327 4329:4332 4489:4512 Element 1:214 219:326 344:3" // @
+"74 389:401 415:428 433:540 558:588 603:615 629:642 647:754 772:802 817:82" // @
+"9 843:856 861:968 986:1016 1031:1043 1057:1070 1075:1182 1200:1230 1245:1" // @
+"257 1271:1284 1289:1396 1414:1444 1459:1471 1485:1498 1503:1610 1628:1658" // @
+" 1673:1685 1699:1712 1717:1824 1842:1872 1887:1899 1913:1926 1931:2038 20" // @
+"56:2086 2101:2113 2127:2140 2145:2252 2270:2300 2315:2327 2341:2354 2359:" // @
+"2369 2374:2466 2555:2568", TRUE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", TRUE )
+gm_visibility_widget( " Point 3:4 35 37 42:43 48 58:60 69:70 73:75 84:85 8" // @
+"8 97:151  Surface 56 59 63 68 73 78 80:82 87:89 95 106:107 109 112:114 11" // @
+"6:117 120:121 126 128:131 133 136 138 140:142 144 146 148:149 151 154", FALSE )
+gm_visibility_widget( " Node 1:376 393:505 507:526 528:536 538:567 569:572" // @
+" 604:658 683:705 729:752 769:881 883:902 904:912 914:943 945:948 980:1034" // @
+" 1059:1081 1105:1128 1145:1257 1259:1278 1280:1288 1290:1319 1321:1324 13" // @
+"56:1410 1435:1457 1481:1504 1521:1633 1635:1654 1656:1664 1666:1695 1697:" // @
+"1700 1732:1786 1811:1833 1857:1880 1897:2009 2011:2030 2032:2040 2042:207" // @
+"1 2073:2076 2108:2162 2187:2209 2233:2256 2273:2385 2387:2406 2408:2416 2" // @
+"418:2447 2449:2452 2484:2538 2563:2585 2609:2632 2649:2761 2763:2782 2784" // @
+":2792 2794:2823 2825:2828 2860:2914 2939:2961 2985:3008 3025:3137 3139:31" // @
+"58 3160:3168 3170:3199 3201:3204 3236:3290 3315:3337 3361:3384 3401:3513 " // @
+"3515:3534 3536:3544 3546:3575 3577:3580 3612:3666 3691:3713 3737:3760 377" // @
+"7:3889 3891:3910 3912:3920 3922:3951 3953:3956 3988:4042 4067:4089 4113:4" // @
+"136 4153:4167 4169 4185:4235 4237:4265 4267:4276 4278:4286 4288:4296 4298" // @
+":4309 4311:4314 4316:4327 4329:4332 4489:4512 Element 1:214 219:326 344:3" // @
+"74 389:401 415:428 433:540 558:588 603:615 629:642 647:754 772:802 817:82" // @
+"9 843:856 861:968 986:1016 1031:1043 1057:1070 1075:1182 1200:1230 1245:1" // @
+"257 1271:1284 1289:1396 1414:1444 1459:1471 1485:1498 1503:1610 1628:1658" // @
+" 1673:1685 1699:1712 1717:1824 1842:1872 1887:1899 1913:1926 1931:2038 20" // @
+"56:2086 2101:2113 2127:2140 2145:2252 2270:2300 2315:2327 2341:2354 2359:" // @
+"2369 2374:2466 2555:2568", FALSE )
+gm_visibility_widget( " Node 1:376 393:505 507:526 528:536 538:567 569:572" // @
+" 604:658 683:705 729:752 769:881 883:902 904:912 914:943 945:948 980:1034" // @
+" 1059:1081 1105:1128 1145:1257 1259:1278 1280:1288 1290:1319 1321:1324 13" // @
+"56:1410 1435:1457 1481:1504 1521:1633 1635:1654 1656:1664 1666:1695 1697:" // @
+"1700 1732:1786 1811:1833 1857:1880 1897:2009 2011:2030 2032:2040 2042:207" // @
+"1 2073:2076 2108:2162 2187:2209 2233:2256 2273:2385 2387:2406 2408:2416 2" // @
+"418:2447 2449:2452 2484:2538 2563:2585 2609:2632 2649:2761 2763:2782 2784" // @
+":2792 2794:2823 2825:2828 2860:2914 2939:2961 2985:3008 3025:3137 3139:31" // @
+"58 3160:3168 3170:3199 3201:3204 3236:3290 3315:3337 3361:3384 3401:3513 " // @
+"3515:3534 3536:3544 3546:3575 3577:3580 3612:3666 3691:3713 3737:3760 377" // @
+"7:3889 3891:3910 3912:3920 3922:3951 3953:3956 3988:4042 4067:4089 4113:4" // @
+"136 4153:4167 4169 4185:4235 4237:4265 4267:4276 4278:4286 4288:4296 4298" // @
+":4309 4311:4314 4316:4327 4329:4332 4489:4512 Element 1:214 219:326 344:3" // @
+"74 389:401 415:428 433:540 558:588 603:615 629:642 647:754 772:802 817:82" // @
+"9 843:856 861:968 986:1016 1031:1043 1057:1070 1075:1182 1200:1230 1245:1" // @
+"257 1271:1284 1289:1396 1414:1444 1459:1471 1485:1498 1503:1610 1628:1658" // @
+" 1673:1685 1699:1712 1717:1824 1842:1872 1887:1899 1913:1926 1931:2038 20" // @
+"56:2086 2101:2113 2127:2140 2145:2252 2270:2300 2315:2327 2341:2354 2359:" // @
+"2369 2374:2466 2555:2568", TRUE )
+uil_toolbar.wireframe(  )
+ga_view_center_set( 3.415710, 6.981277 )
+ga_view_zoom_set( 149.333328 )
+ga_view_center_set( 6.185577, 13.133591 )
+ga_view_zoom_set( 132.740738 )
+ga_view_center_set( 8.032166, 17.986794 )
+ga_view_zoom_set( 117.991768 )
+ga_view_center_set( 6.474915, 19.060028 )
+ga_view_zoom_set( 104.881569 )
+ga_view_center_set( 5.090714, 20.014015 )
+ga_view_zoom_set( 93.228058 )
+ga_view_center_set( 2.875992, 21.540375 )
+ga_view_zoom_set( 74.582443 )
+ga_view_center_set( 9.550125, 16.108299 )
+ga_view_zoom_set( 83.905251 )
+ga_view_center_set( 17.058487, 9.997231 )
+ga_view_zoom_set( 94.393410 )
+ga_view_center_set( 25.505417, 3.122261 )
+ga_view_zoom_set( 106.192589 )
+ga_view_center_set( 35.008255, -4.612061 )
+ga_view_zoom_set( 119.466660 )
+ga_view_center_set( 44.548340, -11.443527 )
+ga_view_zoom_set( 134.399994 )
+ga_view_center_set( 55.280914, -19.128937 )
+ga_view_zoom_set( 151.199997 )
+ga_view_center_set( 67.355103, -27.774994 )
+ga_view_zoom_set( 170.099991 )
+ga_view_center_set( 19.727097, -2.259991 )
+cf_rbe_spider.create_mpc_spider( 7000, 1, "RBE2", ["0", "0"],  @
+"Node 3 4 47 48 52:54 423 424 428:430 799 800 804:806 1175 1176 1180:1182 " // @
+"1551 1552 1556:1558 1927 1928 1932:1934 2303 2304 2308:2310 2679 2680 268" // @
+"4:2686 3055 3056 3060:3062 3431 3432 3436:3438 3807 3808 3812:3814 4188:4" // @
+"190 ", ["UZ", ""], 1, "", FALSE )
+$# === 1 node created.  ID = 7000.
+$# MPC 1 created.
+ga_view_aa_set( -64.066330, 1.329998, 8.860969 )
+uil_toolbar.shaded_smooth(  )
+ga_view_center_set( -29.601906, 94.696991 )
+ga_view_center_set( -18.559250, 97.336304 )
+ga_view_zoom_set( 151.199997 )
+ga_view_center_set( -8.743492, 99.682373 )
+ga_view_zoom_set( 134.399994 )
+ga_view_center_set( -0.066307, 101.767761 )
+ga_view_zoom_set( 119.466660 )
+ga_view_center_set( 7.646675, 103.621429 )
+ga_view_zoom_set( 106.192589 )
+ga_view_center_set( 14.426910, 105.647942 )
+ga_view_zoom_set( 94.393410 )
+ga_view_center_set( 25.275337, 108.890350 )
+ga_view_zoom_set( 75.514725 )
+ga_view_center_set( 30.096832, 110.331413 )
+ga_view_zoom_set( 67.124199 )
+ga_view_center_set( 34.382637, 111.612366 )
+ga_view_zoom_set( 59.665955 )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+ga_view_aa_set( -40.558586, 5.813416, 16.740410 )
+loadsbcs_create2( "Force_15kN", "Force", "Nodal", "", "Static", ["Node 7000"], @
+ "FEM", "Coord 0", "1.", ["< ,,-15    >", "<     >", "<     >", "<     >"], [ @
+"", "", "", ""] )
+$# Load/BC set "Force_15kN" created.
+ga_view_aa_set( -90.166870, 3.454190, 11.392473 )
+uil_primary_file.db_save(  )
+$# Reclaimed 1.04 MB of 3.59 MB.
+ga_view_center_set( -9.770166, 103.855782 )
+ga_view_aa_set( -70.121529, 2.894274, 10.502853 )
+ga_view_center_set( -23.202219, 105.376137 )
+ga_view_zoom_set( 67.124199 )
+ga_view_aa_set( -90., 0., 0. )
+ga_view_center_set( -25.303217, 104.985573 )
+ga_view_zoom_set( 75.514725 )
+ga_view_center_set( -27.666834, 104.546181 )
+ga_view_zoom_set( 84.954063 )
+ga_view_center_set( -30.325922, 104.051865 )
+ga_view_zoom_set( 95.573318 )
+ga_view_center_set( -33.317375, 103.495758 )
+ga_view_zoom_set( 107.519981 )
+ga_view_center_set( -51.611290, 107.745644 )
+ga_view_zoom_set( 120.959976 )
+ga_view_center_set( -72.337608, 113.060699 )
+ga_view_zoom_set( 136.079971 )
+ga_view_center_set( -61.451195, 30.051899 )
+ga_view_center_set( -84.495323, 34.174702 )
+ga_view_zoom_set( 153.089966 )
+ga_view_center_set( -69.186333, -4.097793 )
+uil_toolbar.wireframe(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+gm_hilight_clear(  )
+loadsbcs_create2( "SPC_3", "Displacement", "Nodal", "", "Static", [ @
+"Node 15 16 19 25:32 36 395 401:408 412 771 777:784 788 1147 1153:1160 116" // @
+"4 1523 1529:1536 1540 1899 1905:1912 1916 2275 2281:2288 2292 2651 2657:2" // @
+"664 2668 3027 3033:3040 3044 3403 3409:3416 3420 3779 3785:3792 3796 4155" // @
+" 4161:4167"], "FEM", "Coord 0", "1.", ["<,,0     >", "<     >", "<     >",  @
+"<     >"], ["", "", "", ""] )
+$# Load/BC set "SPC_3" created.
+ga_view_center_set( -72.248138, -71.457382 )
+uil_primary_file.db_save(  )
+ga_view_center_set( -65.476868, -82.788284 )
+ga_view_zoom_set( 136.079971 )
+ga_view_center_set( -59.457977, -92.860184 )
+ga_view_zoom_set( 120.959976 )
+ga_view_center_set( -54.107880, -101.813004 )
+ga_view_zoom_set( 107.519981 )
+ga_view_center_set( -49.544006, -108.735535 )
+ga_view_zoom_set( 95.573318 )
+ga_view_center_set( -45.487213, -114.888901 )
+ga_view_zoom_set( 84.954063 )
+ga_view_center_set( -41.881165, -120.358566 )
+ga_view_zoom_set( 75.514725 )
+ga_view_center_set( -38.433380, -124.304688 )
+ga_view_zoom_set( 67.124199 )
+ga_view_center_set( -35.368668, -127.812347 )
+ga_view_zoom_set( 59.665955 )
+ga_view_center_set( -32.644485, -130.930252 )
+ga_view_zoom_set( 53.036404 )
+ga_view_center_set( -30.601364, -133.209854 )
+ga_view_zoom_set( 47.143471 )
+ga_view_center_set( -32.739075, -131.005920 )
+ga_view_zoom_set( 53.036404 )
+ga_view_center_set( -35.144012, -128.526489 )
+ga_view_zoom_set( 59.665955 )
+ga_view_center_set( -40.555145, -122.947784 )
+ga_view_zoom_set( 74.582443 )
+ga_view_center_set( -43.937088, -119.461090 )
+ga_view_zoom_set( 83.905251 )
+ga_view_center_set( -47.741760, -115.538544 )
+ga_view_zoom_set( 94.393410 )
+ga_view_center_set( -52.022034, -111.125671 )
+ga_view_zoom_set( 106.192589 )
+ga_view_center_set( -56.837311, -106.161224 )
+ga_view_zoom_set( 119.466660 )
+ga_view_center_set( -62.254578, -100.576202 )
+ga_view_zoom_set( 134.399994 )
+ga_view_center_set( -54.919739, -102.949242 )
+ga_view_zoom_set( 119.466660 )
+ga_view_center_set( -48.399902, -105.058601 )
+ga_view_zoom_set( 106.192589 )
+ga_view_center_set( -42.604492, -106.933586 )
+ga_view_zoom_set( 94.393410 )
+ga_view_center_set( -37.453003, -108.600243 )
+ga_view_zoom_set( 83.905251 )
+ga_view_center_set( -32.873886, -110.081726 )
+ga_view_zoom_set( 74.582443 )
+ga_view_center_set( -28.085266, -111.425194 )
+ga_view_zoom_set( 66.295502 )
+ga_view_aa_set( -80.000000, 0.000000, 0.000000 )
+ga_view_aa_set( -79.023987, 0.711207, 3.936250 )
+ga_view_center_set( -28.748220, -51.759235 )
+ga_view_center_set( -42.007320, 107.350021 )
+loadsbcs_create2( "SPC_12", "Displacement", "Nodal", "", "Static", [ @
+"Node 1916 1927"], "FEM", "Coord 0", "1.", ["<0,0,     >", "<     >",  @
+"<     >", "<     >"], ["", "", "", ""] )
+$# Load/BC set "SPC_12" created.
+ga_view_center_set( -37.656185, 110.317734 )
+ga_view_zoom_set( 58.929337 )
+ga_view_center_set( -33.788540, 113.165848 )
+ga_view_zoom_set( 52.381634 )
+ga_view_center_set( -30.387981, 115.809677 )
+ga_view_zoom_set( 46.561451 )
+ga_view_center_set( -27.365261, 118.325821 )
+ga_view_zoom_set( 41.387955 )
+ga_view_center_set( -24.678410, 120.665665 )
+ga_view_zoom_set( 36.789291 )
+ga_view_center_set( -22.552540, 123.454193 )
+ga_view_zoom_set( 32.701591 )
+ga_view_center_set( -20.662884, 125.932892 )
+ga_view_zoom_set( 29.068081 )
+ga_view_center_set( -18.983189, 128.146500 )
+ga_view_zoom_set( 25.838295 )
+ga_view_center_set( -17.490124, 130.114151 )
+ga_view_zoom_set( 22.967373 )
+ga_view_aa_set( -90., 0., 0. )
+ga_view_center_set( -22.310329, 130.515076 )
+ga_view_zoom_set( 25.838295 )
+ga_view_center_set( -27.733051, 130.966095 )
+ga_view_zoom_set( 29.068081 )
+ga_view_center_set( -39.934177, 131.980911 )
+ga_view_zoom_set( 36.335102 )
+ga_view_center_set( -47.559895, 132.615173 )
+ga_view_zoom_set( 40.876991 )
+ga_view_center_set( -55.909168, 133.263107 )
+ga_view_zoom_set( 45.986614 )
+ga_view_center_set( -65.080658, 133.992020 )
+ga_view_zoom_set( 51.734940 )
+ga_view_center_set( -75.398590, 134.812057 )
+ga_view_zoom_set( 58.201805 )
+ga_view_center_set( -87.006241, 135.734604 )
+ga_view_zoom_set( 65.477028 )
+ga_view_center_set( -113.123459, 137.810318 )
+ga_view_zoom_set( 81.846283 )
+ga_view_center_set( -23.092535, -111.002472 )
+ga_view_aa_set( -87.000000, 0.000000, 0.000000 )
+ga_view_aa_set( -90., 0., 0. )
+ga_view_center_set( -36.187939, -115.094780 )
+ga_view_aa_set( -72.004883, 0.210964, 1.997663 )
+ga_view_center_set( -42.735638, 129.625626 )
+ga_view_aa_set( -39.036079, 0.245356, -1.317836 )
+ga_view_aa_set( 0., 0., 0. )
+ga_view_center_set( -32.914089, -13.605370 )
+ga_view_center_set( -29.498363, -6.992867 )
+ga_view_zoom_set( 72.752251 )
+ga_view_center_set( -26.462139, -1.141029 )
+ga_view_zoom_set( 64.668671 )
+ga_view_center_set( -23.763287, 4.891022 )
+ga_view_zoom_set( 57.483261 )
+ga_view_center_set( -19.445141, 14.542305 )
+ga_view_zoom_set( 45.986610 )
+ga_view_center_set( -17.525951, 18.831768 )
+ga_view_zoom_set( 40.876987 )
+ga_view_center_set( -17.117182, 9.838833 )
+ga_view_center_set( -19.298807, 9.830631 )
+ga_view_zoom_set( 45.986610 )
+ga_view_center_set( -21.753168, 9.821404 )
+ga_view_zoom_set( 51.734936 )
+ga_view_center_set( -24.950251, 10.682964 )
+ga_view_zoom_set( 58.201801 )
+ga_view_center_set( -28.546991, 11.652218 )
+ga_view_zoom_set( 65.477028 )
+ga_view_center_set( -27.892221, -3.407500 )
+ga_view_center_set( -39.678085, -114.718445 )
+loadsbcs_create2( "SPC_1", "Displacement", "Nodal", "", "Static", ["Node 3 16" @
+], "FEM", "Coord 0", "1.", ["<0,,     >", "<     >", "<     >", "<     >"], [ @
+"", "", "", ""] )
+$# Load/BC set "SPC_1" created.
+ga_view_aa_set( 7.000000, 0.000000, 0.000000 )
+ga_view_aa_set( 0., 0., 0. )
+ga_view_center_set( -29.837265, -57.368889 )
+ga_view_zoom_set( 58.201801 )
+ga_view_center_set( -26.598648, -56.922550 )
+ga_view_zoom_set( 51.734936 )
+ga_view_center_set( -23.276978, -56.765690 )
+ga_view_zoom_set( 45.986610 )
+ga_view_center_set( -19.077728, -57.889317 )
+ga_view_zoom_set( 40.876987 )
+ga_view_center_set( -15.345078, -58.888103 )
+ga_view_zoom_set( 36.335098 )
+ga_view_aa_set( -2.000000, 0.000000, 0.000000 )
+ga_view_center_set( -11.348220, -9.835725 )
+ga_view_center_set( -13.891676, 107.890007 )
+ga_view_center_set( -16.778654, 109.836533 )
+ga_view_zoom_set( 40.876984 )
+ga_view_center_set( -20.026518, 112.026367 )
+ga_view_zoom_set( 45.986607 )
+ga_view_center_set( -27.334166, 116.953506 )
+ga_view_zoom_set( 57.483257 )
+ga_view_center_set( -31.901457, 120.032967 )
+ga_view_zoom_set( 64.668663 )
+ga_view_center_set( -37.039658, 123.497353 )
+ga_view_zoom_set( 72.752243 )
+ga_view_center_set( -42.790955, 127.803513 )
+ga_view_zoom_set( 81.846275 )
+ga_view_center_set( -49.261124, 132.647949 )
+ga_view_zoom_set( 92.077057 )
+ga_view_center_set( -56.540085, 138.097931 )
+ga_view_zoom_set( 103.586685 )
+ga_view_center_set( -64.728928, 144.229156 )
+ga_view_zoom_set( 116.535019 )
+ga_view_center_set( -73.988083, 154.353485 )
+ga_view_zoom_set( 131.101898 )
+ga_view_center_set( -84.404678, 165.743362 )
+ga_view_zoom_set( 147.489639 )
+ga_view_center_set( -43.107574, -45.166832 )
+ga_view_aa_set( -56.022602, -0.892270, -4.869056 )
+ga_view_center_set( -51.985355, -41.053452 )
+ga_view_zoom_set( 165.925842 )
+ga_view_center_set( -61.972908, -36.425911 )
+ga_view_zoom_set( 186.666565 )
+ga_view_center_set( -73.208878, -31.219940 )
+ga_view_zoom_set( 209.999878 )
+ga_view_center_set( -85.849319, -25.363220 )
+ga_view_zoom_set( 236.249863 )
+ga_view_center_set( -57.499336, 26.611755 )
+uil_primary_file.db_save(  )
+uil_primary_file.db_save(  )
+ga_view_aa_set( -46.483368, 6.966121, 4.211557 )
+ga_view_aa_set( -74.486923, -5.115849, -13.980688 )
+ga_view_aa_set( -81.319504, -6.930682, -21.811995 )
