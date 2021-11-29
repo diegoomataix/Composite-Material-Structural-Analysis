@@ -3,3 +3,10 @@ Notes:
 *********** Meshing ***********
 - Equivalencia de nodos al rotar todo (para que coincidan los bordes de los rigidizadores helicoidales y verticales)
 - Free edges: COMPROBAR los de arriba
+
+
+*********** Shell direction ***********
+- Dirección en los nodos donde hay triple cruce debe ser la misma?
+
+*********** Laminate ***********
+- Ángulos laminado cruce helicoidales
