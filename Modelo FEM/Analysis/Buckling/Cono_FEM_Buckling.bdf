@@ -1,4 +1,4 @@
-$ MSC.Nastran input file created on November  30, 2021 at 00:11:06 by
+$ MSC.Nastran input file created on November  30, 2021 at 17:17:08 by
 $ Patran 2020  (Student Edition)
 $ Direct Text Input for Nastran System Cell Section
 $ Direct Text Input for File Management Section
@@ -30,7 +30,7 @@ BEGIN BULK
 $ Direct Text Input for Bulk Data
 PARAM    POST    0
 PARAM   PRTMAXIM YES
-EIGRL    1                       1       0
+EIGRL    1                       3       0
 $ Elements and Element Properties for region : Shell_C_0
 $ Composite Property Reference Material: Laminate_C_0
 $ Composite Material Description :
@@ -8909,4 +8909,4 @@ SPC1     4       12      1916
 $ Nodal Forces of Load Set : Force_15kN
 FORCE    1       7000    0       15.     0.      0.      -1.
 $ Referenced Coordinate Frames
-ENDDATA e2f389dc
+ENDDATA e493efa7

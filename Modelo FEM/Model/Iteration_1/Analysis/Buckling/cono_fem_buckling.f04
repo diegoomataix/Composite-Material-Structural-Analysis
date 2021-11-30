@@ -1,0 +1,1495 @@
+1
+ MACHINE                          MODEL                 OPERATING SYSTEM       MSC Nastran       BUILD DATE         RUN DATE
+ Intel                            Xeon/2426 (klkgng)    Windows 10 Home 6.2 92     i8 V2020SP1   AUG  4, 2020       NOV 30, 2021
+
+ 
+                               ===    M S C   N a s t r a n           E X E C U T I O N   S U M M A R Y    ===
+
+ Day_Time  Elapsed     I/O_Mb      Del_Mb     CPU_Sec    Del_CPU    Subroutine
+ 
+ 17:18:31     0:00        0.0         0.0        -0.0       -0.0    SEMTRN   BGN
+ 17:18:31     0:00        0.0         0.0        -0.0        0.0    SEMTRN   END
+ 17:18:31     0:00        0.0         0.0        -0.0        0.0    DBINIT   BGN
+      ** CURRENT PROJECT ID = ' "BLANK" '  ** CURRENT VERSION ID =          1
+
+     S U M M A R Y   O F   F I L E   A S S I G N M E N T   F O R   T H E   P R I M A R Y   D A T A B A S E     ( DBSNO   1, V2020.0 )
+
+    ASSIGNED PHYSICAL FILE NAME (/ORIGINAL)      LOGICAL NAME     DBSET        STATUS    BUFFSIZE     CLUSTER SIZE      TIME STAMP
+    ---------------------------------------      ------------     -----        ------    --------     ------------     ------------
+    c:/.../cono_fem_buckling.T9044_26.MASTER     MASTER           MASTER       NEW           8193           1          211130171831
+    c:/.../cono_fem_buckling.T9044_26.DBALL      DBALL            DBALL        NEW           8193           1          211130171832
+    c:/.../cono_fem_buckling.T9044_26.OBJSCR     OBJSCR           OBJSCR       NEW           8193           1          211130171833
+               **** MEM FILE ****                * N/A *          SCRATCH 
+    .../cono_fem_buckling.T9044_26.SCRATCH       SCRATCH          SCRATCH      NEW           8193           1          211130171834
+    c:/.../cono_fem_buckling.T9044_26.SCR300     SCR300           SCRATCH      NEW           8193           1          211130171835
+ 17:18:31     0:00        1.0         1.0         0.0        0.0    DBINIT   END
+ 17:18:31     0:00        1.0         0.0         0.0        0.0    XCSA     BGN
+
+     S U M M A R Y   O F   F I L E   A S S I G N M E N T   F O R   T H E   D E L I V E R Y   D A T A B A S E   ( DBSNO   2, V2020.0 )
+
+    ASSIGNED PHYSICAL FILE NAME (/ORIGINAL)      LOGICAL NAME     DBSET        STATUS    BUFFSIZE     CLUSTER SIZE      TIME STAMP
+    ---------------------------------------      ------------     -----        ------    --------     ------------     ------------
+    c:/program files/.../win64i8/SSS.MASTERA     MASTERA          MASTER       OLD           8193           1          200805000623
+   /./sss.MASTERA                           
+    c:/program files/.../win64i8/SSS.MSCOBJ      MSCOBJ           MSCOBJ       OLD           8193           1          200805000628
+   /./sss.MSCOBJ                            
+    c:/program files/.../win64i8/SSS.MSCSOU      MSCSOU           MSCSOU       OLD           8193           1          200805000629
+   /./sss.MSCSOU                            
+ 17:18:31     0:00       10.0         9.0         0.1        0.1    XCSA     END
+ 17:18:31     0:00       10.0         0.0         0.1        0.0    CGPI     BGN
+ 17:18:31     0:00       10.0         0.0         0.1        0.0    CGPI     END
+ 17:18:31     0:00       10.0         0.0         0.1        0.0    LINKER   BGN
+ 17:18:31     0:00       85.0        75.0         0.2        0.1    LINKER   END
+ 
+     S U M M A R Y   O F   F I L E   A S S I G N M E N T   F O R   T H E   I F P   D A T A B A S E S
+ 
+    ASSIGNED PHYSICAL FILE NAME                                   LOGICAL   DBSNO  STATUS   ACCESS   RECL     FORM    MODE        
+    ------------------------------------------------------------  --------  -----  -------  ------  -------  ------  -----       
+    c:/.../nastran-patran/cono_fem_buckling.T9044_26.IFPDAT       IFPDAT        1   NEW      DIRECT    4096   UNFMTD   R/W            
+    c:/program files/.../nastran/msc20200/win64i8/SSS.IFPSDL      IFPSDL      N/A   OLD      DIRECT    1024   UNFMTD   R/O            
+    c:/program files/.../nastran/msc20200/win64i8/SSS.IFPDML      IFPDML      N/A   OLD      SEQ        N/A   FMTD     R/O            
+
+                    S U M M A R Y   O F   P H Y S I C A L   F I L E   I N F O R M A T I O N
+
+    ASSIGNED PHYSICAL FILE NAME                                   RECL (BYTES)  MODE  FLAGS  WSIZE  (WNUM)
+    ------------------------------------------------------------  ------------  ----  -----  -------------
+    c:/.../nastran-patran/cono_fem_buckling.T9044_26.SCRATCH             65536   R/W  M         256KB ( 4)
+    c:/.../nastran-patran/cono_fem_buckling.T9044_26.OBJSCR              65536   R/W  M         256KB ( 4)
+    c:/.../nastran-patran/cono_fem_buckling.T9044_26.MASTER              65536   R/W  M         256KB ( 4)
+    c:/.../nastran-patran/cono_fem_buckling.T9044_26.DBALL               65536   R/W  M         256KB ( 4)
+    c:/.../nastran-patran/cono_fem_buckling.T9044_26.SCR300              65536   R/W  M         256KB ( 4)
+    c:/program files/.../nastran/msc20200/win64i8/SSS.MASTERA            65536   R/O           N/A        
+    c:/program files/.../nastran/msc20200/win64i8/SSS.MSCOBJ             65536   R/O           N/A        
+
+    FLAG VALUES ARE --
+      A   ASYNCHRONOUS I/O USED TO PROCESS FILE
+      B   BUFFERED I/O USED TO PROCESS FILE
+      M   FILE MAPPING USED TO PROCESS FILE
+      R   FILE BEING ACCESSED IN 'RAW' MODE
+ 
+    ASSIGNED PHYSICAL FILE NAME                                   LOGICAL   UNIT  STATUS   ACCESS   RECL  FORM    FLAGS
+    ------------------------------------------------------------  --------  ----  -------  ------  -----  ------  -----
+    ./cono_fem_buckling.f04                                       LOGFL        4  NEW      SEQ      N/A   FMTD         
+    ./cono_fem_buckling.f06                                       PRINT        6  NEW      SEQ      N/A   FMTD         
+    c:/program files/msc.software/.../msc20200/nast/news.txt      INCLD1       9  OLD      SEQ      N/A   FMTD      R N
+    ./cono_fem_buckling.plt                                       PLOT        14  NEW      SEQ      N/A   UNFMTD   Z   
+    ./cono_fem_buckling.op2                                       OP2         12  NEW      SEQ      N/A   LTLEND   Z   
+    ./cono_fem_buckling                                           OPCASE      22  UNKNOWN  SEQ      N/A   FMTD        N
+    ./cono_fem_buckling                                           OUTPUT2F    19           SEQ      N/A   LTLEND      P
+    ./cono_fem_buckling.des                                       TOPDES      21  UNKNOWN  SEQ      N/A   FMTD        N
+    ./cono_fem_buckling.mnf                                       MNF             NEW      SEQ      N/A   UNFMTD       
+    ./cono_fem_buckling.pch                                       PUNCH        7  NEW      SEQ      N/A   FMTD     Z   
+    ./cono_fem_buckling.xdb                                       DBC         40  NEW      DIRECT   1024  LTLEND       
+    ./cono_fem_buckling.asm                                       ASM         16  NEW      SEQ      N/A   FMTD     Z   
+    ./cono_fem_buckling.becho                                     BULKECHO    18  NEW      SEQ      N/A   FMTD     Z   
+    ./cono_fem_buckling.aeso                                      AESO        23  NEW      SEQ      N/A   FMTD     Z   
+
+    FLAG VALUES ARE --
+      A   FILE HAS BEEN DEFINED BY AN 'ASSIGN' STATEMENT
+      D   FILE IS TO BE DELETED BEFORE RUN, IF IT EXISTS
+      N   'DEFER' SPECIFIED ON 'ASSIGN' STATEMENT OR FORCED FOR 'SLAVE' PROCESSES
+      P   PREFIX FILE NAME FOR OUTPUT2F FILE(S)
+      R   FILE IS READ-ONLY
+      T   FILE IS TEMPORARY AND WILL BE DELETED AT END OF RUN
+      Z   FILE WILL BE DELETED AT END OF RUN IF ZERO-LENGTH
+
+    ** THE NATIVE MODE FOR SEQUENTIAL UNFORMATTED FILES ON THIS PLATFORM IS LITTLE-ENDIAN (64-BIT) (LTLE64)
+ 
+0    ** MASTER DIRECTORIES ARE LOADED IN MEMORY.
+        USER OPENCORE (HICORE)         =         230  MB
+        EXECUTIVE SYSTEM WORK AREA     =           7  MB
+        MASTER(RAM)                    =           1  MB
+        SCRATCH(MEM) AREA              =           6  MB (     100 BUFFERS)
+        BUFFER POOL AREA (BPOOL4)      =           9  MB (     150 BUFFERS)
+
+        TOTAL MSC NASTRAN MEMORY LIMIT =         256  MB
+
+
+ Day_Time  Elapsed     I/O_Mb      Del_Mb     CPU_Sec    Del_CPU    SubDMAP Line (S)SubDMAP/Module
+ 
+ 17:18:31     0:00       91.0         6.0         0.2        0.0    XSEMDR   BGN
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    SEBUCKL 30   (S)IFPL    BEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPL    7    (S)IFPLIMPLBEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPLIMPL112     IFP1    BEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPLIMPL119     PARAML  BEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPLIMPL137     PARAML  BEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPLIMPL269  (S)IFPSTAR BEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPSTAR 30      PARAML  BEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPSTAR 31      DBDELETEBEGN    
+ 17:18:31     0:00       91.0         0.0         0.2        0.0    IFPSTAR 32      NEWIFP  BEGN    
+ *** USER INFORMATION MESSAGE 200 (SCA.MDSolver.System.MemoryManager:MemoryManager::addPartition)
+A memory pool is provided by the application.
+Information: the application provided memory pool NastranMainPool will be used by the MDSolver service partition MDS00000.
+ *** SYSTEM INFORMATION MESSAGE 108 (SCA.MDSolver.Io.AccessAccess:AccessAccess)
+     The service SCA.MDSolver.Io.AccessAccess:AccessAccess has a partition name MDS00000 of size 1,200,000 bytes
+ *** USER INFORMATION MESSAGE 217 (SCA.MDSolver.Io.AccessAccess:AccessAccess::initPagingPool)
+     Static  working area for sdl : 100,000 INTEGER words, 800,000 bytes.
+ Dynamic working area for dbio: 425,269 INTEGER words, 3,402,152 bytes.
+ *** USER INFORMATION MESSAGE 218 (SCA.MDSolver.Io.AccessAccess:AccessAccess::initPagingPool)
+     AccessAccess service dbio paging pool initialized with maxbuf=4096 and maxddl=122804445
+ *** USER INFORMATION MESSAGE 207 (SCA.MDSolver.Io.AccessAccess:AccessAccess::StreamToBinary)
+     The stream input file: c:/users/diego/pictures/analysis/aas/cono_fem_buckling.bdf 
+with include files path: . 
+was converted to its binary form in: c:/engineering software/nastran-patran/cono_fem_buckling.T9044_26.IFPDAT 
+using the schema contained in: c:/program files/msc.software/napa_se/2020/nastran/msc20200/win64i8/SSS.IFPSDL for product: NASTRAN, version: 2020.0
+ *** USER INFORMATION MESSAGE 200 (SCA.MDSolver.System.MemoryManager:MemoryManager::addPartition)
+A memory pool is provided by the application.
+Information: the application provided memory pool NastranMainPool will be used by the MDSolver service partition MDS00001.
+ *** SYSTEM INFORMATION MESSAGE 205 (SCA.MDSolver.Util.QueryAccess:QueryAccess)
+The service SCA.MDSolver.Util.QueryAccess:QueryAccess has a partition name MDS00001 of size 65,536 bytes
+ *       COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY   *
+ *        1632:CQUAD4           360:CTRIA3             1:EIGRL              1:FORCE           3337:GRID               1:LOAD    
+ *           2:MAT8               2:PARAM              9:PCOMP              1:RBE2               3:SPC1               1:SPCADD  
+ *
+ 17:18:32     0:01       92.0         1.0         0.4        0.2    IFPSTAR 45      IFPDR   BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 50      IFPEXTRABEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 76      XSORT   BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 77      PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 86      IFP     BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFP     
+ *       COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY          COUNT:ENTRY     *
+ *           2:PARAM   
+ *    PARAM:  POST      PRTMAXIM                                                                                                  *
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 87      APPEND  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 88      APPEND  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 89      APPEND  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 90      APPEND  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 92      COPY    BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 93      COPY    BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 94      COPY    BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 95      COPY    BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 96      SORTBULKBEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 97      SORTBULKBEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 98      SORTBULKBEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 99      SORTBULKBEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 130     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 138     MATGEN  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 146     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 148     IFPEXTRABEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 160     DBEQUIV BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 162     SEPR1   BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPSTAR 192     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPLIMPL270     DBEQUIV BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPLIMPL318     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPLIMPL353  (S)IFPMODGMBEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPMODGM105     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPMODGM258  (S)IFPS    BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    53      PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    54      PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    125     IFPLC   BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    127     PVT     BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    129     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    141     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    250     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    252     GP1     BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    254     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    255     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    256     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    257     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    258     GP2     BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    259     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    272     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    274     TA0SP   BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    275     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    283     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFPS    311     IFP6    BEGN    
+ 17:18:32     0:01       92.0         0.0         0.4        0.0    IFP6IN  
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFP6OUT 
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    313     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    314     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    469     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    479     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    481     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    487     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    489     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    497     PARAML  BEGN    
+ 17:18:32     0:01       92.0         0.0         0.5        0.0    IFPS    509     PARAML  BEGN    
+ 17:18:32     0:01       93.0         1.0         0.5        0.0    IFPS    538     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    545     MODGM2  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    620     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    621     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    622     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    650     MATMOD  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    668     M3DCONT1BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    671     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    677     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    679     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    693     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    700     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    701     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    702     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    703     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    704     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    717     DSGRDM  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    730     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    731     GP1     BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    791     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    792     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    806     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    807     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    808     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    819  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS    951     DBEQUIV BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM266     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM269     SEPR1   BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM309     PROJVER BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM314     PVT     BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM355     PVT     BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM356     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM366  (S)IFPS1   BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   15      SOLVIT  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   23      DTIIN   BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   55      PLTSET  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   58      MSGHAN  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   59      MSGHAN  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   60      GP0     BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   61      MSGHAN  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPS1   108     DSGRDM  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM375  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM415     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM507     DTIIN   BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM575     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM576     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM593     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM603  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM621     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM625     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM625     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM664     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM665     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM666     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM677     MATGEN  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM678     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    IFPMODGM679     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    SEBUCKL 31   (S)PHASE0  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  125     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  127     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  154  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  159     PVT     BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  161     PROJVER BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  163     PROJVER BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  190     DTIIN   BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  192  (S)INITPOSTBEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  200  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  201  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  202  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  203  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  204  (S)TESTBIT BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  228     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  229     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  240     SEPR1   BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  445     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  447     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  448     PARAML  BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  488     COPY    BEGN    
+ 17:18:32     0:01       93.0         0.0         0.5        0.0    PHASE0  489  (S)PBULK   BEGN    
+ 17:18:32     0:01       94.0         1.0         0.5        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  491     SEP1X   BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  496     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  530     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  537     GP1     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  542     GP2     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  574     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  575     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  606     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  635     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  637     TA1     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  638     TASNP2  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  643     SEP1    BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  681     DBC     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  709     DBC     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  711     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  741     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  742     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  751     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  752     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  753     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  754     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  755     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  756     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  757     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  758     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  759     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  773     TABPRT  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  774     SEP3    BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  788     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  809     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  811     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  812     PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  984     PVT     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1020    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1021    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1022    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1041    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1048    PVT     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1049    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1050    PVT     BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1051    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1052    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1102    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1480    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1481    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1482    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1483    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1491    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1492    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1494    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1622 (S)DMPGROUPBEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    DMPGROUP36   (S)TESTBIT BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1631    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1638    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1658    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1668    CASE    BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1669    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1671    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1672    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1673    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1676    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1698    APPEND  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1668    CASE    BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1669    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1671    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1672    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1673    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1676    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1701    APPEND  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1711    MODTRL  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1712    MODTRL  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1714    COPY    BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1717    COPY    BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1726    COPY    BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1737    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1746    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1747    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1761    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1765    PARAML  BEGN    
+ 17:18:32     0:01       94.0         0.0         0.5        0.0    PHASE0  1811 (S)SETQ    BEGN    
+ 17:18:32     0:01       95.0         1.0         0.5        0.0    SETQ    18      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    19      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    21      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    26      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    28      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    33      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    35      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    40      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    41      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    42      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    43      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    44      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    45      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    46      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    48      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    53      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    54      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    SETQ    59      PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1819 (S)PHASE0R BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 177     MRGCSTM BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 196     PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 209     GP2     BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 229     PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 265     PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 272     GPJAC   BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 376     PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 378     GP3     BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 383     LCGEN   BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 388     PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0R 389     PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1820    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1840    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1841 (S)TESTBIT BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1865    VECPLOT BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1886    LCGEN   BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1888    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1889    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1913    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1914    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1915    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1916    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1991    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1995    BCDR    BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2000    CASE    BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2002    PVT     BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2003    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2006    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2046    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2086    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2131    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2132    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2134    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2135    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2136    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2137    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2139    GP4     BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2146    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2216    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2217    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2240    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2272    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2298    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2302    MATGEN  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2303    APPEND  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2351 (S)CHKNOLINBEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    CHKNOLIN5       PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2365    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2374    BCDR    BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1886    LCGEN   BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1888    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1889    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1913    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1914    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1915    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1916    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1991    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  1995    BCDR    BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2000    CASE    BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2002    PVT     BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2003    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2006    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2046    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2086    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2131    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2132    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2134    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2135    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2136    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2137    PARAML  BEGN    
+ 17:18:32     0:01       95.0         0.0         0.5        0.0    PHASE0  2139    GP4     BEGN    
+ 17:18:32     0:01       96.0         1.0         0.5        0.0    PHASE0  2146    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2216    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2217    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2240    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2272    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2298    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2302    MATGEN  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2303    APPEND  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2351 (S)CHKNOLINBEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    CHKNOLIN5       PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2365    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2374    BCDR    BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2396    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2428    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2436 (S)SELA1   BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2438    UPARTN  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2442    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2600    DBC     BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2640    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2643    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2644    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2651    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2716    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2717    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2718    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2731    DBDELETEBEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2732 (S)TRMCDRA BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    TRMCDRA 23      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2733    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2793    MKCSTMA BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2936    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE0  2937    PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SEBUCKL 35   (S)SETQ    BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    18      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    19      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    21      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    26      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    28      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    33      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    35      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    40      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    41      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    42      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    43      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    44      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    45      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    46      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    48      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    53      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    54      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    59      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SEBUCKL 43   (S)PHASE1DRBEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE1DR99      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE1DR111     PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE1DR112     PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE1DR176     PVT     BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE1DR278  (S)SETQ    BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    18      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    19      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    21      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    26      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    28      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    33      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    35      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    40      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    41      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    42      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    43      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    44      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    45      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    46      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    48      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    53      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    54      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    SETQ    59      PARAML  BEGN    
+ 17:18:32     0:01       96.0         0.0         0.5        0.0    PHASE1DR307  (S)DBSETOFFBEGN    
+ 17:18:32     0:01       97.0         1.0         0.5        0.0    PHASE1DR309  (S)PHASE1A BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 77      SEPR1   BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 89      PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 91      PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 92      PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 97      PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 99      PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 100     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 101     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 257     TA1     BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 258     FEMCHECKBEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 269     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 339     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 342     MSGHAN  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    PHASE1A 345  (S)SEMG    BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    73      PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    93      PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    112     ELTPRT  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    120     MDENZO  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    122     MDENZO  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    125     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    126     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    135     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    138     PARAML  BEGN    
+ 17:18:32     0:01       97.0         0.0         0.5        0.0    SEMG    140     EMG     BEGN    
+ 17:18:32     0:01       98.0         1.0         0.6        0.0    SEMG    408     EMA     BEGN    
+ 17:18:32     0:01      103.0         5.0         0.7        0.1    SEMG    449     EMA     BEGN    
+ 17:18:32     0:01      106.0         3.0         0.7        0.0    SEMG    509     MDENZO  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    SEMG    511  (S)XMTRXIN BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 31      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 33      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 34      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 45      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 46      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 90      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 91      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 92      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 93      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    XMTRXIN 94      PARAML  BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    SEMG    599     MGEN    BEGN    
+ 17:18:32     0:01      106.0         0.0         0.7        0.0    SEMG    604     PARAML  BEGN    
+ 17:18:32     0:01      107.0         1.0         0.7        0.0    SEMG    630  (S)SEMG1   BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SEMG1   18      PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SEMG1   49   (S)SEDAMP  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SEDAMP  10      PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SEMG    684     PROJVER BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SEMG    692     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SEMG    726     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SEMG    727     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 365     MSGHAN  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 366     MSGHAN  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 367  (S)SESUM   BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 470     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 519     VECPLOT BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 520     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 611     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 638  (S)SELA1   BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 639     PARAML  BEGN    
+ 17:18:32     0:01      107.0         0.0         0.7        0.0    PHASE1A 654     PARAML  BEGN    
+ 17:18:32     0:01      108.0         1.0         0.7        0.0    PHASE1A 677     PARAML  BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    PHASE1A 689     LCGEN   BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    PHASE1A 698     MSGHAN  BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    PHASE1A 715  (S)SELG    BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    SELG    31      PARAML  BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    SELG    36      PARAML  BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    SELG    40      SSG1    BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    SELG    95      PARAML  BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    SELG    150     PARAML  BEGN    
+ 17:18:32     0:01      108.0         0.0         0.7        0.0    SELG    154     VECPLOT BEGN    
+ 17:18:32     0:01      109.0         1.0         0.7        0.0    PHASE1A 739     MSGHAN  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 786  (S)SESUM   BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 787     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 790     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 810  (S)SELA1   BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 821  (S)SELA1   BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 891     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 677     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 689     LCGEN   BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 698     MSGHAN  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 715  (S)SELG    BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELG    31      PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELG    36      PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELG    40      SSG1    BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELG    95      PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELG    150     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELG    154     VECPLOT BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 739     MSGHAN  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 786  (S)SESUM   BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 787     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 790     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 810  (S)SELA1   BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 821  (S)SELA1   BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 891     PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 1030    PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 1031    PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 1077    PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 1084    PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 1155    PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 1157    PARAML  BEGN    
+ 17:18:32     0:01      109.0         0.0         0.7        0.0    PHASE1A 1182    PARAML  BEGN    
+ 17:18:32     0:01      110.0         1.0         0.7        0.0    PHASE1DR425     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR458     LCGEN   BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR486     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR526     BCDR    BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR527     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR528     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR533     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR534     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR544     PVT     BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR550     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR551     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR552     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR554  (S)PMLUSET BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR602     PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1DR644  (S)PHASE1B BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1B 57      COPY    BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1B 64      PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1B 68      PARAML  BEGN    
+ 17:18:32     0:01      110.0         0.0         0.7        0.0    PHASE1B 71   (S)SEKR0   BEGN    
+ 17:18:32     0:01      111.0         1.0         0.7        0.0    SEKR0   19      COPY    BEGN    
+ 17:18:32     0:01      111.0         0.0         0.7        0.0    SEKR0   30      PARAML  BEGN    
+ 17:18:32     0:01      111.0         0.0         0.7        0.0    SEKR0   32      PARAML  BEGN    
+ 17:18:32     0:01      111.0         0.0         0.7        0.0    SEKR0   54      PARAML  BEGN    
+ 17:18:32     0:01      111.0         0.0         0.7        0.0    SEKR0   93   (S)XMCE1   BEGN    
+ 17:18:32     0:01      111.0         0.0         0.7        0.0    XMCE1   6    (S)AUTOM   BEGN    
+ 17:18:32     0:01      111.0         0.0         0.7        0.0    AUTOM   12      PARAML  BEGN    
+ 17:18:32     0:01      111.0         0.0         0.7        0.0    AUTOM   14      MCE1    BEGN    
+ 17:18:32     0:01      113.0         2.0         0.7        0.0    SEKR0   96      PARAML  BEGN    
+ 17:18:32     0:01      113.0         0.0         0.7        0.0    SEKR0   112     UPARTN  BEGN    
+ 17:18:32     0:01      122.0         9.0         0.7        0.0    SEKR0   113     PARAML  BEGN    
+ 17:18:32     0:01      122.0         0.0         0.7        0.0    SEKR0   115     UPARTN  BEGN    
+ 17:18:32     0:01      127.0         5.0         0.8        0.0    SEKR0   120     MCE2    BEGN    
+ 17:18:32     0:01      146.0        19.0         0.8        0.0    SEKR0   126     PARAML  BEGN    
+ 17:18:32     0:01      146.0         0.0         0.8        0.0    SEKR0   128     VECPLOT BEGN    
+ 17:18:32     0:01      146.0         0.0         0.8        0.0    SEKR0   129     PARAML  BEGN    
+ 17:18:32     0:01      146.0         0.0         0.8        0.0    SEKR0   141     GPSP    BEGN    
+ 17:18:32     0:01      148.0         2.0         0.8        0.0    SEKR0   145     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKR0   188     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 72      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 73      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 75      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 76      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 77      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 78      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 79      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 81      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 99      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 100     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 109     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 110     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 111     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 127     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 136     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 137     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 142     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 148     PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PHASE1B 150  (S)SEKMR   BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKMR   27      COPY    BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKMR   30   (S)PMLUSET BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKMR   32      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKMR   38      PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKMR   46   (S)SEKR    BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKR    21   (S)PMLUSET BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:32     0:01      148.0         0.0         0.8        0.0    SEKR    24      UPARTN  BEGN    
+ 17:18:32     0:01      161.0        13.0         0.9        0.0    SEKR    30      PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKR    32      VECPLOT BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKR    33      PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKR    183     PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKR    193  (S)SESUM   BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   47   (S)SESUM   BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   51      PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   63      PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   76      PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   181     PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   182  (S)SELA1   BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   183  (S)SELA1   BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SEKMR   184  (S)SELA1   BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    SELA1   201     PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    PHASE1B 180  (S)PMLUSET BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:32     0:01      161.0         0.0         0.9        0.0    PHASE1B 490     PARAML  BEGN    
+ 17:18:32     0:01      162.0         1.0         0.9        0.0    PHASE1B 522  (S)SEGOA   BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    PHASE1B 525     PARAML  BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    PHASE1B 527     ROTRUTL BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    PHASE1B 559  (S)SELR    BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    SELR    19      PARAML  BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    SELR    38      PARAML  BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    SELR    52      PARAML  BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    SELR    57      PARAML  BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    SELR    72      PARAML  BEGN    
+ 17:18:32     0:01      162.0         0.0         0.9        0.0    SELR    105     SSG2    BEGN    
+ 17:18:32     0:01      163.0         1.0         0.9        0.0    SELR    106     SSG2    BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    SELR    113     PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 561  (S)SESUM   BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 870     PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 922     SSG2    BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 923     SSG2    BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 924     SSG2    BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1051 (S)SEGOA   BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1055    MATREDU BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1066    MCE2    BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1069    TRNSP   BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1070    ADD5    BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1071    UPARTN  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1163 (S)SEGOA   BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1164    SSG2    BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1167    PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1168    PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1B 1169    PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1DR869     PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1DR879     PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1DR927     PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1DR929  (S)PMLUSET BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1DR932     PARAML  BEGN    
+ 17:18:32     0:01      163.0         0.0         0.9        0.0    PHASE1DR934  (S)PHASE1C BEGN    
+ 17:18:32     0:01      164.0         1.0         0.9        0.0    PHASE1C 58   (S)SEKRRS  BEGN    
+ 17:18:32     0:01      164.0         0.0         0.9        0.0    SEKRRS  73      PARAML  BEGN    
+ 17:18:32     0:01      164.0         0.0         0.9        0.0    SEKRRS  84      DCMP    BEGN    
+ *** USER INFORMATION MESSAGE 4157 (DFMSYM)
+     PARAMETERS FOR SPARSE DECOMPOSITION OF DATA BLOCK  KLL     ( TYPE=RSP ) FOLLOW
+                      MATRIX SIZE =     19539 ROWS             NUMBER OF NONZEROES =    372661 TERMS
+           NUMBER OF ZERO COLUMNS =         0        NUMBER OF ZERO DIAGONAL TERMS =         0
+           ELIMINATION TREE DEPTH =       673
+                CPU TIME ESTIMATE =         0 SEC                I/O TIME ESTIMATE =         0 SEC
+       MINIMUM MEMORY REQUIREMENT =         3 MB                  MEMORY AVAILABLE =       230 MB
+     MEMORY REQR'D TO AVOID SPILL =         3 MB              MEMORY USED BY BEND  =         3 MB
+    EST. INTEGER MEMORY IN FACTOR =         4 MB                EST. NONZERO TERMS =       768 K TERMS
+     ESTIMATED MAXIMUM FRONT SIZE =       256 TERMS                 RANK OF UPDATE =        64
+ *** USER INFORMATION MESSAGE 6439 (DFMSA)
+     ACTUAL MEMORY AND DISK SPACE REQUIREMENTS FOR SPARSE SYM. DECOMPOSITION
+        SPARSE DECOMP MEMORY USED =         2 MB                MAXIMUM FRONT SIZE =       256 TERMS  
+         INTEGER MEMORY IN FACTOR =         1 MB           NONZERO TERMS IN FACTOR =       768 K TERMS
+   SPARSE DECOMP SUGGESTED MEMORY =         2 MB
+ 17:18:32     0:01      196.0        32.0         1.1        0.2    PHASE1C 62   (S)SESUM   BEGN    
+ 17:18:32     0:01      196.0         0.0         1.1        0.0    PHASE1C 71   (S)SESUM   BEGN    
+ 17:18:32     0:01      196.0         0.0         1.1        0.0    PHASE1C 86   (S)SELRRS  BEGN    
+ 17:18:32     0:01      196.0         0.0         1.1        0.0    PHASE1C 87   (S)SESUM   BEGN    
+ 17:18:32     0:01      197.0         1.0         1.1        0.0    PHASE1DR948     BCDR    BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR458     LCGEN   BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR486     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR526     BCDR    BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR527     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR528     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR533     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR534     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR544     PVT     BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR550     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR551     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR552     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR554  (S)PMLUSET BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR602     PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1DR644  (S)PHASE1B BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1B 57      COPY    BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1B 64      PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1B 68      PARAML  BEGN    
+ 17:18:32     0:01      197.0         0.0         1.1        0.0    PHASE1B 71   (S)SEKR0   BEGN    
+ 17:18:33     0:02      198.0         1.0         1.1        0.0    SEKR0   19      COPY    BEGN    
+ 17:18:33     0:02      198.0         0.0         1.1        0.0    SEKR0   30      PARAML  BEGN    
+ 17:18:33     0:02      198.0         0.0         1.1        0.0    SEKR0   32      PARAML  BEGN    
+ 17:18:33     0:02      198.0         0.0         1.1        0.0    SEKR0   54      PARAML  BEGN    
+ 17:18:33     0:02      198.0         0.0         1.1        0.0    SEKR0   96      PARAML  BEGN    
+ 17:18:33     0:02      198.0         0.0         1.1        0.0    SEKR0   113     PARAML  BEGN    
+ 17:18:33     0:02      198.0         0.0         1.1        0.0    SEKR0   115     UPARTN  BEGN    
+ 17:18:33     0:02      209.0        11.0         1.1        0.0    SEKR0   115     UPARTN  END     
+ 17:18:33     0:02      209.0         0.0         1.1        0.0    SEKR0   126     PARAML  BEGN    
+ 17:18:33     0:02      209.0         0.0         1.1        0.0    SEKR0   128     VECPLOT BEGN    
+ 17:18:33     0:02      209.0         0.0         1.1        0.0    SEKR0   129     PARAML  BEGN    
+ 17:18:33     0:02      209.0         0.0         1.1        0.0    SEKR0   145     PARAML  BEGN    
+ 17:18:33     0:02      209.0         0.0         1.1        0.0    SEKR0   188     PARAML  BEGN    
+ 17:18:33     0:02      210.0         1.0         1.1        0.0    PHASE1B 72      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 73      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 75      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 76      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 77      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 78      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 79      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 81      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 99      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 100     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 109     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 110     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 111     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 127     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 136     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 137     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 142     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 148     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 180  (S)PMLUSET BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 490     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 522  (S)SEGOA   BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 525     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 527     ROTRUTL BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 559  (S)SELR    BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    19      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    38      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    52      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    57      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    72      PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    105     SSG2    BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    106     SSG2    BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    SELR    113     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 561  (S)SESUM   BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 870     PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 922     SSG2    BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 923     SSG2    BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 924     SSG2    BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 1163 (S)SEGOA   BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 1164    SSG2    BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 1167    PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 1168    PARAML  BEGN    
+ 17:18:33     0:02      210.0         0.0         1.1        0.0    PHASE1B 1169    PARAML  BEGN    
+ 17:18:33     0:02      211.0         1.0         1.1        0.0    PHASE1DR869     PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR879     PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR927     PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR929  (S)PMLUSET BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR932     PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR934  (S)PHASE1C BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1C 62   (S)SESUM   BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1C 71   (S)SESUM   BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1C 86   (S)SELRRS  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1C 87   (S)SESUM   BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR948     BCDR    BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR486     PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PHASE1DR948     BCDR    BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    SEBUCKL 48      PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    SEBUCKL 55   (S)STATICS2BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS212      PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS228      LCGEN   BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS229      BCDR    BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS230      PVT     BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS231      PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS232      PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS239   (S)PMLUSET BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATICS241   (S)STATRS  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATRS  23      PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATRS  47   (S)TESTBIT BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATRS  160     MSGHAN  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATRS  224     PARAML  BEGN    
+ 17:18:33     0:02      211.0         0.0         1.1        0.0    STATRS  231     SSG3    BEGN    
+ *** USER INFORMATION MESSAGE 4153 (DFNSB)
+     FBS METHOD S2 TIME ESTIMATE TO FORM ULX      - CPU=     0, I/O=     0, TOTAL=     0, PASSES=   1
+ 17:18:33     0:02      226.0        15.0         1.2        0.1    STATRS  254     MSGHAN  BEGN    
+ 17:18:33     0:02      226.0         0.0         1.2        0.0    STATRS  262     PARAML  BEGN    
+ 17:18:33     0:02      226.0         0.0         1.2        0.0    STATRS  263     PARAML  BEGN    
+ 17:18:33     0:02      226.0         0.0         1.2        0.0    STATICS272      APPEND  BEGN    
+ 17:18:33     0:02      226.0         0.0         1.2        0.0    STATICS274      COPY    BEGN    
+ 17:18:33     0:02      226.0         0.0         1.2        0.0    STATICS275      BCDR    BEGN    
+ 17:18:33     0:02      226.0         0.0         1.2        0.0    STATICS276   (S)SESUM   BEGN    
+ 17:18:33     0:02      226.0         0.0         1.2        0.0    STATICS279   (S)SUPER3  BEGN    
+ 17:18:33     0:02      227.0         1.0         1.2        0.0    SUPER3  151     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  152     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  260     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  261     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  263     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  264     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  267     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  268     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  270     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  271     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  275     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  284     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  290     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  291     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  314     PVT     BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  315     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  343     SEP4    BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  430     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  481     SEDRDR  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0                            
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  560     PVT     BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  574     SEDR    BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  658     PVT     BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  761  (S)DBSETOFFBEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  763     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  781     PVT     BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  782     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  783     PVT     BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  804     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  813     LCGEN   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  839     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  841     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  842     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  843     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  844     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  845     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  851     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  855     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  860     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  861     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  862     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  865     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  866     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  867     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  873     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  890     DTIIN   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  918     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  936  (S)PBULK   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  937  (S)PBULK   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  938  (S)PBULK   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  939  (S)PBULK   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  940  (S)PBULK   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  942     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SUPER3  1005 (S)SEDISP  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  46      PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  47      PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  52      PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  53      PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  54      PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  55      PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  56      PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  151     BCDR    BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  158     BCDR    BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  159     PVT     BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  167     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  168     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  172     PARAML  BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  347  (S)SEGOA   BEGN    
+ 17:18:33     0:02      227.0         0.0         1.2        0.0    SEDISP  391     SDR1    BEGN    
+ 17:18:33     0:02      228.0         1.0         1.2        0.0    SEDISP  430     PARAML  BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SEDISP  576     BCDR    BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SEDISP  589     COPY    BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SEDISP  590     COPY    BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SEDISP  591     COPY    BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SEDISP  607     COPY    BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SEDISP  1020 (S)SESUM   BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1052    PVT     BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1053    PARAML  BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1503    PARAML  BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1586    PARAML  BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1665    SDR2    BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1681    DBC     BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1694    MODCASE BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1719    PARAML  BEGN    
+ 17:18:33     0:02      228.0         0.0         1.2        0.0    SUPER3  1724 (S)SEDRCVR BEGN    
+ 17:18:33     0:02      229.0         1.0         1.2        0.0    SEDRCVR 60      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 61      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 62      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 63      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 64      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 65      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 66      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 67      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 68      PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 171     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 177     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 178     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 310     VECPLOT BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 320     VECPLOT BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 328     VECPLOT BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 330     VECPLOT BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 372     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 383     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 419     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 420  (S)TESTBIT BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 444  (S)TESTBIT BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 454  (S)TESTBIT BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 465     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 638     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 766     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 768     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 779     PVT     BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 783     PVT     BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 794     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 803     SDR2    BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 804     IMPFOUG BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 805     OFP     BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 885     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 886     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 887     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 919  (S)XOFPINDXBEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX4       OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX5       OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX6       OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX7       OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX8       OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX9       OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX10      OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX11      OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX12      OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    XOFPINDX13      OFPINDX BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 927     OFP     BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 936     PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 1335    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 1378    SDRX    BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 1471    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 1472    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 1473    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 1711    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 1712    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2005    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2006    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2007    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2008    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2009    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2048    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2049    PARAML  BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2210    OFP     BEGN    
+ 17:18:33     0:02      229.0         0.0         1.2        0.0    SEDRCVR 2228    OFP     BEGN    
+ 17:18:33     0:02      230.0         1.0         1.3        0.0    SEDRCVR 2238    OFP     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2242    OFP     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2243    OFP     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2252    OFP     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2255    PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2257    PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2258    PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2389    OFP     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2396    PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2416    PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2431    DBC     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2432    DBC     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2433    DBC     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2434    DBC     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2436    DBC     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEDRCVR 2437    DBC     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SUPER3  1862    PVT     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 57      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 62      CASE    BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 64      PVT     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 76      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 77      BCDR    BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 78      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 79      PVT     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 82      GETCOL  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 87      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEBUCKL 96   (S)SEKDR   BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   42      PVT     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   43   (S)SETQ    BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    18      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    19      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    21      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    26      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    28      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    33      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    35      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    40      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    41      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    42      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    43      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    44      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    45      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    46      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    48      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    53      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    54      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SETQ    59      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   62      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   63      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   64      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   65      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   66      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   67      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   79      MATMOD  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   80      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   92      PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   95      TAFF    BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   96      EMG     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   97      EMA     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   98      EMAKFR  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   99      ADD5    BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   100     PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   139     PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   140     PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   141     PARAML  BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   152     EMG     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   178     EMA     BEGN    
+ 17:18:33     0:02      230.0         0.0         1.3        0.0    SEKDR   180     EMA     BEGN    
+ 17:18:33     0:02      231.0         1.0         1.4        0.0    SEKDR   181     ADD5    BEGN    
+ 17:18:33     0:02      231.0         0.0         1.4        0.0    SEKDR   294  (S)PMLUSET BEGN    
+ 17:18:33     0:02      231.0         0.0         1.4        0.0    PMLUSET 5       PARAML  BEGN    
+ 17:18:33     0:02      232.0         1.0         1.4        0.0    SEKDR   299  (S)SEGOA   BEGN    
+ 17:18:33     0:02      232.0         0.0         1.4        0.0    SEKDR   300  (S)SEMRB   BEGN    
+ 17:18:33     0:02      232.0         0.0         1.4        0.0    SEMRB   20      UPARTN  BEGN    
+ 17:18:33     0:02      232.0         0.0         1.4        0.0    SEMRB   21      PARAML  BEGN    
+ 17:18:33     0:02      232.0         0.0         1.4        0.0    SEMRB   23      PARAML  BEGN    
+ 17:18:33     0:02      232.0         0.0         1.4        0.0    SEMRB   29   (S)XMATREDUBEGN    
+ 17:18:33     0:02      232.0         0.0         1.4        0.0    XMATREDU5       PARAML  BEGN    
+ 17:18:33     0:02      232.0         0.0         1.4        0.0    XMATREDU7       MCE2    BEGN    
+ 17:18:33     0:02      234.0         2.0         1.4        0.0    XMATREDU9       UPARTN  BEGN    
+ 17:18:33     0:02      239.0         5.0         1.4        0.0    SEMRB   30      PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    SEMRB   32      PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    SEMRB   34      PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    SEMRB   35      MODTRL  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    SEMRB   95   (S)XADD5   BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    XADD5   4       PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    XADD5   6       PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    XADD5   8       PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    XADD5   10      PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    XADD5   12      PARAML  BEGN    
+ 17:18:33     0:02      239.0         0.0         1.4        0.0    SEKDR   301     MODTRL  BEGN    
+ 17:18:33     0:02      240.0         1.0         1.4        0.0    SEBUCKL 104     PARAML  BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    SEBUCKL 105     DPD     BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    SEBUCKL 106     PARAML  BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    SEBUCKL 107  (S)MODERS  BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    MODERS  32      ADD     BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    MODERS  52      MSGHAN  BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    MODERS  90   (S)XREAD   BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    XREAD   23   (S)TESTBIT BEGN    
+ 17:18:33     0:02      240.0         0.0         1.4        0.0    XREAD   101     READ    BEGN    
+ *** USER INFORMATION MESSAGE 4157 (DFMSYM)
+     PARAMETERS FOR SPARSE DECOMPOSITION OF DATA BLOCK  SCRATCH ( TYPE=RSP ) FOLLOW
+                      MATRIX SIZE =     19539 ROWS             NUMBER OF NONZEROES =    372661 TERMS
+           NUMBER OF ZERO COLUMNS =         0        NUMBER OF ZERO DIAGONAL TERMS =         0
+           ELIMINATION TREE DEPTH =       673
+                CPU TIME ESTIMATE =         0 SEC                I/O TIME ESTIMATE =         0 SEC
+       MINIMUM MEMORY REQUIREMENT =         3 MB                  MEMORY AVAILABLE =       230 MB
+     MEMORY REQR'D TO AVOID SPILL =         3 MB              MEMORY USED BY BEND  =         3 MB
+    EST. INTEGER MEMORY IN FACTOR =         4 MB                EST. NONZERO TERMS =       768 K TERMS
+     ESTIMATED MAXIMUM FRONT SIZE =       256 TERMS                 RANK OF UPDATE =        64
+ *** USER INFORMATION MESSAGE 6439 (DFMSA)
+     ACTUAL MEMORY AND DISK SPACE REQUIREMENTS FOR SPARSE SYM. DECOMPOSITION
+        SPARSE DECOMP MEMORY USED =         2 MB                MAXIMUM FRONT SIZE =       256 TERMS  
+         INTEGER MEMORY IN FACTOR =         1 MB           NONZERO TERMS IN FACTOR =       768 K TERMS
+   SPARSE DECOMP SUGGESTED MEMORY =         2 MB
+ *** SYSTEM INFORMATION MESSAGE 4199 (PREFACT)
+    THE ENTIRE SPARSE FACTOR HAS BEEN CACHED IN MEMORY FOR THE FBS.
+    ALL 1565 FRONTAL MATRICES ARE STORED IN MEMORY.
+    MEMORY AVAILABLE: 7 MB
+    MEMORY USED TO STORE THE ENTIRE FACTOR: 12 MB
+ *** USER INFORMATION MESSAGE 6439 (DFMSA)
+     ACTUAL MEMORY AND DISK SPACE REQUIREMENTS FOR SPARSE SYM. DECOMPOSITION
+        SPARSE DECOMP MEMORY USED =         2 MB                MAXIMUM FRONT SIZE =       256 TERMS  
+         INTEGER MEMORY IN FACTOR =         1 MB           NONZERO TERMS IN FACTOR =       768 K TERMS
+   SPARSE DECOMP SUGGESTED MEMORY =         2 MB
+ *** SYSTEM INFORMATION MESSAGE 4199 (PREFACT)
+    THE ENTIRE SPARSE FACTOR HAS BEEN CACHED IN MEMORY FOR THE FBS.
+    ALL 1565 FRONTAL MATRICES ARE STORED IN MEMORY.
+    MEMORY AVAILABLE: 7 MB
+    MEMORY USED TO STORE THE ENTIRE FACTOR: 12 MB
+ *** USER INFORMATION MESSAGE 6439 (DFMSA)
+     ACTUAL MEMORY AND DISK SPACE REQUIREMENTS FOR SPARSE SYM. DECOMPOSITION
+        SPARSE DECOMP MEMORY USED =         2 MB                MAXIMUM FRONT SIZE =       256 TERMS  
+         INTEGER MEMORY IN FACTOR =         1 MB           NONZERO TERMS IN FACTOR =       768 K TERMS
+   SPARSE DECOMP SUGGESTED MEMORY =         2 MB
+ *** SYSTEM INFORMATION MESSAGE 4199 (PREFACT)
+    THE ENTIRE SPARSE FACTOR HAS BEEN CACHED IN MEMORY FOR THE FBS.
+    ALL 1565 FRONTAL MATRICES ARE STORED IN MEMORY.
+    MEMORY AVAILABLE: 7 MB
+    MEMORY USED TO STORE THE ENTIRE FACTOR: 12 MB
+*** USER INFORMATION MESSAGE 5403 (LNNRIGL)
+    BREAKDOWN OF CPU TIME (SEC) DURING LANCZOS ITERATIONS:
+    OPERATION               REPETITIONS   AVERAGE      TOTAL
+    FBS (BLOCK SIZE=  6)            25      0.01       0.23
+    MATRIX-VECTOR MULTIPLY          53      0.01       0.31
+    SHIFT AND FACTOR                 3      0.08       0.25
+    LANCZOS RUN                      3      0.10       0.31
+ 17:18:34     0:03      546.0       306.0         2.8        1.4    XREAD   101     READ    END     
+ 17:18:34     0:03      546.0         0.0         2.8        0.0    MODERS  92      MSGHAN  BEGN    
+ 17:18:34     0:03      546.0         0.0         2.8        0.0    MODERS  151     OFP     BEGN    
+ 17:18:34     0:03      546.0         0.0         2.8        0.0    MODERS  185  (S)SESUM   BEGN    
+ 17:18:34     0:03      546.0         0.0         2.8        0.0    SEBUCKL 112     MODACC  BEGN    
+ 17:18:34     0:03      546.0         0.0         2.8        0.0    SEBUCKL 115     VDR     BEGN    
+ 17:18:34     0:03      547.0         1.0         2.8        0.0    SEBUCKL 121     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEBUCKL 129  (S)SUPER3  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  151     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  152     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  260     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  261     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  263     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  264     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  267     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  268     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  270     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  271     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  275     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  290     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  291     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  314     PVT     BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  315     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  345     SEP4    BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  430     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  481     SEDRDR  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0                            
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  560     PVT     BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  585     SEDR    BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  658     PVT     BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  761  (S)DBSETOFFBEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  763     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  781     PVT     BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  782     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  783     PVT     BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  804     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  813     LCGEN   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  839     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  841     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  842     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  843     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  844     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  845     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  851     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  855     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  860     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  861     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  862     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  865     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  866     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  867     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  873     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  890     DTIIN   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  918     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  936  (S)PBULK   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  937  (S)PBULK   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  938  (S)PBULK   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  939  (S)PBULK   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  940  (S)PBULK   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    PBULK   6       PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  942     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SUPER3  1005 (S)SEDISP  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  46      PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  47      PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  52      PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  53      PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  54      PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  55      PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  56      PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  632     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  646  (S)SEGOA   BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  655     PARAML  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  661     MODACC  BEGN    
+ 17:18:34     0:03      547.0         0.0         2.8        0.0    SEDISP  823     SDR1    BEGN    
+ 17:18:34     0:03      548.0         1.0         2.8        0.0    SEDISP  836     PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    SEDISP  972     PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    SEDISP  973     PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    SEDISP  977     UPARTN  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    SEDISP  979  (S)CFORCE  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE  7       PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE  11      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE  12      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE  18   (S)CFORCE1 BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE1 12      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE1 18      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE1 20      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE1 102  (S)XADD5   BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    XADD5   4       PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    XADD5   6       PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    XADD5   8       PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    XADD5   10      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    XADD5   12      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE  22   (S)CFORCE2 BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE2 29      PARAML  BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE2 208     DSAP    BEGN    
+ 17:18:34     0:03      548.0         0.0         2.8        0.0    CFORCE2 209     DSAP    BEGN    
+ 17:18:34     0:03      549.0         1.0         2.8        0.0    CFORCE2 221     MPYAD   BEGN    
+ 17:18:34     0:03      550.0         1.0         2.8        0.0    CFORCE2 229  (S)XADD5   BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   4       PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   6       PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   8       PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   10      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   12      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    CFORCE2 334     UMERGE  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    CFORCE2 336  (S)XADD5   BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   4       PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   6       PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   8       PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   10      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    XADD5   12      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDISP  981     PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDISP  992     COPY    BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDISP  993     COPY    BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDISP  1020 (S)SESUM   BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1052    PVT     BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1053    PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1503    PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1586    PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1681    DBC     BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1689 (S)SPEQEXINBEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SPEQEXIN21      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SPEQEXIN23      ADD5    BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SPEQEXIN26      MATMOD  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SPEQEXIN27      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1694    MODCASE BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1719    PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SUPER3  1724 (S)SEDRCVR BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 60      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 61      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 62      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 63      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 64      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 65      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 66      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 67      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 68      PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 171     PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 177     PARAML  BEGN    
+ 17:18:34     0:03      550.0         0.0         2.8        0.0    SEDRCVR 178     PARAML  BEGN    
+ 17:18:34     0:03      551.0         1.0         2.8        0.0    SEDRCVR 383     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 419     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 420  (S)TESTBIT BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 444  (S)TESTBIT BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 454  (S)TESTBIT BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 465     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 638     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 766     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 768     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 779     PVT     BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 783     PVT     BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 794     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 803     SDR2    BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 804     IMPFOUG BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 805     OFP     BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 885     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 886     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 887     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 919  (S)XOFPINDXBEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX4       OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX5       OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX6       OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX7       OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX8       OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX9       OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX10      OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX11      OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX12      OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    XOFPINDX13      OFPINDX BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 927     OFP     BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 936     PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1335    PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1378    SDRX    BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1471    PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1472    PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1473    PARAML  BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1546    SDR3    BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1547    SDR3    BEGN    
+ 17:18:34     0:03      551.0         0.0         2.8        0.0    SEDRCVR 1587    SDR3    BEGN    
+ 17:18:34     0:03      556.0         5.0         2.8        0.0    SEDRCVR 1588    SDR3    BEGN    
+ 17:18:34     0:03      556.0         0.0         2.8        0.0    SEDRCVR 1596    PARAML  BEGN    
+ 17:18:34     0:03      556.0         0.0         2.8        0.0    SEDRCVR 1711    PARAML  BEGN    
+ 17:18:34     0:03      556.0         0.0         2.8        0.0    SEDRCVR 1712    PARAML  BEGN    
+ 17:18:34     0:03      557.0         1.0         2.8        0.0    SEDRCVR 2005    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2006    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2007    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2008    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2009    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2048    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2049    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2210    OFP     BEGN    
+ 17:18:34     0:03      557.0         0.0         2.8        0.0    SEDRCVR 2228    OFP     BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.1    SEDRCVR 2238    OFP     BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2242    OFP     BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2243    OFP     BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2252    OFP     BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2255    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2257    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2258    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2389    OFP     BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2396    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2416    PARAML  BEGN    
+ 17:18:34     0:03      557.0         0.0         2.9        0.0    SEDRCVR 2426    DBC     BEGN    
+ 17:18:34     0:03      563.0         6.0         2.9        0.0    SEDRCVR 2427    DBC     BEGN    
+ 17:18:34     0:03      563.0         0.0         2.9        0.0    SEDRCVR 2428    DBC     BEGN    
+ 17:18:34     0:03      563.0         0.0         2.9        0.0    SEDRCVR 2429    DBC     BEGN    
+ 17:18:34     0:03      563.0         0.0         2.9        0.0    SEDRCVR 2436    DBC     BEGN    
+ 17:18:34     0:03      563.0         0.0         2.9        0.0    SEDRCVR 2437    DBC     BEGN    
+ 17:18:34     0:03      564.0         1.0         2.9        0.0    SUPER3  1862    PVT     BEGN    
+ 17:18:34     0:03      564.0         0.0         2.9        0.0    SEBUCKL 145  (S)PRTSUM  BEGN    
+ 17:18:34     0:03      564.0         0.0         2.9        0.0    PRTSUM  30   (S)TESTBIT BEGN    
+ 17:18:34     0:03      564.0         0.0         2.9        0.0    PRTSUM  55   (S)TESTBIT BEGN    
+ 17:18:34     0:03      564.0         0.0         2.9        0.0    PRTSUM  70      PROJVER BEGN    
+ 17:18:34     0:03      564.0         0.0         2.9        0.0    PRTSUM  71      DBDICT  BEGN    
+ 17:18:34     0:03      564.0         0.0         2.9        0.0    PRTSUM  72      PRTPARM BEGN    
+ 17:18:34     0:03      564.0         0.0         2.9        0.0    SEBUCKL 146     EXIT    BEGN    
+
+*** SUMMARY OF COMPONENT SERVICES USAGE ACTIVITY ***
+
+           SERVICE                         LOAD  IMPLEMENTATION    GENERIC             COMPONENT  
+            NAME                           COUNT    LANGUAGE     LIBRARY NAME         LIBRARY NAME 
+
+SCA.Framework.ErrorPolicyManager             1       C++         SCAKernel            SCAKernel                                 
+SCA.Framework.Logger                         1       C++         SCAKernel            SCAKernel                                 
+SCA.Framework.MessageDispatcher              37      C++         SCA/...spatcher_24_7 c:/p...amework/MessageDispatcher_24_7.dll 
+SCA.Framework.ResourceManager                1       C++         SCAKernel            SCAKernel                                 
+SCA.Framework.SecurityManager                1       C++         SCAKernel            SCAKernel                                 
+SCA.Framework.ServiceManager                 17      C++         SCAKernel            SCAKernel                                 
+SCA.Framework.SharedLibraryManager           14      C++         SCAKernel            SCAKernel                                 
+SCA.Framework.TextTranslation                3       C++         SCAKernel            SCAKernel                                 
+SCA.MDSolver.Io.AccessAccess                 11      C++         SCA/...ssAccess_24_7 c:/p.../MDSolver/Io/AccessAccess_24_7.dll 
+SCA.MDSolver.Io.UtilAccess                   6       C++         SCA/...ilAccess_24_7 c:/p...CA/MDSolver/Io/UtilAccess_24_7.dll 
+SCA.MDSolver.Obj.DataAccess                  16      C++         SCA/...taAccess_24_7 c:/p...A/MDSolver/Obj/DataAccess_24_7.dll 
+SCA.MDSolver.Obj.FileAccess                  5       C++         SCA/...leAccess_24_7 c:/p...A/MDSolver/Obj/FileAccess_24_7.dll 
+SCA.MDSolver.Obj.InputFile                   1       C++         SCA/...nputFile_24_7 c:/p...CA/MDSolver/Obj/InputFile_24_7.dll 
+SCA.MDSolver.System.MemoryManager            2       C++         SCA/...yManager_24_7 c:/p...lver/System/MemoryManager_24_7.dll 
+SCA.MDSolver.System.PrintServer              14      C++         SCA/...ntServer_24_7 c:/p...Solver/System/PrintServer_24_7.dll 
+SCA.MDSolver.Util.DML                        1       C++         SCA/...Util/Dml_24_7 c:/p...lib/SCA/MDSolver/Util/Dml_24_7.dll 
+SCA.MDSolver.Util.QueryAccess                3       C++         SCA/...ryAccess_24_7 c:/p...MDSolver/Util/QueryAccess_24_7.dll 
+SCA.MXP.MXPDOMParser                         4       C++         SCA/MXP_24_7         c:/p...20200/win64i8/lib/SCA/MXP_24_7.dll 
+SCA.Util.SystemUtils                         6       C++         SCA/...temUtils_24_7 c:/p.../lib/SCA/Util/SystemUtils_24_7.dll 
+
+ *** TOTAL MEMORY AND DISK USAGE STATISTICS ***
+
+ +---------- SPARSE SOLUTION MODULES -----------+         +------------- MAXIMUM DISK USAGE -------------+
+    HIWATER               SUB_DMAP        DMAP               HIWATER               SUB_DMAP        DMAP
+    (WORDS)       DAY_TIME     NAME      MODULE                 (MB)   DAY_TIME      NAME         MODULE
+        4349833   17:18:33    XREAD     101  READ            121.812   17:18:34    XREAD     101  READ    
+
+
+ *** DATABASE USAGE STATISTICS ***
+ 
+ +---------------- LOGICAL DBSETS ----------------+   +------------------------------ DBSET FILES -----------------------------+
+  DBSET     ALLOCATED  BLOCKSIZE       USED   USED     FILE      ALLOCATED  ALLOCATED    HIWATER       HIWATER  I/O TRANSFERRED
+             (BLOCKS)    (WORDS)   (BLOCKS)      %                (BLOCKS)       (GB)   (BLOCKS)          (GB)             (GB)
+ 
+  MASTER        25000       8192        102   0.41     MASTER        25000       1.53        115         0.007            0.013
+  DBALL        500000       8192          5   0.00     DBALL        500000      30.52          5         0.000            0.001
+  OBJSCR        25000       8192        425   1.70     OBJSCR        25000       1.53        425         0.026            0.042
+  SCRATCH     1000100       8192         44   0.00    (MEMFILE         100       0.01        100         0.006            0.000)
+                                                       SCRATCH      500000      30.52        654         0.040            0.130
+                                                       SCR300       500000      30.52        799         0.049            0.313
+                                                                                                                 ==============
+                                                                                                          TOTAL:          0.498
+ 
+ *** BUFFER POOL AND SCRATCH 300 USAGE STATISTICS ***
+ 
+ +----------------- BUFFER POOL -----------------+      +-------------------------- SCRATCH 300 --------------------------+ 
+   OPTION        BLOCKS      BLOCKS      BLOCKS           OPTION    HIWATER               SUB_DMAP        DMAP     OPN/CLS
+  SELECTED     ALLOCATED     REUSED     RELEASED         SELECTED  (BLOCKS)   DAY_TIME      NAME         MODULE    COUNTER
+   BPOOL4           150       44582        8777              2         799    17:18:34    XREAD     101  READ          3
+
+
+ *** SUMMARY OF PHYSICAL FILE I/O ACTIVITY ***
+
+ ASSIGNED PHYSICAL FILE NAME                                   RECL (BYTES)  READ/WRITE COUNTS   WSIZE  (WNUM)  MAP-I/O CNT
+ ------------------------------------------------------------  -----------  -------------------  -------------  -----------
+ c:/.../nastran-patran/cono_fem_buckling.T9044_26.SCRATCH            65536       1288/841           256KB ( 4)          658 (M)
+ c:/.../nastran-patran/cono_fem_buckling.T9044_26.OBJSCR             65536        260/433           256KB ( 4)          271 (M)
+ c:/.../nastran-patran/cono_fem_buckling.T9044_26.MASTER             65536         77/130           256KB ( 4)           66 (M)
+ c:/.../nastran-patran/cono_fem_buckling.T9044_26.DBALL              65536          4/8             256KB ( 4)            3 (M)
+ c:/.../nastran-patran/cono_fem_buckling.T9044_26.SCR300             65536       3028/2097          256KB ( 4)         1447 (M)
+ c:/program files/.../nastran/msc20200/win64i8/SSS.MASTERA           65536        107/0            N/A            N/A          
+ c:/program files/.../nastran/msc20200/win64i8/SSS.MSCOBJ            65536        764/0            N/A            N/A          
+ 
+
+ ASSIGNED PHYSICAL FILE NAME            FORM    RECL (BYTES) SIZE (BLOCKS) FLAGS   READ/WRITE COUNTS   WSIZE  (WNUM)  MAP-I/O CNT
+ -------------------------------------  ------  -----------  ------------  -----  -------------------  -------------  -----------
+ ./cono_fem_buckling.xdb                LTLEND         8192           382  M            165/424           128KB ( 4)           31 (M)
+
+    FLAG VALUES ARE --
+      M   FILE MAPPING USED TO PROCESS FILE
+      R   FILE BEING ACCESSED IN 'RAW' MODE
+ 

@@ -1,0 +1,26 @@
+/* Options File */
+STEP;
+HEADER;
+FILE_DESCRIPTION(('''
+User Options for importing/exporting files between MSC.Patran and MSC.Patran
+'''));
+FILE_NAME('express.opt','''Thursday, 25 November 2021, 21:13:35
+(Thursday, 25 November 2021, 21:13:35 Greenwich)''',('''MSC.Patran'''),
+('''MSC.Software'''),
+('''The MSC.Software Corp, PATRAN Procedural Interface, Version 1.0'''));
+FILE_SCHEMA('MSC_Express_NeutralFile_V1');
+ENDSEC;
+DATA;
+#1 = FILE( .IMPORT., .STEP., .ASCII_TEXT. );
+#2 = PREFERENCE( .GENERAL_AND_SIMPLE_TRIMMED_SURFACES., .NO_PREFERENCE., 
+.B_REP_SOLIDS_W_PSOLID_CONVERT. );
+#3 = GLOBAL_TRANSFORMATION( ( 1.000000000000E+00, 0.000000000000E+00, 
+0.000000000000E+00, 0.000000000000E+00, 0.000000000000E+00, 
+1.000000000000E+00, 0.000000000000E+00, 0.000000000000E+00, 
+0.000000000000E+00, 0.000000000000E+00, 1.000000000000E+00, 0.000000000000E+00
+ ) );
+#4 = ENTITY_TYPE_LIST( .T., $ );
+#5 = LAYER_LIST( .T., $ );
+#6 = COLOR_LIST( .T., $ );
+ENDSEC;
+ENDSTEP;
