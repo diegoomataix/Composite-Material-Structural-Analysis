@@ -1,4 +1,4 @@
-$ MSC.Nastran input file created on November  30, 2021 at 19:43:48 by
+$ MSC.Nastran input file created on November  30, 2021 at 20:55:31 by
 $ Patran 2020  (Student Edition)
 $ Direct Text Input for Nastran System Cell Section
 $ Direct Text Input for File Management Section
@@ -35,8 +35,6 @@ $ Elements and Element Properties for region : Shell_C_0
 $ Composite Property Reference Material: Laminate_C_0
 $ Composite Material Description :
 PCOMP    2                       .089    HILL
-         2       .183    0.      YES     2       .183    0.      YES
-         2       .183    0.      YES     2       .183    0.      YES
          2       .183    0.      YES     2       .183    0.      YES
          2       .183    0.      YES     2       .183    0.      YES
          2       .183    0.      YES     2       .183    0.      YES
@@ -1561,7 +1559,6 @@ PCOMP    4                       .089    HILL
          4       .183    0.      YES     4       .183    0.      YES
          4       .183    0.      YES     4       .183    0.      YES
          4       .183    0.      YES     4       .183    0.      YES
-         4       .183    0.      YES     4       .183    0.      YES
 $ Pset: "Shell_T_0" will be imported as: "pcomp.4"
 CTRIA3   5       4       17      13      15
 CTRIA3   7       4       31      25      24
@@ -1683,7 +1680,6 @@ PCOMP    6                       .089    HILL
          2       .183    90.     YES     2       .183    90.     YES
          4       .183    0.      YES     2       .183    90.     YES
          2       .183    90.     YES     4       .183    0.      YES
-         2       .183    90.     YES     2       .183    90.     YES
 $ Pset: "Shell_CT_0_90" will be imported as: "pcomp.6"
 CQUAD4   1       6       4       3       2       1
 CQUAD4   19      6       47      48      45      46
@@ -1737,14 +1733,6 @@ PCOMP    3                       .089    HILL
 *        2               .183            33.299999       YES
 *        2               .183            0.              YES
 *        2               .183            33.299999       YES
-*        2               .183            0.              YES
-*        2               .183            33.299999       YES
-*        2               .183            0.              YES
-*        2               .183            33.299999       YES
-*        2               .183            0.              YES
-*        2               .183            33.299999       YES
-*        2               .183            0.              YES
-*        2               .183            33.299999       YES
 $ Pset: "Shell_CC_33.3" will be imported as: "pcomp.3"
 CQUAD4   26      3       63      64      66      65
 CQUAD4   240     3       439     440     442     441
@@ -1762,10 +1750,6 @@ $ Elements and Element Properties for region : Shell_CC_57.5
 $ Composite Property Reference Material: Laminate_CC_57.5
 $ Composite Material Description :
 PCOMP    5                       .089    HILL
-         2       .183    0.      YES     2       .183    57.5    YES
-         2       .183    0.      YES     2       .183    57.5    YES
-         2       .183    0.      YES     2       .183    57.5    YES
-         2       .183    0.      YES     2       .183    57.5    YES
          2       .183    0.      YES     2       .183    57.5    YES
          2       .183    0.      YES     2       .183    57.5    YES
          2       .183    0.      YES     2       .183    57.5    YES
@@ -1801,14 +1785,6 @@ PCOMP    9                       .089    HILL
 *        2               .183            60.900002       YES
 *        2               .183            0.              YES
 *        2               .183            60.900002       YES
-*        2               .183            0.              YES
-*        2               .183            60.900002       YES
-*        2               .183            0.              YES
-*        2               .183            60.900002       YES
-*        2               .183            0.              YES
-*        2               .183            60.900002       YES
-*        2               .183            0.              YES
-*        2               .183            60.900002       YES
 $ Pset: "Shell_CC_60.9" will be imported as: "pcomp.9"
 CQUAD4   24      9       58      57      55      56
 CQUAD4   238     9       434     433     431     432
@@ -1824,46 +1800,29 @@ CQUAD4   2164    9       3818    3817    3815    3816
 CQUAD4   2378    9       4194    4193    4191    4192
 $ Elements and Element Properties for region : Shell_CT_0_55
 $ Composite Property Reference Material: Laminate_CT_0_55
-$ Composite Material Description : C,T
-$ ______
-$ 0,55
-$ 0,55...
+$ Composite Material Description : T,C (0,55,0,55,55;0,55...)
+$ _____
 PCOMP    7                       .089    HILL
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
-         2       .183    0.      YES     4       .183    55.     YES
+         4       .183    0.      YES     2       .183    55.     YES
+         4       .183    0.      YES     2       .183    55.     YES
+         2       .183    55.     YES     4       .183    0.      YES
+         2       .183    55.     YES     4       .183    0.      YES
+         2       .183    55.     YES     2       .183    55.     YES
+         4       .183    0.      YES     2       .183    55.     YES
+         4       .183    0.      YES     2       .183    55.     YES
 $ Pset: "Shell_CT_0_55" will be imported as: "pcomp.7"
 CQUAD4   6       7       18      17      15      19
-CQUAD4   14      7       33      24      25      32
 CQUAD4   220     7       394     393     36      395
-CQUAD4   228     7       409     400     401     408
 CQUAD4   434     7       770     769     412     771
-CQUAD4   442     7       785     776     777     784
 CQUAD4   648     7       1146    1145    788     1147
-CQUAD4   656     7       1161    1152    1153    1160
 CQUAD4   862     7       1522    1521    1164    1523
-CQUAD4   870     7       1537    1528    1529    1536
 CQUAD4   1076    7       1898    1897    1540    1899
-CQUAD4   1084    7       1913    1904    1905    1912
 CQUAD4   1290    7       2274    2273    1916    2275
-CQUAD4   1298    7       2289    2280    2281    2288
 CQUAD4   1504    7       2650    2649    2292    2651
-CQUAD4   1512    7       2665    2656    2657    2664
 CQUAD4   1718    7       3026    3025    2668    3027
-CQUAD4   1726    7       3041    3032    3033    3040
 CQUAD4   1932    7       3402    3401    3044    3403
-CQUAD4   1940    7       3417    3408    3409    3416
 CQUAD4   2146    7       3778    3777    3420    3779
-CQUAD4   2154    7       3793    3784    3785    3792
 CQUAD4   2360    7       4154    4153    3796    4155
-CQUAD4   2368    7       4169    4160    4161    16
 $ Elements and Element Properties for region : Shell_CTC_0_90_24.1
 $ Composite Property Reference Material: Laminate_CTC_0_90_24.1
 $ Composite Material Description : C, T, C, C
@@ -1883,11 +1842,6 @@ PCOMP    1                       .089    HILL
 *        2               .183            -24.1           YES
 *        2               .183            -155.89999      YES
          2       .183    0.      YES     4       .183    90.     YES
-*        2               .183            -24.1           YES
-*        2               .183            -155.89999      YES
-         2       .183    0.      YES     2       .183    -24.1   YES
-*        2               .183            -155.89999      YES
-*        2               .183            0.              YES
 *        2               .183            -24.1           YES
 *        2               .183            -155.89999      YES
          2       .183    0.      YES     2       .183    -24.1   YES
@@ -1948,10 +1902,6 @@ PCOMP    8                       .089    HILL
          2       .183    -29.    YES     2       .183    -151.   YES
          2       .183    0.      YES     4       .183    90.     YES
          2       .183    -29.    YES     2       .183    -151.   YES
-         2       .183    0.      YES     4       .183    90.     YES
-         2       .183    -29.    YES     2       .183    -151.   YES
-         2       .183    0.      YES     2       .183    -29.    YES
-         2       .183    -151.   YES
 $ Pset: "Shell_CTC_0_90_29" will be imported as: "pcomp.8"
 CQUAD4   3       8       11      10      9       12
 CQUAD4   17      8       37      39      40      38
@@ -2119,7 +2069,6 @@ PCOMP    12                      .089    HILL
          4       .183    0.      YES     4       .183    0.      YES
          4       .183    0.      YES     4       .183    0.      YES
          4       .183    0.      YES     4       .183    0.      YES
-         4       .183    0.      YES
 $ Pset: "Shell_T_0_Int_Bot" will be imported as: "pcomp.12"
 CQUAD4   201     12      40      353     359     38
 CQUAD4   202     12      353     354     360     359
@@ -2207,21 +2156,15 @@ CQUAD4   2560    12      4493    4494    4500    4499
 CQUAD4   2561    12      4494    3799    3797    4500
 $ Elements and Element Properties for region : Shell_CT_0_90_Bot
 $ Composite Property Reference Material: Laminate_CT_0_90_Bot
-$ Composite Material Description : T, C
-$ ______
-$ 0,90,
-$ 0,90,..
+$ Composite Material Description : T, C (0,90,0,90,90,0,90,0,90,90.
 PCOMP    13                      .089    HILL
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
-         4       .183    0.      YES     2       .183    90.     YES
+         2       .183    0.      YES     4       .183    90.     YES
+         2       .183    0.      YES     4       .183    90.     YES
+         4       .183    90.     YES     2       .183    0.      YES
+         4       .183    90.     YES     2       .183    0.      YES
+         4       .183    90.     YES     4       .183    90.     YES
+         2       .183    0.      YES     4       .183    90.     YES
+         2       .183    0.      YES     4       .183    90.     YES
 $ Pset: "Shell_CT_0_90_Bot" will be imported as: "pcomp.13"
 CQUAD4   4       13      15      13      14      16
 CQUAD4   16      13      36      35      34      32
@@ -2235,6 +2178,31 @@ CQUAD4   1514    13      2668    2667    2666    2664
 CQUAD4   1728    13      3044    3043    3042    3040
 CQUAD4   1942    13      3420    3419    3418    3416
 CQUAD4   2156    13      3796    3795    3794    3792
+$ Elements and Element Properties for region : Shell_CT_0_55_Flipped
+$ Composite Property Reference Material: Laminate_CT_0_55_Flipped
+$ Composite Material Description : T,C (0,55,0,55,55;0,55...)
+$ _____
+PCOMP    14                      .089    HILL
+         4       .183    0.      YES     2       .183    -55.    YES
+         4       .183    0.      YES     2       .183    -55.    YES
+         2       .183    -55.    YES     4       .183    0.      YES
+         2       .183    -55.    YES     4       .183    0.      YES
+         2       .183    -55.    YES     2       .183    -55.    YES
+         4       .183    0.      YES     2       .183    -55.    YES
+         4       .183    0.      YES     2       .183    -55.    YES
+$ Pset: "Shell_CT_0_55_Flipped" will be imported as: "pcomp.14"
+CQUAD4   14      14      33      24      25      32
+CQUAD4   228     14      409     400     401     408
+CQUAD4   442     14      785     776     777     784
+CQUAD4   656     14      1161    1152    1153    1160
+CQUAD4   870     14      1537    1528    1529    1536
+CQUAD4   1084    14      1913    1904    1905    1912
+CQUAD4   1298    14      2289    2280    2281    2288
+CQUAD4   1512    14      2665    2656    2657    2664
+CQUAD4   1726    14      3041    3032    3033    3040
+CQUAD4   1940    14      3417    3408    3409    3416
+CQUAD4   2154    14      3793    3784    3785    3792
+CQUAD4   2368    14      4169    4160    4161    16
 $ Referenced Material Records
 $ Material Record : IM7_C
 $ Description of Material : Date: 28-Nov-21           Time: 22:04:13
@@ -8966,4 +8934,4 @@ SPC1     4       12      1916
 $ Nodal Forces of Load Set : Force_15kN
 FORCE    1       7000    0       15.     0.      0.      -1.
 $ Referenced Coordinate Frames
-ENDDATA 73d88064
+ENDDATA 25e77577
